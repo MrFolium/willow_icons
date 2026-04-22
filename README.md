@@ -13,6 +13,12 @@ The goal is to build a clean and predictable icon system rather than a random co
 
 ---
 
+## 🤝 Contribution
+
+Contributions are welcome! If you want to add a new icon or suggest an improvement, please read our [Contributing Guidelines](CONTRIBUTING.md) first to ensure your design matches the system rules.
+
+---
+
 ## ⚖️ License
 
 This project is licensed under the MIT License.
