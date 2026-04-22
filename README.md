@@ -1,7 +1,5 @@
 # Willow Icons
 
-## ✨ Preview
-
 ![Preview](preview/preview.png)
 
 ---
