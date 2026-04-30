@@ -1,19 +1,6 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" rx="6" fill="#428AA3"/>
-<g filter="url(#filter0_d_101_1128)">
-<path d="M6.93294 13.7331C8.22161 13.7331 9.26628 12.6884 9.26628 11.3997C9.26628 10.1111 8.22161 9.06641 6.93294 9.06641C5.64428 9.06641 4.59961 10.1111 4.59961 11.3997C4.59961 12.6884 5.64428 13.7331 6.93294 13.7331Z" fill="#B8A64F"/>
-<path d="M10.4336 16.0661L18.6003 7.89941" stroke="#F4F5F7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<defs>
-<filter id="filter0_d_101_1128" x="4.59961" y="6.69922" width="16.0012" height="11.3664" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="0.4" dy="0.4"/>
-<feGaussianBlur stdDeviation="0.2"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_101_1128"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_101_1128" result="shape"/>
-</filter>
-</defs>
+<rect width="24" height="24" rx="6" fill="#32363B"/>
+<path d="M18.6358 11.9673C18.6358 15.6497 15.6506 18.6348 11.9683 18.6348C8.28592 18.6348 5.30078 15.6497 5.30078 11.9673C5.30078 8.28494 8.28592 5.2998 11.9683 5.2998C15.6506 5.2998 18.6358 8.28494 18.6358 11.9673ZM7.6344 11.9673C7.6344 14.3608 9.57474 16.3012 11.9683 16.3012C14.3618 16.3012 16.3021 14.3608 16.3021 11.9673C16.3021 9.57377 14.3618 7.63343 11.9683 7.63343C9.57474 7.63343 7.6344 9.57377 7.6344 11.9673Z" fill="#5F97C9"/>
+<path d="M19.0679 6.9379C19.379 7.24898 19.3788 7.75339 19.0675 8.06422L12.5647 14.5569C12.2537 14.8674 11.75 14.8672 11.4392 14.5565L10.0666 13.1839L9.09255 12.2098C8.7819 11.8991 8.78161 11.3955 9.09192 11.0845L9.79939 10.3755C10.1102 10.064 10.6148 10.0637 10.9259 10.3748L11.3397 10.7886C11.6504 11.0994 12.1542 11.0996 12.4652 10.7891L17.1332 6.12825C17.4442 5.81776 17.9479 5.81795 18.2587 6.12869L19.0679 6.9379Z" fill="#5F97C9"/>
+<path d="M16.33 6.92676C17.0289 7.53244 17.6005 8.28109 17.9994 9.12716L16.1781 10.9456C15.9492 9.99828 15.409 9.17242 14.6719 8.58229L16.33 6.92676Z" fill="#3F79AD"/>
 </svg>
