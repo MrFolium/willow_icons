@@ -26,7 +26,7 @@ All contributors retain authorship attribution.
 - Elements must be aligned to the grid and centered.
 
 ### 4. Naming convention
-- Use prefix-based naming (e.g., `apps_`, `sys_`).
+- Use prefix-based naming (e.g., `app_`, `sys_`).
 - **Lowercase only**, underscores allowed.
 - No spaces or mixed casing.
 
@@ -61,6 +61,3 @@ The design system is allowed to evolve, but changes must be intentional.
 
 ---
 
-## Third-party material
-
-Some assets in this project originate from **Papirus Android Icons** and must be properly attributed according to **Apache License 2.0** requirements.

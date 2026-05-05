@@ -23,6 +23,4 @@ Contributions are welcome! If you want to add a new icon or suggest an improveme
 
 This project is licensed under the MIT License.
 
-Some icons are based on external sources (such as Papirus Android Icons) and retain their original licensing terms.
-
-See NOTICE for details.
+See [NOTICE](NOTICE)  for details.
