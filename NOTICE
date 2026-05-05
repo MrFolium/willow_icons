@@ -9,14 +9,7 @@ This repository contains assets from multiple sources:
    - Created by @MrFolium
    - Licensed under MIT License
 
-2. Derived icons
-   - Based on Papirus Android Icons
-   - Source: https://github.com/miraficus/papirus_android_icons
-   - Upstream: https://github.com/PapirusDevelopmentTeam/papirus_icons
-   - Original assets are licensed under Apache License 2.0
-   - These icons have been modified and included in this repository with attribution
-
-3. Third-party contributors
+2. Third-party contributors
    - Icons contributed via pull requests
    - Each contributor retains authorship attribution
    - Contributions are licensed under MIT License upon inclusion in this repository
