@@ -1,0 +1,338 @@
+<resources>
+
+  <item component="ComponentInfo{ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="app_2gis" />
+
+  <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="app_aegis" />
+
+  <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="app_google_authenticator" />
+
+  <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator2.main.MainActivity}" drawable="app_microsoft_authenticator" />
+
+  <item component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}" drawable="app_bitwarden" />
+
+  <item component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" drawable="app_briar" />
+
+  <item component="ComponentInfo{com.facebook.pages.app/com.facebook.pages.app.auth.PagesManagerLoginActivity}" drawable="app_meta_business_suite" />
+
+  <item component="ComponentInfo{com.lemon.lvoverseas/com.vega.main.MainActivity}" drawable="app_capcut" />
+
+  <item component="ComponentInfo{com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity}" drawable="app_google_chat" />
+
+  <item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="app_chat_gpt" />
+
+  <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="app_google_chrome" />
+
+  <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="app_google_chrome" />
+
+  <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="app_google_chrome" />
+  
+  <item component="ComponentInfo{com.anthropic.claude/com.anthropic.claude.mainactivity.MainActivity}" drawable="app_claude" />
+
+  <item component="ComponentInfo{com.huawei.hidisk/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingAliasActivity}" drawable="app_claude" />
+
+  <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="app_claude" />
+
+  <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="app_discord" />
+
+  <item component="ComponentInfo{com.dd.doordash/com.doordash.consumer.ui.login.LauncherActivity}" drawable="app_doordash" />
+  
+  <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="app_duolingo" />
+
+  <item component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}" drawable="app_microsoft_edge" />
+
+  <item component="ComponentInfo{com.microsoft.emmx.beta/com.microsoft.ruby.Main}" drawable="app_microsoft_edge" />
+
+  <item component="ComponentInfo{com.microsoft.emmx.canary/com.microsoft.ruby.Main}" drawable="app_microsoft_edge" />
+
+  <item component="ComponentInfo{com.microsoft.emmx.dev/com.microsoft.ruby.Main}" drawable="app_microsoft_edge" />
+
+  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="app_microsoft_excel" />
+
+  <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="app_fdroid" />
+
+  <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="app_facebook" />
+
+  <item component="ComponentInfo{com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity}" drawable="app_google_family_link" />
+
+  <item component="ComponentInfo{com.figma.mirror/com.figma.figma.MainActivity}" drawable="app_figma" />
+
+  <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="app_google_files" />
+
+  <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="app_firefox" />
+
+  <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="app_firefox_focus" />
+
+  <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="sys_google_gboard" />
+
+  <item component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}" drawable="app_google_gemini" />
+
+  <item component="ComponentInfo{com.github.android/com.github.android.main.MainActivity}" drawable="app_github" />
+
+  <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="app_google_gmail" />
+
+  <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="app_google_app" />
+
+  <item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.flutter.EarthFlutterActivity}" drawable="app_google_earth" />
+
+  <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="app_google_fit" />
+
+  <item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="app_google_go" />
+
+  <item component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}" drawable="app_google_one" />
+
+  <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="sys_google_play_market" />
+
+  <item component="ComponentInfo{com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity}" drawable="app_google_ads" />
+
+  <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="app_google_home" />
+
+  <item component="ComponentInfo{com.imo.android.imoim/com.imo.android.imoim.home.Home}" drawable="app_imo" />
+
+  <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="app_instagram" />
+
+  <item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="app_instagram_lite" />
+ 
+  <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.ui.MainActivity}" drawable="app_kde_connect" />
+
+  <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivityDefault}" drawable="app_linkedin" />
+
+  <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="app_facebook_lite" />
+
+  <item component="ComponentInfo{me.proton.android.lumo/me.proton.android.lumo.MainActivity}" drawable="app_proton_lumo" />
+
+  <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="app_microsoft_copilot" />
+
+  <item component="ComponentInfo{com.google.android.apps.mapslite/com.google.maps.lite.twa.MapsLiteTwaLauncherActivity}" drawable="app_google_maps" />
+
+  <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="app_meta_messenger" />
+
+  <item component="ComponentInfo{com.microsoft.bingwebmastertools.twa/com.microsoft.bingwebmastertools.twa.LauncherActivity}" drawable="app_microsoft_bing" />
+
+  <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}" drawable="app_microsoft_launcher" />
+  
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.NoxIcon}" drawable="app_nekogram_light" />
+
+  <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="app_netflix" />
+
+  <item component="ComponentInfo{com.google.android.apps.labs.language.tailwind/com.google.android.apps.labs.language.tailwind.MainActivityDev}" drawable="app_google_notebooklm" />
+
+  <item component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}" drawable="app_obsidian" />
+
+  <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="app_microsoft_onedrive" />
+
+  <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="app_microsoft_onenote" />
+
+  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="app_microsoft_outlook" />
+
+  <item component="ComponentInfo{ru.ozon.app.android/ru.ozon.app.android.ui.start.AppHostActivity}" drawable="app_ozon" />
+
+  <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}" drawable="app_google_photomath" />
+
+  <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="app_pinterest" />
+
+  <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="app_google_play_games" />
+
+  <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="app_google_play_books" />
+
+  <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="app_microsoft_powerpoint" />
+
+  <item component="ComponentInfo{proton.android.authenticator/proton.android.authenticator.app.ui.MainActivity}" drawable="app_proton_authenticator" />
+
+  <item component="ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}" drawable="app_proton_calendar" />
+
+  <item component="ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}" drawable="app_proton_drive" />
+
+  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.RoutingActivity}" drawable="app_proton_mail" />
+
+  <item component="ComponentInfo{proton.android.meet/proton.android.meet.activity.MainActivity}" drawable="app_proton_meet" />
+
+  <item component="ComponentInfo{proton.android.pass/proton.android.pass.ui.MainActivity}" drawable="app_proton_pass" />
+
+  <item component="ComponentInfo{ch.protonvpn.android/ch.protonvpn.android.RoutingActivity}" drawable="app_proton_vpn" />
+
+  <item component="ComponentInfo{me.proton.wallet.android/me.proton.wallet.android.activity.MainActivity}" drawable="app_proton_wallet" />
+
+  <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="app_readera" />
+
+  <item component="ComponentInfo{com.reddit.frontpage/launcher.default}" drawable="app_reddit" />
+
+  <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="app_signal" />
+
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sys_sim_menu" />
+
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sys_sim_menu" />
+
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="app_snapchat" />
+
+  <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="app_google_snapseed" />
+
+  <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity}" drawable="app_soundcloud" />
+  
+  <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="app_spotify" />
+
+  <item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="app_microsoft_teams" />
+
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="app_telegram" />
+  
+  <item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}" drawable="app_threads" />
+
+  <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="app_tiktok" />
+
+  <item component="ComponentInfo{com.zhiliaoapp.musically.go/com.zhiliaoapp.musically.go.mini.MainActivity}" drawable="app_tiktok_lite" />
+
+  <item component="ComponentInfo{com.tinder/com.tinder.launch.internal.activities.LoginActivity}" drawable="app_tinder" />
+  app_
+  <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="app_microsoft_to_do" />
+
+  <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="app_tumblr" />
+
+  <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="app_twitch" />
+
+  <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="app_uber" />
+  
+  <item component="ComponentInfo{com.sosauce.cutecalc/com.sosauce.vanilla.MainActivity}" drawable="app_vanilla_calc" />
+
+  <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="app_viber" />
+
+  <item component="ComponentInfo{com.facebook.viewpoints/com.facebook.anna.app.activities.MainActivity}" drawable="app_viewpoints" />
+
+  <item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="app_vk" />
+
+  <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="app_vlc" />
+
+  <item component="ComponentInfo{com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity}" drawable="app_google_voice_access" />
+
+  <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="app_whatsapp_business" />
+
+  <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="app_whatsapp" />
+
+  <item component="ComponentInfo{com.wildberries.ru/ru.wildberries.SplashActivity}" drawable="app_wildberries" />
+
+  <item component="ComponentInfo{com.microsoft.rdc.androidx/com.microsoft.windowsapp.ui.HomeActivity}" drawable="app_microsoft_windows_app" />
+
+  <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="app_microsoft_word" />
+
+  <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="app_x" />
+
+  <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.LauncherActivity}" drawable="app_microsoft_xbox" />
+
+  <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="app_google_youtube" />
+
+  <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="app_google_ytmusic" />
+
+  <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="app_zoom" />
+
+  <item component="ComponentInfo{com.yandex.aliceapp/com.yandex.aliceapp.ui.MainActivity}" drawable="app_yandex_alice" />
+
+  <item component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.app.RemoteControllerActivity}" drawable="sys_romote" />
+
+  <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="sys_gallery" />
+
+  <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="app_google_gallery" />
+
+  <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecordListActivity}" drawable="sys_dictaphone" />
+
+  <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_drive" />
+
+  <item component="ComponentInfo{ru.yandex.disk/ru.yandex.disk.DefaultIcon}" drawable="app_yandex_disk" />
+
+  <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_docs" />
+
+  <item component="ComponentInfo{com.yandex.mobile.drive/com.yandex.mobile.drive.Container}" drawable="app_yandex_drive" />
+
+  <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="app_google_tasks" />
+
+  <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="app_google_keep" />
+
+  <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="app_google_calendar" />
+
+  <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="app_google_calc" />
+  
+  <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="sys_camera" />
+
+  <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="app_google_maps" />
+
+  <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="app_yandex_maps" />
+
+  <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.DefaultAlias}" drawable="app_yandex_kinopoisk" />
+
+  <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}" drawable="app_microsoft_swiftkey" />
+
+  <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.classroomflutter.MainActivity}" drawable="app_google_class" />
+
+  <item component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}" drawable="sys_compass" />
+
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_contacts" />
+  
+  <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_google_contacts" />
+
+  <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="sys_music" />
+
+  <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="app_yandex_navigator" />
+
+  <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="sys_settings" />
+  
+  <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="app_google_news" />\
+
+  <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="app_google_lens" />
+
+  <item component="ComponentInfo{com.google.android.apps.credentialmanager/com.google.android.apps.credentialmanager.launcher.LauncherActivity}" drawable="app_google_password_manager" />\
+
+  <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="app_google_translate" />
+
+  <item component="ComponentInfo{ru.yandex.translate/ru.yandex.translate.ui.activities.MainActivity}" drawable="app_yandex_translate" />
+
+  <item component="ComponentInfo{org.breezyweather/org.breezyweather.ui.main.MainActivity}" drawable="app_breezy_weather" />
+
+  <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="sys_google_find_my_device" />
+
+  <item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="app_yandex_mail" />
+
+  <item component="ComponentInfo{com.fsck.k9/net.thunderbird.app.common.MainActivity}" drawable="app_k9_mail" />
+
+  <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_slides" />
+
+  <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="app_microsoft_link_to_windows" />
+
+  <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="sys_google_messages" />
+
+  <item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="app_google_youtube_studio" />
+
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="sys_phone" />
+
+  <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity}" drawable="sys_themes" />
+
+  <item component="ComponentInfo{com.google.chromeremotedesktop/com.google.remoting.androidwrapper.MainActivity}" drawable="app_google_cast" />
+
+  <item component="ComponentInfo{com.yandex.iot/com.yandex.iot.activity.presentation.IotActivity}" drawable="app_yandex_home" />
+
+  <item component="ComponentInfo{com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.ui.SoundAmplifierSettingActivity}" drawable="app_google_sound_amplifier" />
+
+  <item component="ComponentInfo{com.huawei.filemanager/com.huawei.hidisk.filemanager.FileManager}" drawable="sys_files" />
+
+  <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="app_google_photos" />
+  
+  <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="sys_clock" />
+
+  <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="sys_clock" />
+
+  <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.main.MainScreenActivity}" drawable="app_yandex_music" />
+
+  <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.common.activity.SplashActivity}" drawable="app_yandex_weather" />
+
+  <item component="ComponentInfo{com.yandex.searchapp/ru.yandex.searchplugin.MainActivity}" drawable="app_icon_request_51" />
+
+  <item component="ComponentInfo{com.yandex.searchapp.beta/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_app" />
+
+  <item component="ComponentInfo{com.yandex.browser.lite/com.yandex.browser.lite.mainactivity.MainActivity}" drawable="app_yandex_app" />
+
+  <item component="ComponentInfo{com.yandex.browser.alpha/com.yandex.browser.YandexBrowserActivity}" drawable="app_yandex_browser" />
+
+  <item component="ComponentInfo{com.yandex.browser.beta/com.yandex.browser.YandexBrowserActivity}" drawable="app_yandex_browser" />
+
+  <item component="ComponentInfo{ru.plus.bookmate/com.bookmate.DefaultIcon}" drawable="app_yandex_browser" />
+
+  <item component="ComponentInfo{ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_books" />
+
+  <item component="ComponentInfo{ru.yandex.taxi/com.yandex.go.activity.alias.DefaultMainActivityAlias}" drawable="app_yandex_go" />
+</resources>
