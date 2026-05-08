@@ -4,9 +4,9 @@
 
   <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="app_aegis" />
 
-  <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="app_google_authenticator" />
+  <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="app_microsoft_authenticator" />
 
-  <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator2.main.MainActivity}" drawable="app_microsoft_authenticator" />
+  <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator2.main.MainActivity}" drawable="app_google_authenticator" />
 
   <item component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}" drawable="app_bitwarden" />
 
@@ -28,9 +28,9 @@
   
   <item component="ComponentInfo{com.anthropic.claude/com.anthropic.claude.mainactivity.MainActivity}" drawable="app_claude" />
 
-  <item component="ComponentInfo{com.huawei.hidisk/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingAliasActivity}" drawable="app_claude" />
+  <item component="ComponentInfo{com.huawei.hidisk/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingAliasActivity}" drawable="sys_claud" />
 
-  <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="app_claude" />
+  <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="app_microsoft_copilot" />
 
   <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="app_discord" />
 
@@ -181,7 +181,7 @@
   <item component="ComponentInfo{com.zhiliaoapp.musically.go/com.zhiliaoapp.musically.go.mini.MainActivity}" drawable="app_tiktok_lite" />
 
   <item component="ComponentInfo{com.tinder/com.tinder.launch.internal.activities.LoginActivity}" drawable="app_tinder" />
-  app_
+  
   <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="app_microsoft_to_do" />
 
   <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="app_tumblr" />
@@ -224,7 +224,7 @@
 
   <item component="ComponentInfo{com.yandex.aliceapp/com.yandex.aliceapp.ui.MainActivity}" drawable="app_yandex_alice" />
 
-  <item component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.app.RemoteControllerActivity}" drawable="sys_romote" />
+  <item component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.app.RemoteControllerActivity}" drawable="sys_remote" />
 
   <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="sys_gallery" />
 
@@ -320,7 +320,7 @@
 
   <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.common.activity.SplashActivity}" drawable="app_yandex_weather" />
 
-  <item component="ComponentInfo{com.yandex.searchapp/ru.yandex.searchplugin.MainActivity}" drawable="app_icon_request_51" />
+  <item component="ComponentInfo{com.yandex.searchapp/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_app" />
 
   <item component="ComponentInfo{com.yandex.searchapp.beta/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_app" />
 
@@ -330,9 +330,9 @@
 
   <item component="ComponentInfo{com.yandex.browser.beta/com.yandex.browser.YandexBrowserActivity}" drawable="app_yandex_browser" />
 
-  <item component="ComponentInfo{ru.plus.bookmate/com.bookmate.DefaultIcon}" drawable="app_yandex_browser" />
+  <item component="ComponentInfo{ru.plus.bookmate/com.bookmate.DefaultIcon}" drawable="app_yandex_books" />
 
-  <item component="ComponentInfo{ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_books" />
+  <item component="ComponentInfo{ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_app" />
 
   <item component="ComponentInfo{ru.yandex.taxi/com.yandex.go.activity.alias.DefaultMainActivityAlias}" drawable="app_yandex_go" />
 </resources>
