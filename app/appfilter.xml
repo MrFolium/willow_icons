@@ -1,305 +1,455 @@
 <resources>
 
+  <!-- 2GIS -->
   <item component="ComponentInfo{ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="app_2gis" />
 
+  <!-- Aegis -->
   <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="app_aegis" />
 
   <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="app_microsoft_authenticator" />
-
+  
+  <!-- Google Authenticator -->
   <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator2.main.MainActivity}" drawable="app_google_authenticator" />
 
+  <!-- Bitwarden -->
   <item component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}" drawable="app_bitwarden" />
 
+  <!-- Briar -->
   <item component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" drawable="app_briar" />
 
+  <!-- Meta Business Suite -->
   <item component="ComponentInfo{com.facebook.pages.app/com.facebook.pages.app.auth.PagesManagerLoginActivity}" drawable="app_meta_business_suite" />
 
+  <!-- CapCut -->
   <item component="ComponentInfo{com.lemon.lvoverseas/com.vega.main.MainActivity}" drawable="app_capcut" />
 
+  <!-- Google Chat -->
   <item component="ComponentInfo{com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity}" drawable="app_google_chat" />
 
+  <!-- ChatGpt -->
   <item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="app_chat_gpt" />
 
+  <!-- Google Chrome -->
   <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="app_google_chrome" />
 
+  <!-- Google Crome Beta-->
   <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="app_google_chrome" />
 
+  <!-- Google Chrome Dev -->
   <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="app_google_chrome" />
   
+  <!-- Claude -->
   <item component="ComponentInfo{com.anthropic.claude/com.anthropic.claude.mainactivity.MainActivity}" drawable="app_claude" />
 
+  <!-- Copilot -->
   <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="app_microsoft_copilot" />
 
+  <!-- Discord -->
   <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="app_discord" />
 
+  <!-- Doordash -->
   <item component="ComponentInfo{com.dd.doordash/com.doordash.consumer.ui.login.LauncherActivity}" drawable="app_doordash" />
   
+  <!-- Duolingo -->
   <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="app_duolingo" />
-
+  
+  <!-- Microsoft Edge -->
   <item component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}" drawable="app_microsoft_edge" />
 
+  <!-- Microsoft Edge Beta -->
   <item component="ComponentInfo{com.microsoft.emmx.beta/com.microsoft.ruby.Main}" drawable="app_microsoft_edge" />
 
+  <!-- Microsoft Edge Canary -->
   <item component="ComponentInfo{com.microsoft.emmx.canary/com.microsoft.ruby.Main}" drawable="app_microsoft_edge" />
 
+  <!-- Microsoft Edge Dev -->
   <item component="ComponentInfo{com.microsoft.emmx.dev/com.microsoft.ruby.Main}" drawable="app_microsoft_edge" />
 
+  <!-- Microsoft Excel -->
   <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="app_microsoft_excel" />
 
+  <!-- F-Droid -->
   <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="app_fdroid" />
 
+  <!-- Facebook -->
   <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="app_facebook" />
 
+  <!-- Family Link-->
   <item component="ComponentInfo{com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity}" drawable="app_google_family_link" />
 
+  <!-- Figma -->
   <item component="ComponentInfo{com.figma.mirror/com.figma.figma.MainActivity}" drawable="app_figma" />
 
+  <!-- Google Files -->
   <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="app_google_files" />
 
+  <!-- Firefox -->
   <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="app_firefox" />
 
+  <!-- Firefox Focus -->
   <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="app_firefox_focus" />
 
+  <!-- Google Gboard -->
   <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="app_google_gboard" />
 
+  <!-- Google Gemini -->
   <item component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}" drawable="app_google_gemini" />
 
+  <!-- GitHub -->
   <item component="ComponentInfo{com.github.android/com.github.android.main.MainActivity}" drawable="app_github" />
 
+  <!-- Google Gmail -->
   <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="app_google_gmail" />
 
+  <!-- Google App -->
   <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="app_google_app" />
 
+  <!-- Google Earth -->
   <item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.flutter.EarthFlutterActivity}" drawable="app_google_earth" />
 
+  <!-- Google Fit -->
   <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="app_google_fit" />
 
+  <!-- Google Go -->
   <item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="app_google_go" />
 
+  <!-- Google One -->
   <item component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}" drawable="app_google_one" />
 
+  <!-- Google Play Market -->
   <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="app_google_play_market" />
 
+  <!-- Google Ads -->
   <item component="ComponentInfo{com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity}" drawable="app_google_ads" />
 
+  <!-- Google Home -->
   <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="app_google_home" />
 
+  <!-- Imo -->
   <item component="ComponentInfo{com.imo.android.imoim/com.imo.android.imoim.home.Home}" drawable="app_imo" />
 
+  <!-- Instagram -->
   <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="app_instagram" />
 
+  <!-- Instagram Lite -->
   <item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="app_instagram_lite" />
- 
+  
+  <!-- KDE Connect -->
   <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.ui.MainActivity}" drawable="app_kde_connect" />
 
+  <!-- Linkedin -->
   <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivityDefault}" drawable="app_linkedin" />
 
+  <!-- Facebook Lite -->
   <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="app_facebook_lite" />
 
+  <!-- Proton Lumo -->
   <item component="ComponentInfo{me.proton.android.lumo/me.proton.android.lumo.MainActivity}" drawable="app_proton_lumo" />
 
+  <!-- Microsoft Copilot -->
   <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="app_microsoft_copilot" />
 
+  <!-- Google Maps -->
   <item component="ComponentInfo{com.google.android.apps.mapslite/com.google.maps.lite.twa.MapsLiteTwaLauncherActivity}" drawable="app_google_maps" />
 
+  <!-- Meta Messenger -->
   <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="app_meta_messenger" />
 
+  <!-- Microsoft Bing -->
   <item component="ComponentInfo{com.microsoft.bingwebmastertools.twa/com.microsoft.bingwebmastertools.twa.LauncherActivity}" drawable="app_microsoft_bing" />
 
+  <!-- Microsoft Launcher -->
   <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}" drawable="app_microsoft_launcher" />
   
+  <!-- Nekogram -->
   <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.NoxIcon}" drawable="app_nekogram_light" />
 
+  <!-- Netflix -->
   <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="app_netflix" />
 
+  <!-- Google NotebookLM -->
   <item component="ComponentInfo{com.google.android.apps.labs.language.tailwind/com.google.android.apps.labs.language.tailwind.MainActivityDev}" drawable="app_google_notebooklm" />
 
+  <!-- Obsidian -->
   <item component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}" drawable="app_obsidian" />
 
+  <!-- Microsoft OneDrive -->
   <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="app_microsoft_onedrive" />
 
+  <!-- Microsoft OneNote-->
   <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="app_microsoft_onenote" />
 
+  <!-- Microsoft Outlook -->
   <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="app_microsoft_outlook" />
 
+  <!-- Ozon -->
   <item component="ComponentInfo{ru.ozon.app.android/ru.ozon.app.android.ui.start.AppHostActivity}" drawable="app_ozon" />
 
+  <!-- Google Photomath -->
   <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}" drawable="app_google_photomath" />
 
+  <!-- Pinterest -->
   <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="app_pinterest" />
 
+  <!-- Google Play Games-->
   <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="app_google_play_games" />
 
+  <!-- Google Play Books -->
   <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="app_google_play_books" />
 
+  <!-- Microsoft PowerPoint -->
   <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="app_microsoft_powerpoint" />
 
+  <!-- Proton Authenficator -->
   <item component="ComponentInfo{proton.android.authenticator/proton.android.authenticator.app.ui.MainActivity}" drawable="app_proton_authenticator" />
 
+  <!-- Proton Calendar -->
   <item component="ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}" drawable="app_proton_calendar" />
 
+  <!-- Proton Drive -->
   <item component="ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}" drawable="app_proton_drive" />
 
+  <!-- Proton Mail -->
   <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.RoutingActivity}" drawable="app_proton_mail" />
 
+  <!-- Proton Meet -->
   <item component="ComponentInfo{proton.android.meet/proton.android.meet.activity.MainActivity}" drawable="app_proton_meet" />
 
+  <!-- Proton Pass -->
   <item component="ComponentInfo{proton.android.pass/proton.android.pass.ui.MainActivity}" drawable="app_proton_pass" />
 
+  <!-- Proton VPN-->
   <item component="ComponentInfo{ch.protonvpn.android/ch.protonvpn.android.RoutingActivity}" drawable="app_proton_vpn" />
 
+  <!-- Proton Wallet -->
   <item component="ComponentInfo{me.proton.wallet.android/me.proton.wallet.android.activity.MainActivity}" drawable="app_proton_wallet" />
 
+  <!-- Readera -->
   <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="app_readera" />
 
+  <!-- Reddit -->
   <item component="ComponentInfo{com.reddit.frontpage/launcher.default}" drawable="app_reddit" />
 
+  <!-- Signal -->
   <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="app_signal" />
 
+  <!-- Snapchat-->
   <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="app_snapchat" />
 
+  <!-- Google Snapseed -->
   <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="app_google_snapseed" />
 
+  <!-- SoundCloud -->
   <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity}" drawable="app_soundcloud" />
   
+  <!-- Spotify -->
   <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="app_spotify" />
 
+  <!-- Microsoft Teams -->
   <item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="app_microsoft_teams" />
 
+  <!-- Telegram -->
   <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="app_telegram" />
   
+  <!-- Threads -->
   <item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}" drawable="app_threads" />
 
+  <!-- TikTok -->
   <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="app_tiktok" />
 
+  <!-- TikTok Lite -->
   <item component="ComponentInfo{com.zhiliaoapp.musically.go/com.zhiliaoapp.musically.go.mini.MainActivity}" drawable="app_tiktok" />
 
+  <!-- Tinder -->
   <item component="ComponentInfo{com.tinder/com.tinder.launch.internal.activities.LoginActivity}" drawable="app_tinder" />
   
+  <!-- Microsoft ToDo -->
   <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="app_microsoft_to_do" />
 
+  <!-- Tumblr  -->
   <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="app_tumblr" />
 
+  <!-- Twitch -->
   <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="app_twitch" />
 
+  <!-- Uber -->
   <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="app_uber" />
   
+  <!-- Vanila Calculator -->
   <item component="ComponentInfo{com.sosauce.cutecalc/com.sosauce.vanilla.MainActivity}" drawable="app_vanilla_calc" />
 
+  <!-- Viber -->
   <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="app_viber" />
 
+  <!-- Meta Viewpoints -->
   <item component="ComponentInfo{com.facebook.viewpoints/com.facebook.anna.app.activities.MainActivity}" drawable="app_meta_viewpoints" />
 
+  <!-- Vk -->
   <item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="app_vk" />
 
+  <!-- VLC -->
   <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="app_vlc" />
 
+  <!-- Google Voice Access -->
   <item component="ComponentInfo{com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity}" drawable="app_google_voice_access" />
 
+  <!-- Whatsapp Business -->
   <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="app_whatsapp_business" />
 
+  <!-- Whatsapp -->
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="app_whatsapp" />
 
+  <!-- Wildberries -->
   <item component="ComponentInfo{com.wildberries.ru/ru.wildberries.SplashActivity}" drawable="app_wildberries" />
 
+  <!-- Microsoft Windows App -->
   <item component="ComponentInfo{com.microsoft.rdc.androidx/com.microsoft.windowsapp.ui.HomeActivity}" drawable="app_microsoft_windows_app" />
 
+  <!-- Microsoft Word -->
   <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="app_microsoft_word" />
 
+  <!-- X (Twitter) -->
   <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="app_x" />
 
+  <!-- Microsoft XBox -->
   <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.LauncherActivity}" drawable="app_microsoft_xbox" />
 
+  <!-- YouTube -->
   <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="app_google_youtube" />
 
+  <!-- YT Music -->
   <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="app_google_ytmusic" />
 
+  <!-- Zoom -->
   <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="app_zoom" />
 
+  <!-- Yandex Alice -->
   <item component="ComponentInfo{com.yandex.aliceapp/com.yandex.aliceapp.ui.MainActivity}" drawable="app_yandex_alice" />
 
+  <!-- Google Gallery -->
   <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="app_google_gallery" />
 
+  <!-- Google Drive -->
   <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_drive" />
 
+  <!-- Yandex Disk -->
   <item component="ComponentInfo{ru.yandex.disk/ru.yandex.disk.DefaultIcon}" drawable="app_yandex_disk" />
 
+  <!-- Google Docs -->
   <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_docs" />
 
+  <!-- Yandex Drive -->
   <item component="ComponentInfo{com.yandex.mobile.drive/com.yandex.mobile.drive.Container}" drawable="app_yandex_drive" />
 
+  <!-- Google Tasks -->
   <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="app_google_tasks" />
 
+  <!-- Google Keep -->
   <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="app_google_keep" />
 
+  <!-- Google Calendar -->
   <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="app_google_calendar" />
 
+  <!-- Google Calculator -->
   <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="app_google_calc" />
   
+  <!-- Google Maps -->
   <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="app_google_maps" />
 
+  <!-- Yandex Maps -->
   <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="app_yandex_maps" />
 
+  <!-- Yandex Kinopoisk -->
   <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.DefaultAlias}" drawable="app_yandex_kinopoisk" />
 
+  <!-- Google Class -->
   <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.classroomflutter.MainActivity}" drawable="app_google_class" />
   
+  <!-- Google Contacts -->
   <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="app_google_contacts" />
 
+  <!-- Yandex Navigator -->
   <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="app_yandex_navigator" />
   
+  <!-- Google News -->
   <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="app_google_news" />\
 
+  <!-- Google Lens -->
   <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="app_google_lens" />
 
+  <!-- Google Password Manager -->
   <item component="ComponentInfo{com.google.android.apps.credentialmanager/com.google.android.apps.credentialmanager.launcher.LauncherActivity}" drawable="app_google_password_manager" />\
 
+  <!-- Google Translate -->
   <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="app_google_translate" />
 
+  <!-- Yandex Translate -->
   <item component="ComponentInfo{ru.yandex.translate/ru.yandex.translate.ui.activities.MainActivity}" drawable="app_yandex_translate" />
 
+  <!-- Breezy Weather -->
   <item component="ComponentInfo{org.breezyweather/org.breezyweather.ui.main.MainActivity}" drawable="app_breezy_weather" />
 
+  <!-- Google Find My Device -->
   <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="app_google_find_my_device" />
 
+  <!-- Yandex Mail -->
   <item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="app_yandex_mail" />
 
+  <!-- K9 Mail -->
   <item component="ComponentInfo{com.fsck.k9/net.thunderbird.app.common.MainActivity}" drawable="app_k9_mail" />
 
+  <!-- Google Slides -->
   <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_slides" />
 
+  <!-- Microsoft Link To Windows -->
   <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="app_microsoft_link_to_windows" />
 
+  <!-- Google Messages -->
   <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="app_google_messages" />
 
+  <!-- YT Studio -->
   <item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="app_google_youtube_studio" />
 
+  <!-- Google Cast -->
   <item component="ComponentInfo{com.google.chromeremotedesktop/com.google.remoting.androidwrapper.MainActivity}" drawable="app_google_cast" />
 
+  <!-- Yandex Home -->
   <item component="ComponentInfo{com.yandex.iot/com.yandex.iot.activity.presentation.IotActivity}" drawable="app_yandex_home" />
 
+  <!-- Google Sound Amplifier -->
   <item component="ComponentInfo{com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.ui.SoundAmplifierSettingActivity}" drawable="app_google_sound_amplifier" />
   
+  <!-- Google Photos -->
   <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="app_google_photos" />
   
+  <!-- Yandex Music -->
   <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.main.MainScreenActivity}" drawable="app_yandex_music" />
 
+  <!-- Yandex Weather -->
   <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.common.activity.SplashActivity}" drawable="app_yandex_weather" />
 
+  <!-- Yandex Search -->
   <item component="ComponentInfo{com.yandex.searchapp/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_app" />
 
+  <!-- Yandex Search Beta -->
   <item component="ComponentInfo{com.yandex.searchapp.beta/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_app" />
 
-  <item component="ComponentInfo{com.yandex.browser.lite/com.yandex.browser.lite.mainactivity.MainActivity}" drawable="app_yandex_app" />
+  <!-- Yandex Browser Lite -->
+  <item component="ComponentInfo{com.yandex.browser.lite/com.yandex.browser.lite.mainactivity.MainActivity}" drawable="app_yandex_browser" />
 
+  <!-- Yandex Browser Alpha -->
   <item component="ComponentInfo{com.yandex.browser.alpha/com.yandex.browser.YandexBrowserActivity}" drawable="app_yandex_browser" />
 
+  <!-- Yandex Browser Beta -->
   <item component="ComponentInfo{com.yandex.browser.beta/com.yandex.browser.YandexBrowserActivity}" drawable="app_yandex_browser" />
 
+  <!-- Yandex Books -->
   <item component="ComponentInfo{ru.plus.bookmate/com.bookmate.DefaultIcon}" drawable="app_yandex_books" />
 
+  <!-- Yandex Start -->
   <item component="ComponentInfo{ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_app" />
 
+  <!-- Yandex Go -->
   <item component="ComponentInfo{ru.yandex.taxi/com.yandex.go.activity.alias.DefaultMainActivityAlias}" drawable="app_yandex_go" />
 
   <!-- Weather -->
