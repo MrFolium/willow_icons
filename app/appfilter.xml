@@ -372,13 +372,25 @@
   <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="app_yandex_navigator" />
   
   <!-- Google News -->
-  <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="app_google_news" />\
+  <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="app_google_news" />
 
   <!-- Google Lens -->
   <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="app_google_lens" />
 
   <!-- Google Password Manager -->
-  <item component="ComponentInfo{com.google.android.apps.credentialmanager/com.google.android.apps.credentialmanager.launcher.LauncherActivity}" drawable="app_google_password_manager" />\
+  <item component="ComponentInfo{com.google.android.apps.credentialmanager/com.google.android.apps.credentialmanager.launcher.LauncherActivity}" drawable="app_google_password_manager" />
+
+  <!-- Gooogle Assistant -->
+  <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="app_google_assistant"/>
+
+  <!-- Google Meet-->
+  <item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="app_google_meet"/>
+
+  <!-- Google Sheets -->
+  <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_sheets"/>
+
+  <!-- Google TV -->
+  <item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="app_google_tv"/>
 
   <!-- Google Translate -->
   <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="app_google_translate" />
@@ -394,6 +406,9 @@
 
   <!-- Yandex Mail -->
   <item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="app_yandex_mail" />
+
+  <!-- Shazam -->
+  <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="app_shazam"/>
 
   <!-- K9 Mail -->
   <item component="ComponentInfo{com.fsck.k9/net.thunderbird.app.common.MainActivity}" drawable="app_k9_mail" />
