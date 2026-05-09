@@ -28,8 +28,6 @@
   
   <item component="ComponentInfo{com.anthropic.claude/com.anthropic.claude.mainactivity.MainActivity}" drawable="app_claude" />
 
-  <item component="ComponentInfo{com.huawei.hidisk/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingAliasActivity}" drawable="sys_cloud" />
-
   <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="app_microsoft_copilot" />
 
   <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="app_discord" />
@@ -158,10 +156,6 @@
 
   <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="app_signal" />
 
-  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sys_sim_menu" />
-
-  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sys_sim_menu" />
-
   <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="app_snapchat" />
 
   <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="app_google_snapseed" />
@@ -224,13 +218,7 @@
 
   <item component="ComponentInfo{com.yandex.aliceapp/com.yandex.aliceapp.ui.MainActivity}" drawable="app_yandex_alice" />
 
-  <item component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.app.RemoteControllerActivity}" drawable="sys_remote" />
-
-  <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="sys_gallery" />
-
   <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="app_google_gallery" />
-
-  <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecordListActivity}" drawable="sys_dictaphone" />
 
   <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_drive" />
 
@@ -248,8 +236,6 @@
 
   <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="app_google_calc" />
   
-  <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="sys_camera" />
-
   <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="app_google_maps" />
 
   <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="app_yandex_maps" />
@@ -257,18 +243,10 @@
   <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.DefaultAlias}" drawable="app_yandex_kinopoisk" />
 
   <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.classroomflutter.MainActivity}" drawable="app_google_class" />
-
-  <item component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}" drawable="sys_compass" />
-
-  <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_contacts" />
   
   <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="app_google_contacts" />
 
-  <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="sys_music" />
-
   <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="app_yandex_navigator" />
-
-  <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="sys_settings" />
   
   <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="app_google_news" />\
 
@@ -296,24 +274,14 @@
 
   <item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="app_google_youtube_studio" />
 
-  <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="sys_phone" />
-
-  <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity}" drawable="sys_themes" />
-
   <item component="ComponentInfo{com.google.chromeremotedesktop/com.google.remoting.androidwrapper.MainActivity}" drawable="app_google_cast" />
 
   <item component="ComponentInfo{com.yandex.iot/com.yandex.iot.activity.presentation.IotActivity}" drawable="app_yandex_home" />
 
   <item component="ComponentInfo{com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.ui.SoundAmplifierSettingActivity}" drawable="app_google_sound_amplifier" />
-
-  <item component="ComponentInfo{com.huawei.filemanager/com.huawei.hidisk.filemanager.FileManager}" drawable="sys_folded" />
-
+  
   <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="app_google_photos" />
   
-  <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="sys_clock" />
-
-  <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="sys_clock" />
-
   <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.main.MainScreenActivity}" drawable="app_yandex_music" />
 
   <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.common.activity.SplashActivity}" drawable="app_yandex_weather" />
@@ -333,4 +301,945 @@
   <item component="ComponentInfo{ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_app" />
 
   <item component="ComponentInfo{ru.yandex.taxi/com.yandex.go.activity.alias.DefaultMainActivityAlias}" drawable="app_yandex_go" />
+
+  <!-- Weather -->
+  <item component="ComponentInfo{com.amazon.weather/com.amazon.weather.WeatherTabletActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.ape.weather3/com.ape.weather3.DetailActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.coloros.weather/com.coloros.weather.OppoMainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.coolwind.weather/com.coolwind.weather.SplashActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.fihtdc.weather/com.fihtdc.weather.activity.WeatherDetailActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.huawei.android.totemweatherapp/com.huawei.android.totemweatherapp.WeatherHome}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.kyocera.weather/com.kyocera.weather.WeatherMainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.lava.weather/com.lava.weather.WelcomeActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.lge.sizechangable.weather/.activities.WeatherActivity_Default}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.moji.zuk/com.moji.zuk.CSplashScreen}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.pantech.weather/com.pantech.weather.app.WeatherDetail}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.rlk.weathers/com.rlk.weathers.activity.WeatherMainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.samsung.android.weather/com.samsung.android.weather.app.WeatherLauncher}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.sec.android.widgetapp.ap.hero.kweather/com.sec.android.widgetapp.ap.hero.kweather.WeatherLauncher}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.tct.weather.bb/com.tct.weather.MainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.tct.weather/com.tct.weather.MainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.transsion.weathers/com.rlk.weathers.activity.WeatherMainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.devexpert.weather/com.devexpert.weather.view.MainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{aplicacion.tiempo/aplicacion.InicialActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.exovoid.weather.app/com.exovoid.weather.app.MainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{de.beowulf.wetter/de.beowulf.wetter.LaunchActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntry}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntryAlias}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.coloros.weather2/com.coloros.weather.OppoMainActivity}" drawable="sys_weather"/>
+	<item component="ComponentInfo{com.vivo.weather/com.vivo.weather.WeatherMain}" drawable="sys_weather"/>
+
+  <!-- Browser -->
+
+  <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="sys_browser"/>
+	<item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="sys_browser"/>
+	<item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="sys_browser"/>
+	<item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}" drawable="sys_browser"/>
+	<item component="ComponentInfo{com.huawei.browser/com.huawei.browser.Main2}" drawable="sys_browser"/>
+	<item component="ComponentInfo{com.android.browser/com.android.browser.launch.SplashActivity}" drawable="sys_browser"/>
+	<item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="sys_browser"/>
+	<item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="sys_browser"/>
+
+  <!-- Calendar -->
+
+  <item component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar..timeline.EventListWithStartTime}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.boxer.calendar/com.android.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.fineos.calendar/com.fineos.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.SplashActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.tct.calendar/com.tct.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="sys_calendar"/>
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}" drawable="sys_calendar"/>
+
+  <!-- Clock -->
+
+  <item component="ComponentInfo{com.acer.deskclock/com.acer.deskclock.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.BBKClock/com.android.BBKClock.Timer}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.deskclock.bb/com.android.deskclock.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.MainActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.deskclock/com.hisense.timetools.TimeToolsMainActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.android.deskclock/com.jrdcom.timetool.TimeToolActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.clock.Clock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.deskclock.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.lge.clock/com.lge.clock.DefaultAlarmClockActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.oppo.alarmclock/com.oppo.alarmclock.AlarmClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.pantech.app.clock/com.pantech.app.clock.launcher.ClockManager}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.AlarmActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackageWC}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.HandleSetAlarm}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.tct.timetool/com.tct.timetool.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.yulong.android.xtime/yulong.xtime.ui.main.XTimeActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.zui.deskclock/com.zui.deskclock.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{net.oneplus.deskclock/net.oneplus.deskclock.DeskClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.activity.AlarmClockActivity}" drawable="sys_clock"/>
+	<item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.AlarmClock}" drawable="sys_clock"/>
+	<item component="ComponentInfo{com.transsion.deskclock/com.transsion.deskclock.DeskClock}" drawable="sys_clock"/>
+  <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="sys_clock" />
+
+  <!-- Compass -->
+
+  <item component="ComponentInfo{apps.r.compass/apps.r.compass.StartActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.android.hicompass/com.android.hicompass.HiCompassActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.coloros.compass/com.coloros.compass.flat.FlatCompass}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.fulminesoftware.compass/com.fulminesoftware.compass.CompassWelcomeActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.gn.android.compass/com.gn.android.common.controller.AppInitActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.jrdcom.compass/com.jrdcom.compass.CompassMainActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.lenovo.compass/com.lenovo.compass.CompassActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.letv.android.compass/com.letv.android.compass.MainActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.oppo.compass/com.oppo.compass.flat.FlatCompass}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.pro.app.compass/com.student.studio.app.compass.Splash}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.vincentlee.compass/com.vincentlee.compass.MainActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.vivo.compass/com.vivo.compass.CalibrationActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.wingtech.compass/com.wingtech.compass.CompassActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.yulong.android.compass/com.yulong.android.compass.CompassActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.zui.compass/com.zui.compass.CompassActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{fr.avianey.compass/fr.avianey.compass.Compass}" drawable="sys_compass"/>
+	<item component="ComponentInfo{jlzn.com.android.compass/jlzn.com.android.compass.JLZN_CompassActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{kr.sira.compass/kr.sira.compass.MsgCheck}" drawable="sys_compass"/>
+	<item component="ComponentInfo{net.micode.compass/net.micode.compass.CompassActivity}" drawable="sys_compass"/>
+	<item component="ComponentInfo{app.melon.icompass/app.melon.icompass.CompassActivi}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.ktwapps.digitalcompass/com.ktwapps.digitalcompass.SplashScreen}" drawable="sys_compass"/>
+	<item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="sys_compass"/>
+
+  <!-- Contacts -->
+
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.FineOSPeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.att.ATTContactsActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogEntryActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivityForDialpad}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.mms.ui.ConversationList}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.ContactListActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.ContactsEntryActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.GroupMemberListActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.PhoneBookTopMenuActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.contacts.activities.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.alias.ContactsActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.allContactsActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.BrowseLayerCarouselActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.ContactsTabActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.HtcContactActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.asus.cncontacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.blackberry.contacts/com.android.contacts.activities.PeopleDrawerActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.hb.dialer.free/com.hb.dialer.ui.ShortcutStartActivity$Contacts}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.jrdcom.soscontacts/com.jrdcom.soscontacts.activity.MainActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.callLogsActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.LaunchActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.SocialPhonebookActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.tct.contacts/com.tct.contacts.activities.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.yulong.android.contacts/com.yulong.android.contacts.ui.main.ContactMainActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.yulong.coolmessage/com.yulong.android.contacts.ui.main.ContactMainActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.zui.contacts/com.android.newcontact.vl.activity.XLaunchActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Pink}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Purple}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Deep_purple}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Indigo}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Blue}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Light_blue}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Cyan}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Teal}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Green}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Light_green}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Lime}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Yellow}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Amber}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Orange}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Deep_orange}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Brown}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Blue_grey}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Grey_black}" drawable="sys_contacts"/>
+	<item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Red}" drawable="sys_contacts"/>
+
+  <!-- Folder -->
+
+  <item component="ComponentInfo{com.adao.android.afm/com.adao.android.afm.CoverActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.BqLauncherActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.StandaloneLauncherActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorer.TabActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.FileManager.Activity/com.android.FileManager.Activity.FileManager}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.filemanager/com.android.filemanager.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.filemanager/com.android.filemanager.MainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.mifileexplorer/com.android.mifileexplorer.FileExplorerFragment}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.mifileexplorer/com.android.mifileexplorer.FileExplorerTabActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.qrdfileexplorer/com.android.qrdfileexplorer.MainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.qrdfileexplorer/com.android.qrdfileexplorer.QRDFileExplorer}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.rk/com.android.rk.RockExplorer}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.ape.filemanager/com.ape.filemanager.FileManagerMainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.ape.filemanager/com.ape.secrecy.EncryptBoxMain}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.bird.filemanager.view/com.bird.filemanager.view.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.blackmoonit.android.FileBrowser/com.blackmoonit.android.FileBrowser.FileListActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.Main}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.EditorActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.ShortcutActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.fihtdc.filemanager/com.fihtdc.filemanager.FileManager}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.fineos.fileexplorer/com.fineos.fileexplorer.activity.FileExplorerMainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.gbc.filemanager/com.gbc.filemanager.Main}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.gilda.filemanager/com.gilda.filemanager.FileManagerOperationActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.gionee.filemanager/com.gionee.filemanager.FileExplorerTabActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.hct.fileexplorer/com.hct.fileexplorer.FileExplorerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.hitv.explorer/com.hitv.explorer.activity.MainExplorerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.htc.htccnfilemanager/com.htc.htccnfilemanager.htccnFileManager}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.Main}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.FileBrowserActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.lenovo.FileBrowser.Pad/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.letv.android.filemanager/com.letv.android.filemanager.activities.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.lge.filemanager/com.lge.filemanager.view.LaunchActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.lu.fileexplorer/com.lu.fileexplorer.FileExplorerTabActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.m0narx.fileexplorer/com.m0narx.fileexplorer.main}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.mars.miuifilemanager/com.mars.miuifilemanager.ui.FileExplorerTabActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerBaseActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.MainFilemanagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.tinnoui.TinnoUIViewPager}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.ui.FileExplorerTabActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.meizu.filemanager/com.meizu.filemanager.managefile.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.mhoffs.filemanagerplusfree/com.mhoffs.filemanagerplusfree.AMain}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.motorola.filemanager/com.motorola.filemanager.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.motorola.filemanager/com.motorola.filemanager.MainFileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.oppo.filemanager/com.oppo.filemanager.Main}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.pantech.filemanager/com.pantech.filemanager.MainMenu}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.rhmsoft.fm/com.rhmsoft.fm.FileManager}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.rhmsoft.fm.hd/com.rhmsoft.fm.hd.FileManagerHD}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.rhmsoft.fm.pro/com.rhmsoft.fm.pro.FileManager}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.sec.myfile/com.sec.myfile.FileExplorerTabActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.softwinner.explore/com.softwinner.explore.Main}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.sprd.fileexplorer/com.sprd.fileexplorer.activities.FileExploreActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.wingtech.filemanager/com.wingtech.filemanager.MainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.xosp.filemanager/com.xosp.filemanager.activities.NavigationActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.yulong.android.filebrowser/com.yulong.android.filebrowser.activity.FileBrowserActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.ztemt.filemanager/com.ztemt.filemanager.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.zui.filemanager/com.zui.filemanager.MainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.openintents.cmfilemanager/org.openintents.cmfilemanager.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.openintents.filemanager/org.openintents.filemanager.FileManagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{xcxin.filexpert/xcxin.filexpert.FileLister}" drawable="sys_folder"/>
+	<item component="ComponentInfo{zte.com.cn.filer/zte.com.cn.filer.FileMgrActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{zte.com.cn.filer/zte.com.cn.filer.FilerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.filerefactor.ui.main.MainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.nbc.filemanager/com.fihtdc.filemanager.FileManager}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.huawei.filemanager/com.huawei.hidisk.filemanager.FileManager}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{com.android.filemanager/com.android.filemanager.FirstPermissionActivity}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Pink}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Purple}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Deep_purple}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Indigo}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Blue}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Light_blue}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Cyan}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Teal}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Light_green}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Lime}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Yellow}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Amber}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Orange}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Deep_orange}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Brown}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Blue_grey}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Grey_black}" drawable="sys_folder"/>
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Red}" drawable="sys_folder"/>
+
+  <!-- Gallery -->
+
+  <item component="ComponentInfo{com.acer.muse/com.acer.muse.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.android.camera/com.android.camera.GalleryPicker}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.PermissionActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.TNGalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.android.newgallery.NewGallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.android.gallery/com.android.camera.GalleryPicker}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.asus.ephoto/com.asus.ephoto.app.EPhoto}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.asus.ephoto/com.asus.ephoto.app.EPhotoActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.bq.gallerybq/com.bq.gallerybq.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.coloros.gallery3d/com.oppo.gallery3d.app.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.cooliris.media/com.cooliris.media.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.fihtdc.gallery/com.fihtdc.gallery.app.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.fineos.gallery3d/com.fineos.gallery3d.app.AlbumSetActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.gionee.gallery/com.gionee.gallery.sb.app.GnGallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.google.android.gallery3d/com.cooliris.media.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainCarousel}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainDropList}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainTabHost}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.htc.album/com.htc.album.AlbumTabSwitchActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.jrdcom.android.gallery3d/com.jrdcom.android.gallery3d.app.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.lenovo.gallery/com.lenovo.gallery.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.app.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.mimedia.gallery/com.mimedia.gallery.GalleryStartupActivity_}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.motorola.gallery/com.motorola.gallery.TopScreen}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.nomotorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.tct.gallery3d.bb/com.tct.gallery3d.app.PermissionActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.tct.gallery3d/com.tct.gallery3d.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.tct.gallery3d/com.tct.gallery3d.app.PermissionActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.vivo.gallery/com.android.gallery3d.vivo.GalleryTabActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.zui.gallery/com.zui.gallery.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{jp.kyocera.kyoceradrmgallery/jp.kyocera.kyoceradrmgallery.ThumbnailViewerActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.mokee.venus/com.android.gallery3d.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.miui.gallery/com.miui.gallery.app.Gallery}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.gallery20/com.gallery20.activities.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.htc.album/com.htc.photoenhancer.LandingPage}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.nextbit.gallery/com.nextbit.gallery.main.MainActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.app.MainActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Pink}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Purple}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Deep_purple}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Indigo}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Blue}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Light_blue}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Cyan}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Teal}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Light_green}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Lime}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Yellow}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Amber}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.MainActivity}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Orange}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Deep_orange}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Brown}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Blue_grey}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Grey_black}" drawable="sys_gallery"/>
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Red}" drawable="sys_gallery"/>
+
+  <!-- Mail -->
+
+  <item component="ComponentInfo{com.android.email/com.amazon.email.activity.EmailActivity}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.android.email/com.android.email.activity.EmailActivity}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.android.email/com.android.email.MainActivity}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.asus.email/com.android.email.activity.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.Mail}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.lenovo.email/com.android.email.activity.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.lge.email/com.lge.email.activity.AccountList}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.mobimail.zte/com.netease.mobimail.activity.LaunchActivity}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.motorola.email/com.android.email.activity.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.motorola.motoemail/com.android.email.activity.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.samsung.android.email.ui/com.samsung.android.email.ui.activity.MessageListXL}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.sonymobile.email/com.sonymobile.email.activity.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.tct.email/com.tct.email.activity.Welcome}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.motorola.email/com.android.email.activity.ComposeActivityEmail}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.android.email/com.android.email.login.activity.WelcomeActivity}" drawable="sys_mail"/>
+	<item component="ComponentInfo{com.vivo.email/com.vivo.email.activity.Welcome}" drawable="sys_mail"/>
+
+  <!-- Messages -->
+
+  <item component="ComponentInfo{cn.nubia.mms/cn.nubia.mms.tab.MmsMainActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.mainUISelection}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.EntryActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.PermissionActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.traditional.MessageLaunchActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.UiController}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.android.mms/com.yulong.android.mms.ui.MmsMainListFormActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.dot.messenging/com.dot.messenging.ui.MainActivity-Default}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.CmasListActivityShortCut}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.lge.message/com.lge.message.ui.ConversationList}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.motorola.messaging/com.android.mms.ui.ConversationList}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.pantech.app.mms/com.pantech.app.mms.ui.EntryActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="sys_messages"/>
+	<item component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Pink}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Purple}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Deep_purple}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Indigo}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Blue}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Light_blue}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Cyan}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Teal}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Green}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Light_green}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Lime}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Yellow}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Amber}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Orange}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Deep_orange}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Brown}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Blue_grey}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Grey_black}" drawable="sys_messages"/>
+	<item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Red}" drawable="sys_messages"/>
+
+  <!-- Music -->
+
+  <item component="ComponentInfo{cn.zte.music/cn.zte.music.activity.MusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{cn.zte.music/cn.zte.music.MusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.music/com.android.music.grids.ShortcutGridsActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.music/com.android.music.HQMusicMainActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.music/com.android.music.MusicMainActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.music/com.android.music.MusicScanResultActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.music/com.android.music.SpashActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.music/com.android.music.StarMusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.music/com.android.music.ui.MusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.music/com.transsion.music.MusicMainActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.asus.music/com.asus.music.MusicMainActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.coolpad.music/com.android.music.MusicPlayerTab}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.fihtdc.music/com.fihtdc.music.ui.activities.MainActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.fineos.music/com.fineos.music.MusicLobby}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.himedia.music/com.himedia.music.MediaPlaybackActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.hisense.music/com.hisense.music.MusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.jrdcom.music/com.jrdcom.music.SplashActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.kyocera.musicplayer/com.kyocera.musicplayer.MusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.meizu.media.music/com.meizu.media.music.MusicActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.miui.player/com.miui.player.drawerActivityGroup.MainActivityGroup}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.miui.player/com.miui.player.pad.ui.MusicMainActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.oppo.music/com.oppo.music.MediaPlaybackActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.oppo.music/com.nearme.music.splash.SplashActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.pantech.app.music/com.pantech.app.music.library.MusicLibraryTabHost}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.sec.android.app.music/com.samsung.android.app.music.common.activity.MusicMainActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.sec.android.app.music/com.samsung.musicplus.MusicMainActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.sec.android.app.music/com.samsung.musicplus.MusicMainPagerActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicActionTabActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.PlayerActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.sony.snei.mu.phone/com.sony.snei.mu.phone.startup.StartupActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.heytap.music/com.nearme.music.splash.SplashActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.nbc.music/com.nbc.music.MusicBrowserActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.lenovo.music/com.lenovo.music.ui.LeAppLoadingActivity}" drawable="sys_music"/>
+  <item component="ComponentInfo{com.android.bbkmusic/com.android.bbkmusic.WidgetToTrackActivity}" drawable="sys_music"/>
+
+  <!-- Phone -->
+
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.WtDialerActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.CallDialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLogActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivityForRecentCalls}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.RecentCallsLauncherActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.dialer.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.oppo.contacts.OppoDialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.activities.PCUDialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.calllog.CallLogActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivityKc}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsCallLogEntryActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.HQDialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.LaunchContactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.mediatek.dialer.calllogex.CallLogActivityEx}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.ontim.dialer.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.sprd.dialer.settings.CallRecordingSettingsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.DialerTabActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.HtcDialer}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.ViewCallHistory}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.htcdialer/com.android.htcdialer.Dialer}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.DialerSClass}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsCallLogActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsContactsEntryActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.dualsim.SmartCallActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.firewall.PhoneFireWall}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.LaunchCallInterface}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.LaunchRecentCallsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.RecentCallsListActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.Settings}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.phone/com.android.phone.TwDialer}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.asus.cncontacts/com.android.contacts.activities.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.cyngn.dialer/com.android.dialer.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.htc.contacts/com.htc.contacts.DialerTabActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.htc.htcdialer/com.htc.htcdialer.HomeDialing Activity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.SystemManagerMainActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.samsung.android.app.dialertab/com.samsung.android.app.dialertab.DialerTabActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.yulong.android.contacts/com.yulong.android.contacts.dial.DialActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.yulong.coolmessage/com.yulong.android.contacts.dial.DialActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.zui.contacts/com.android.newcontact.vl.activity.DialpadShutcut}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.sh.smart.caller/com.android.dialer.main.impl.MainActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.asus.dialer/com.android.contacts.activities.DialtactsActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Pink}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Purple}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Deep_purple}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Indigo}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Blue}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Light_blue}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Cyan}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Teal}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Green}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Light_green}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Lime}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Yellow}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Amber}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.MainActivity}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Orange}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Deep_orange}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Brown}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Blue_grey}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Grey_black}" drawable="sys_phone"/>
+	<item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Red}" drawable="sys_phone"/>
+
+  <!-- Camera -->
+
+  <item component="ComponentInfo{com.acer.camera/com.acer.camera.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.amazon.camera/com.amazon.camera.AmazonCameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camera3/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camerabq/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camera/com.android.camera.CamcorderEntry}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camera/com.android.camera.CameraActivityWraper}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.android.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.android.camera.LauncherActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.gallery3d/com.android.hwcamera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.hwcamera/com.android.hwcamera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.asus.camera/com.asus.camera.MirrorApp}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.bellabytes.xcamlg/com.bellabytes.xcamlg.CameraAppLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.blackberry.camera/com.blackberry.camera.ui.coordination.MainActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.bq.camerabq/com.bq.camerabq.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.cyngn.cameranextmod2/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.dama.camera2/com.dama.camera2.MainActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.fineos.camera/com.fineos.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.freeme.camera/com.freeme.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.fujitsu.mobile_phone.camera/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.htc.camera/com.htc.camera.CameraEntry}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.jrdcom.android.gallery3d/com.android.jrdcamera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.lenovo.camera/com.android.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.lenovo.scg/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.lenovo.scg/com.lenovo.minicamera.activity.MiniCameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.lge.camera8i8h/com.lge.camera8i8h.CameraAppLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraApp}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.lge.camera/com.lge.camera.CamLoading}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.lge.cammra/com.lge.cammra.CameraAppLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.mados.madcamera/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.mediatek.camera/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.meizu.media.camera/com.meizu.media.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.modaco.cameralauncher/com.modaco.cameralauncherActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.myos.camera/com.myos.camera.activity.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.myos.camera/com.myos.camera.CameraLauncher2}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.netco.camera/com.netco.camera.Main}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.oppo.camera/com.oppo.camera.activity.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.pantech.app.skycamera/com.pantech.app.skycamera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.pms.cameranextmod7/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.sonyericsson.android.camera3d/com.sonyericsson.android.camera3d.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.sonyericsson.android.camera3d/com.sonyericsson.android.camera3d.viewer.Browser}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.tct.camera/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.thundersoft.ucam/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.wileyfox.camera/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.zte.camera/com.zte.camera.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.zui.camera/com.zui.camera.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.zui.cameragallery/com.zui.cameragallery.camera.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{co.paranoidandroid.camera/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{jp.kyocera.camera/jp.kyocera.camera.activity.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.transsion.camera/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.oplus.camera/com.oplus.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.MGC/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.android.MGC.not.stable/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.essential.klik/com.essential.klik.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.evenwell.camera2/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.hmdglobal.app.camera/com.hmdglobal.app.camera.GuideActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.hmdglobal.camera2/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.hmdglobal.camera2lite/com.android.camera.CameraLauncher}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.motorola.camera1/com.motorola.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.motorola.camera3/com.motorola.camera.Camera}" drawable="sys_camera"/>
+	<item component="ComponentInfo{com.nextbit.camera/com.nextbit.camera.ui.CameraActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Pink}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Purple}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Deep_purple}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Indigo}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Blue}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Light_blue}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Cyan}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Teal}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Green}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Light_green}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Lime}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Yellow}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Amber}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Orange}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Deep_orange}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Brown}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Blue_grey}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Grey_black}" drawable="sys_camera"/>
+	<item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Red}" drawable="sys_camera"/>
+	<item component="ComponentInfo{app.grapheneos.camera/app.grapheneos.camera.ui.activities.MainActivity}" drawable="sys_camera"/>
+	<item component="ComponentInfo{app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity}" drawable="sys_camera"/>
+
+  <!-- Settings -->
+
+  <item component="ComponentInfo{com.android.hisiliconsetting/com.android.hisiliconsetting.MainActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.fingerprint.FingerprintSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.fpmanager.FpSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.GnSettingsTabActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.GridSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.MacSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.MainActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.MainEntry}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.MiuiPasswordGuardActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.MiuiSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.OntimSettingsActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.OppoSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.SettingsEMUI}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.Settings$GestureSeneorSettingsActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.Settings$SprdManageApplicationsActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.SettingsTab}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.SettingsTabActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.Settings$TetherSettingsActivity2}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.Settings$TetherSettingsActivityMPCS}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.Settings$WifiDisplaySettingsActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.Settings$ZteTmoTetheringActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettingsActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettingsShortCutMPCS}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettingsWifi}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.android.settings.wfd.WifiDisplayEnableActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.cyanogenmod.settings.device/com.cyanogenmod.settings.device.DeviceSettings}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.cyanogenmod.settings.device.hwa/com.cyanogenmod.settings.device.hwa.HwaSettingsActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.pantech.app.skysettings.simplemode/com.pantech.app.skysettings.simplemode.simplemodesettingshrotcutActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{it.ptoti.g2_tweaksbox/it.ptoti.g2_tweaksbox.SettingsActivity}" drawable="sys_settings"/>
+  <item component="ComponentInfo{com.android.customlocale2/com.android.customlocale2.CustomLocaleActivity}" drawable="sys_settings"/>
+	<item component="ComponentInfo{com.android.development/com.android.development.Development}" drawable="sys_settings"/>
+
+  <!-- Sim -->
+
+  <item component="ComponentInfo{com.android.dualliststk/com.android.dualliststk.StkToolkitActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk1/com.android.stk1.StkLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk2/com.android.stk2.Stk2LauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity2}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.EgStkExLauncherActivity2}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkSelection}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkAliasLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkCDMALauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk_stklauncheractivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity0}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity1}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2Default}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2ForCU}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity3}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity_COMM}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityDefault}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityForCU}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityI}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityII}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingle}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingleCard}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherDSActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkListActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkMainActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkMenuActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkMenuActivity2}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkRootLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkSIMCardChooseLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.SubStkLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.UsatLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.UtkExLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.UtkLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stk/com.yulong.android_cp.utk_utklauncheractivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stkII/com.android.stkII.StkIILauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stklauncher/com.android.stklauncher.MainActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.android.stksim2/com.android.stksim2.StkLauncherActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.gsmdev.simcard/com.gsmdev.simcard.MainActivity}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.huawei.android.StkLauncher/com.huawei.android.StkLauncher.StkLauncher}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.huawei.android.StkLauncher/com.huawei.android.StkLauncher.StkLauncher2}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.lenovo.StkSelection/com.lenovo.StkSelection.StkSelection}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.mediatek.StkSelection/com.mediatek.StkSelection.StkSelection}" drawable="sys_sim_menu"/>
+	<item component="ComponentInfo{com.qualcomm.stk/com.qualcomm.stk.StkLauncherActivity2}" drawable="sys_sim_menu"/>
+
+  <!-- Calculator -->
+
+  <item component="ComponentInfo{cn.nubia.calculator2.preset/cn.nubia.calculator2.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.amazon.calculator/com.android.calculator2.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.android2.calculator3/com.android2.calculator3.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.android.bbkcalculator/com.android.bbkcalculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.android.calculator2/com.dot.calculator.material.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.android.calculatortecno/com.android.calculatortecno.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.ape.calculator2/com.ape.calculator2.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.fineos.calculator/com.fineos.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.htc.calculator/com.htc.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.meizu.flyme.calculator/com.meizu.flyme.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.pantech.app.calculator/com.pantech.app.calculator.SkyEngCalculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.sonymobile.exactcalculator/com.sonymobile.exactcalculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.tct.calculator2/com.tct.calculator2.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.tct.calculator.bb/com.tct.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.tct.calculator/com.tct.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.wingtech.calc/com.wingtech.calc.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.zui.calculator/com.zui.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{my.android.calc/my.android.calc.MainActivity}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.mmin.handycalc/org.mmin.handycalc.HandyCalc}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.transsion.calculator/com.transsion.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{com.vivo.calculator/com.vivo.calculator.Calculator}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Pink}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Purple}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Deep_purple}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Indigo}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Blue}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Light_blue}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Cyan}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Teal}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Green}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Light_green}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Lime}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Yellow}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Amber}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Orange}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Deep_orange}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Brown}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Blue_grey}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Grey_black}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.calculator/org.fossify.calculator.activities.SplashActivity.Red}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Pink}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Purple}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Deep_purple}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Indigo}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Blue}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Light_blue}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Cyan}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Teal}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Green}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Light_green}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Lime}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Yellow}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Amber}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Orange}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Deep_orange}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Brown}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Blue_grey}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Grey_black}" drawable="sys_calculator"/>
+	<item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Red}" drawable="sys_calculator"/>
+
+  <!-- Dictaphone -->
+
+  <item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Pink}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Purple}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Deep_purple}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Indigo}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Blue}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Light_blue}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Cyan}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Teal}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Green}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Light_green}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Lime}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Yellow}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Amber}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Orange}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Deep_orange}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Brown}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Blue_grey}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Grey_black}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Red}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.evenwell.voicenote/com.evenwell.voicenote.MainActivity}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecordListActivity}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.LaunchVoiceRecorder}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.lenovo.recorder/com.lenovo.recorder.SoundRecorder}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.android.bbksoundrecorder/com.android.activity.ReclistActivity}" drawable="sys_dictaphone"/>
+	<item component="ComponentInfo{com.vivo.soundrecorder/com.vivo.activity.ReclistActivity}" drawable="sys_dictaphone"/>
+
+  <!-- Remote -->
+
+  <item component="ComponentInfo{net.froemling.bsremote/net.froemling.bsremote.ScanActivity}" drawable="sys_remote"/>
+  <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="sys_remote"/>
+  <item component="ComponentInfo{com.quanticapps.remotelgtvs/com.quanticapps.remotelgtvs.activity.ActivitySplash}" drawable="sys_remote"/>
+  <item component="ComponentInfo{com.quanticapps.remotetvs/com.quanticapps.remotetvs.activity.ActivitySplash}" drawable="sys_remote"/>
+  <item component="ComponentInfo{com.adi.remote.phone/com.adi.remote.ui.TVRemoteActivity}" drawable="sys_remote"/>
+  <item component="ComponentInfo{com.Relmtech.RemotePaid/com.unified.v3.frontend.views.MainActivity}" drawable="sys_remote"/>
+	<item component="ComponentInfo{com.Relmtech.Remote/com.unified.v3.frontend.views.MainActivity}" drawable="sys_remote"/>
+  <item component="ComponentInfo{com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity}" drawable="sys_remote"/>
+	<item component="ComponentInfo{com.google.android.tv.remote.service/com.google.android.tv.remote.service.settings.SettingsActivity}" drawable="sys_remote"/>
+  <item component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.app.RemoteControllerActivity}" drawable="sys_remote" />
+
+  <!-- Themes -->
+
+  <item component="ComponentInfo{com.transsion.hilauncher/com.transsion.theme.common.XThemeMain}" drawable="sys_themes"/>
+  <item component="ComponentInfo{com.deishelon.lab.huaweithememanager/com.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity}" drawable="sys_themes"/>
+  <item component="ComponentInfo{com.mixapplications.miuithemeeditor/com.mixapplications.miuithemeeditor.MainActivity}" drawable="sys_themes"/>
+  <item component="ComponentInfo{com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity}" drawable="sys_themes"/>
+	<item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="sys_themes"/>
+  <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity}" drawable="sys_themes" />
+
+  <!-- Cloud -->
+
+  <item component="ComponentInfo{com.huawei.hidisk/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingAliasActivity}" drawable="sys_cloud" />
+
 </resources>
