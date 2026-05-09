@@ -62,7 +62,7 @@
 
   <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="app_firefox_focus" />
 
-  <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="sys_google_gboard" />
+  <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="app_google_gboard" />
 
   <item component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}" drawable="app_google_gemini" />
 
@@ -80,7 +80,7 @@
 
   <item component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}" drawable="app_google_one" />
 
-  <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="sys_google_play_market" />
+  <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="app_google_play_market" />
 
   <item component="ComponentInfo{com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity}" drawable="app_google_ads" />
 
@@ -264,7 +264,7 @@
 
   <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_contacts" />
   
-  <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sys_google_contacts" />
+  <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="app_google_contacts" />
 
   <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="sys_music" />
 
@@ -284,7 +284,7 @@
 
   <item component="ComponentInfo{org.breezyweather/org.breezyweather.ui.main.MainActivity}" drawable="app_breezy_weather" />
 
-  <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="sys_google_find_my_device" />
+  <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="app_google_find_my_device" />
 
   <item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="app_yandex_mail" />
 
@@ -294,7 +294,7 @@
 
   <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="app_microsoft_link_to_windows" />
 
-  <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="sys_google_messages" />
+  <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="app_google_messages" />
 
   <item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="app_google_youtube_studio" />
 
