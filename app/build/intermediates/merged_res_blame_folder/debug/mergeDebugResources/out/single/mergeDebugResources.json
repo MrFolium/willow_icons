@@ -1,742 +1,746 @@
 [
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_to_do.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_to_do.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_breezy_weather.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_breezy_weather.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_zoom.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_zoom.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_go.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_go.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_maps.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_maps.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_pass.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_pass.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_pass.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_pass.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_ads.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_ads.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_go.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_go.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_sheets.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_sheets.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_drive.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_drive.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_github.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_github.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_readera.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_readera.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_play_games.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_play_games.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_gmail.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_gmail.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_maps.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_maps.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_wildberries.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_wildberries.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_excel.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_excel.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_ads.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_ads.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_reddit.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_reddit.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_phone.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_phone.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_launcher.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_launcher.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_samsung_theme_park.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_samsung_theme_park.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_mail.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_mail.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/xml_themecfg.xml.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/xml/themecfg.xml"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_authenticator.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_authenticator.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_figma.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_figma.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_voice_access.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_voice_access.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_gemini.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_gemini.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_teams.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_teams.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_home.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_home.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_family_link.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_family_link.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_instagram.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_instagram.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_teams.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_teams.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_netflix.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_netflix.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_news.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_news.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_music.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_music.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_reddit.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_reddit.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_to_do.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_to_do.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_aegis.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_aegis.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_browser.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_browser.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_meta_messenger.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_meta_messenger.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_news.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_news.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_sim_menu.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_sim_menu.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_photos.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_photos.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_x.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_x.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_dictaphone.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_dictaphone.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_excel.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_excel.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_photomath.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_photomath.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_folder.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_folder.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_remote.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_remote.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_facebook.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_facebook.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_ozon.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_ozon.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_play_games.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_play_games.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_firefox.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_firefox.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_firefox_focus.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_firefox_focus.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_meet.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_meet.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_breezy_weather.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_breezy_weather.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/xml_contributors.xml.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/xml/contributors.xml"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_onenote.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_onenote.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_messages.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_messages.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_settings.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_settings.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_weather.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_weather.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_youtube_studio.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_youtube_studio.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_link_to_windows.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_link_to_windows.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_home.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_home.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_youtube_studio.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_youtube_studio.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_earth.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_earth.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_github.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_github.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_calendar.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_calendar.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_contacts.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_contacts.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_password_manager.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_password_manager.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_slides.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_slides.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_samsung_theme_park.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_samsung_theme_park.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_calendar.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_calendar.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_chrome.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_chrome.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_bitwarden.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_bitwarden.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_figma.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_figma.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_whatsapp.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_whatsapp.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_drive.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_drive.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_launcher.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_launcher.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_youtube.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_youtube.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_twitch.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_twitch.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_mail.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_mail.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_wildberries.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_wildberries.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_bing.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_bing.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_tumblr.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_tumblr.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_xbox.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_xbox.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_linkedin.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_linkedin.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_notebooklm.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_notebooklm.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_health_connect.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_health_connect.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_youtube.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_youtube.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_weather.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_weather.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_lens.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_lens.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_powerpoint.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_powerpoint.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_viber.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_viber.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_snapchat.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_snapchat.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_claude.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_claude.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_vk.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_vk.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_instagram_lite.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_instagram_lite.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_libretube.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_libretube.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/font_regular.ttf.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/font/regular.ttf"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_fdroid.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_fdroid.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_browser.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_browser.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_chat_gpt.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_chat_gpt.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_windows_app.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_windows_app.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_gboard.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_gboard.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/xml_themecfg.xml.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/xml/themecfg.xml"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_find_my_device.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_find_my_device.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_nekogram_light.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_nekogram_light.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/xml_shortcuts.xml.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/xml/shortcuts.xml"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_lens.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_lens.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_briar.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_briar.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_k9_mail.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_k9_mail.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_play_books.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_play_books.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_bing.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_bing.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_calendar.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_calendar.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_sim_menu.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_sim_menu.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_compass.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_compass.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_folder.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_folder.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_vlc.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_vlc.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_facebook.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_facebook.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_authenticator.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_authenticator.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_gboard.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_gboard.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_family_link.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_family_link.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_play_market.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_play_market.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_instagram.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_instagram.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_keep.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_keep.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_samsung_good_lock.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_samsung_good_lock.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_nekogram_dark.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_nekogram_dark.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_soundcloud.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_soundcloud.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_browser.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_browser.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/xml_appfilter.xml.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/xml/appfilter.xml"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_onedrive.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_onedrive.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_translate.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_translate.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_books.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_books.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_fit.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_fit.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_gallery.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_gallery.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_keep.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_keep.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_gmail.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_gmail.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_wallet.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_wallet.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_telegram.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_telegram.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_vpn.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_vpn.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_phone.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_phone.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_nekogram_dark.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_nekogram_dark.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_threads.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_threads.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_doordash.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_doordash.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_go.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_go.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_signal.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_signal.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_viber.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_viber.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_files.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_files.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_contacts.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_contacts.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/font_bold.ttf.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/font/bold.ttf"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_meta_business_suite.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_meta_business_suite.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_authenticator.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_authenticator.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_spotify.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_spotify.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_tumblr.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_tumblr.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_whatsapp_business.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_whatsapp_business.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_2gis.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_2gis.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_vlc.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_vlc.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_onenote.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_onenote.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_meta_viewpoints.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_meta_viewpoints.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_ytmusic.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_ytmusic.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_wallet.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_wallet.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/font_medium.ttf.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/font/medium.ttf"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_doordash.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_doordash.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_meta_viewpoints.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_meta_viewpoints.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_themes.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_themes.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/xml_drawable.xml.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/xml/drawable.xml"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/xml_contributors.xml.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/xml/contributors.xml"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_samsung_good_lock.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_samsung_good_lock.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_earth.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_earth.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_firefox_focus.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_firefox_focus.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_chrome.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_chrome.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_home.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_home.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_class.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_class.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_briar.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_briar.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_linkedin.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_linkedin.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_uber.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_uber.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_chat.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_chat.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_copilot.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_copilot.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_pinterest.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_pinterest.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_messages.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_messages.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_books.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_books.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/xml_themeinfo.xml.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/xml/themeinfo.xml"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_assistant.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_assistant.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_gemini.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_gemini.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_photos.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_photos.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_maps.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_maps.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_authenticator.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_authenticator.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_facebook_lite.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_facebook_lite.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_voice_access.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_voice_access.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_vpn.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_vpn.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_kinopoisk.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_kinopoisk.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/xml_theme_resources.xml.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/xml/theme_resources.xml"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_photomath.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_photomath.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_messages.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_messages.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_home.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_home.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/xml_shortcuts.xml.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/xml/shortcuts.xml"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_app.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_app.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_powerpoint.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_powerpoint.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_readera.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_readera.png"
+    },
+    {
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_chat.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_chat.png"
     },
     {
         "merged": "com.mrfolium.willowicons.app-debug-61:/xml_themeinfo.xml.flat",
         "source": "com.mrfolium.willowicons.app-main-63:/xml/themeinfo.xml"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/xml_theme_resources.xml.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/xml/theme_resources.xml"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_authenticator.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_authenticator.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_libretube.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_libretube.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_play_services.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_play_services.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_ozon.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_ozon.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_play_books.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_play_books.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_calc.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_calc.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_outlook.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_outlook.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_calculator.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_calculator.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_app.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_app.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_firefox.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_firefox.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/font_medium.ttf.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/font/medium.ttf"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_play_services.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_play_services.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_calculator.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_calculator.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_sheets.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_sheets.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_aegis.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_aegis.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_maps.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_maps.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_tv.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_tv.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_nekogram_light.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_nekogram_light.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_class.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_class.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_tasks.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_tasks.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_contacts.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_contacts.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_windows_app.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_windows_app.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_one.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_one.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_calc.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_calc.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_edge.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_edge.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_calendar.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_calendar.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_vanilla_calc.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_vanilla_calc.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_health_connect.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_health_connect.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_weather.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_weather.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_discord.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_discord.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_translate.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_translate.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_gallery.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_gallery.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_obsidian.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_obsidian.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_sound_amplifier.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_sound_amplifier.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_alice.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_alice.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_navigator.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_navigator.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/font_regular.ttf.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/font/regular.ttf"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_word.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_word.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_translate.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_translate.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_contacts.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_contacts.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_zoom.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_zoom.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_meta_business_suite.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_meta_business_suite.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_claude.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_claude.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_drive.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_drive.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/xml_appfilter.xml.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/xml/appfilter.xml"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_one.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_one.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_sound_amplifier.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_sound_amplifier.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_tinder.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_tinder.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_slides.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_slides.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_app.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_app.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_kde_connect.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_kde_connect.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_shazam.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_shazam.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/font_bold.ttf.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/font/bold.ttf"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_clock.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_clock.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_cloud.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_cloud.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/xml_drawable.xml.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/xml/drawable.xml"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_calendar.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_calendar.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_whatsapp_business.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_whatsapp_business.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_clock.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_clock.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_app.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_app.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_camera.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_camera.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_play_market.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_play_market.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_mail.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_mail.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_music.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_music.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_tiktok.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_tiktok.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_cast.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_cast.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_duolingo.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_duolingo.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_k9_mail.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_k9_mail.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_ytmusic.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_ytmusic.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_obsidian.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_obsidian.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_themes.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_themes.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_snapseed.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_snapseed.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_compass.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_compass.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_camera.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_camera.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_pinterest.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_pinterest.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_capcut.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_capcut.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_docs.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_docs.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_tiktok.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_tiktok.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_disk.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_disk.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_kde_connect.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_kde_connect.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_meta_messenger.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_meta_messenger.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_browser.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_browser.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_shazam.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_shazam.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_telegram.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_telegram.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_fit.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_fit.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_drive.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_drive.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_files.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_files.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_duolingo.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_duolingo.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_cast.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_cast.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_cloud.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_cloud.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_copilot.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_copilot.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_x.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_x.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_vanilla_calc.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_vanilla_calc.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_music.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_music.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_netflix.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_netflix.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_calendar.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_calendar.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_disk.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_disk.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_signal.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_signal.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_docs.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_docs.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_capcut.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_capcut.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_onedrive.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_onedrive.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_drive.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_drive.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_password_manager.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_password_manager.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_lumo.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_lumo.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_meet.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_meet.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_instagram_lite.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_instagram_lite.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_messages.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_messages.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_link_to_windows.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_link_to_windows.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_outlook.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_outlook.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_kinopoisk.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_kinopoisk.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_uber.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_uber.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_discord.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_discord.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_fdroid.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_fdroid.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_word.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_word.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_mail.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_mail.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_imo.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_imo.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_dictaphone.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_dictaphone.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_mail.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_mail.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_twitch.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_twitch.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_tinder.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_tinder.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_facebook_lite.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_facebook_lite.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_notebooklm.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_notebooklm.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_remote.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_remote.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_chat_gpt.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_chat_gpt.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_settings.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_settings.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_soundcloud.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_soundcloud.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_gallery.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_gallery.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_gallery.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_gallery.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_translate.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_translate.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_snapseed.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_snapseed.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_weather.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_weather.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_xbox.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_xbox.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_alice.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_alice.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_find_my_device.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_find_my_device.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_meet.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_meet.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_authenticator.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_authenticator.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_tv.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_tv.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_meet.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_meet.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_lumo.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_lumo.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_assistant.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_assistant.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_snapchat.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_snapchat.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_drive.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_drive.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_sys_music.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/sys_music.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_bitwarden.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_bitwarden.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_spotify.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_spotify.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_whatsapp.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_whatsapp.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_go.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_go.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_2gis.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_2gis.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_vk.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_vk.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_google_tasks.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_google_tasks.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_threads.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_threads.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_yandex_navigator.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_yandex_navigator.png"
     },
     {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_proton_mail.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_proton_mail.png"
-    },
-    {
-        "merged": "com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_imo.png.flat",
-        "source": "com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_imo.png"
+        "merged": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-debug-61:/drawable-nodpi_app_microsoft_edge.png.flat",
+        "source": "/home/mrfolium/.gradle/daemon/9.4.1/com.mrfolium.willowicons.app-main-63:/drawable-nodpi/app_microsoft_edge.png"
     }
 ]

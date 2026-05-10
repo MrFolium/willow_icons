@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Desk Version="1.0" VersionCode="1" Wallpaper="wall0" ScollWallpaper="false" WallpaperFill="0">
+<Desk Version="2.0" VersionCode="2" Wallpaper="wall0" ScollWallpaper="false" WallpaperFill="0">
 
     <Dock Source="dock.xml">
         <DockSetting RowCount="2" IsBackground="true" Background="dock" BackgroundFill="1" />

@@ -8,8 +8,8 @@ android {
         applicationId 'com.mrfolium.willowicons'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 1
-        versionName '1.0'
+        versionCode 20
+        versionName '2.0'
     }
 
     bundle {

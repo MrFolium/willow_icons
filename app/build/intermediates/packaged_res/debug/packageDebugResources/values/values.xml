@@ -4,13 +4,19 @@
         <item>https://github.com/MrFolium</item>
     </string-array>
     <string-array name="changelog">
-        <item>First Changelog</item>
-        <item>Second Changelog</item>
+
         <item>
-            <![CDATA[
-            Formatted Changelog with <u>Underline</u>, <b>Bold</b>, <i>Italic</i> and <a href="https://your.link.here">Link</a>.
-            ]]>
+            Added launcher support via CandyBar base
         </item>
+
+        <item>
+            Improved compatibility with supported launchers
+        </item>
+
+        <item>
+            General stability and performance improvements
+        </item>
+
     </string-array>
     <string-array name="dashboard_launchers">
         <item>action</item>
@@ -114,7 +120,7 @@
     <string name="app_name">Willow Icons</string>
     <string name="authorLink">https://github.com/MrFolium</string>
     <string name="authorName">MrFolium</string>
-    <string name="changelog_date">August 04, 2019</string>
+    <string name="changelog_date">May 2026</string>
     <string name="config_json"/>
     <string name="default_theme">auto</string>
     <string name="default_wallpaper">wall0</string>

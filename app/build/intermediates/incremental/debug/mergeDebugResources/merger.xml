@@ -16304,14 +16304,20 @@ Muzei 并不会在每次壁纸变化的时候下载壁纸。你需要先在 Dash
         
         <item name="cb_wallpaperStatusBar">#66000000</item>
         <item name="cb_wallpaperToolbar">#66000000</item>
-    </style></file><file path="/home/mrfolium/willow_icons/app/src/main/res/values/apex_settings.xml" qualifiers=""><bool name="config_iconpack">true</bool><bool name="config_apexskin">true</bool><bool name="enableIconPack">true</bool><color name="drawer_background_color">#55000000</color><color name="drawer_icon_dark">#ff8b8b8b</color><color name="drawer_icon_text_color">#ffffffff</color><color name="drawer_list_selector_dark_pressed">#594f4f4f</color><color name="drawer_list_selector_light_pressed">#59c3c3c3</color><color name="drawer_selected_dark">#0f000000</color><color name="drawer_selected_light">#0fffffff</color><color name="drawer_shadow_color">#c73c3c3c</color><color name="drawer_tab_text_color">#ffffffff</color><color name="drawer_text_color">#ffffffff</color><string name="default_wallpaper">wall0</string></file><file path="/home/mrfolium/willow_icons/app/src/main/res/values/changelog.xml" qualifiers=""><string name="changelog_date">August 04, 2019</string><string-array name="changelog">
-        <item>First Changelog</item>
-        <item>Second Changelog</item>
+    </style></file><file path="/home/mrfolium/willow_icons/app/src/main/res/values/apex_settings.xml" qualifiers=""><bool name="config_iconpack">true</bool><bool name="config_apexskin">true</bool><bool name="enableIconPack">true</bool><color name="drawer_background_color">#55000000</color><color name="drawer_icon_dark">#ff8b8b8b</color><color name="drawer_icon_text_color">#ffffffff</color><color name="drawer_list_selector_dark_pressed">#594f4f4f</color><color name="drawer_list_selector_light_pressed">#59c3c3c3</color><color name="drawer_selected_dark">#0f000000</color><color name="drawer_selected_light">#0fffffff</color><color name="drawer_shadow_color">#c73c3c3c</color><color name="drawer_tab_text_color">#ffffffff</color><color name="drawer_text_color">#ffffffff</color><string name="default_wallpaper">wall0</string></file><file path="/home/mrfolium/willow_icons/app/src/main/res/values/changelog.xml" qualifiers=""><string name="changelog_date">May 2026</string><string-array name="changelog">
+
         <item>
-            <![CDATA[
-            Formatted Changelog with <u>Underline</u>, <b>Bold</b>, <i>Italic</i> and <a href="https://your.link.here">Link</a>.
-            ]]>
+            Added launcher support via CandyBar base
         </item>
+
+        <item>
+            Improved compatibility with supported launchers
+        </item>
+
+        <item>
+            General stability and performance improvements
+        </item>
+
     </string-array></file><file path="/home/mrfolium/willow_icons/app/src/main/res/values/colors.xml" qualifiers=""><color name="splashColor">#F4F5F7</color><color name="shortcutIconBackground">#5F97C9</color><color name="shortcutIconForeground">#F4F5F7</color></file><file path="/home/mrfolium/willow_icons/app/src/main/res/values/dashboard_configurations.xml" qualifiers=""><string name="default_theme">auto</string><bool name="material_you_by_default">true</bool><string name="muzei_art_source_name">Willow Icons</string><string name="muzei_art_source_desc">Wallpapers from Willow Icons</string><color name="muzei_color">#5F97C9</color><string name="kustom_pack_title">@string/app_name</string><string name="kustom_pack_description">Willow Icons Kustom presets</string><string name="home_title">Willow Icons</string><string name="home_image">home_image</string><string name="home_image_style">card_landscape</string><string name="home_description">
         <![CDATA[
             A clean and minimal icon pack by <b>MrFolium</b>.

@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "outputFile": "willow_icons-1-debug.apk"
+      "versionCode": 20,
+      "versionName": "2.0",
+      "outputFile": "willow_icons-20-debug.apk"
     }
   ],
   "elementType": "File",
