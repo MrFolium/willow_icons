@@ -37,7 +37,7 @@
     <item drawable="app_google_earth" />
     <item drawable="app_google_family_link" />
     <item drawable="app_google_files" />
-    <item drawable="app_google_find_my_device" />
+    <item drawable="app_google_find_my_device" />willow_icons.png
     <item drawable="app_google_fit" />
     <item drawable="app_google_gallery" />
     <item drawable="app_google_gboard" />
@@ -153,6 +153,8 @@
     <item drawable="app_yandex_translate" />
     <item drawable="app_yandex_weather" />
     <item drawable="app_zoom" />
+    <item drawable="app_willow_icons" />
+    
 
     <!-- System Icons -->
     <item drawable="sys_browser" />
