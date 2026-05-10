@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mrfolium.willowicons.app-mergeDebugResources-59:/values-en-rUS/values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "/home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/res/values-en-rUS/values-en-rUS.xml",
+                    "from": {
+                        "startLines": "2,29,30,31,32",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,387,441,497",
+                        "endLines": "28,29,30,31,32",
+                        "endColumns": "19,55,53,55,75",
+                        "endOffsets": "326,382,436,492,568"
+                    }
+                }
+            ]
+        }
+    ]
+}

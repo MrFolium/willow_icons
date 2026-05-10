@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>Le launcher est une partie de l\'interface utilisateur Android qui permet aux utilisateurs de personnaliser l\'écran d\'accueil, démarrer des applications mobile, passer des appels téléphoniques et effectuer d\'autres tâches.</item>
+        <item>Un ensemble d\'éléments graphiques qui changera l\'aspect des icônes de votre tiroir d\'applications</item>
+        <item>Vous avez besoin d\'un lanceur avec un support de pack d\'icônes.
+            Les lanceurs supportés sont listés dans la description du Play Store (ou demandez au développeur).
+            Si vous ne savez pas quels lanceurs utiliser, allez dans la section Appliquer, et choisissez-en un parmi la liste.</item>
+        <item>Vous pouvez ouvrir le tiroir de navigation puis sélectionner \"Appliquer\". Choisir un lanceur dans la liste.
+            Si votre lanceur n\'est pas listé là mais que ce pack d\'icônes est compatible
+            alors vous pouvez appliquer le pack d\'icônes manuellement depuis les paramètres de votre lanceur.</item>
+        <item>Vous pouvez ouvrir le tiroir de navigation puis sélectionner \"Icônes\"</item>
+        <item>Appuyez simplement sur l\'icône. Une prévisualisation apparaitra avec une image plus grande et le nom de l\'icône au complet.</item>
+        <item>Cela dépend du launcher utilisé. Tous les launchers ne supportent pas la modification d\'icône.
+Généralement, vous pouvez modifier un icône en maintenant votre doigt dessus ou en faisant un double appui.</item>
+        <item>Vous pouvez ouvrir le tiroir de navigation puis sélectionner \"Demande d\'icônes\".</item>
+        <item>Vous pouvez ouvrir le tiroir de navigation puis sélectionner \"Paramètres\" > \"Restaurer les achats\".
+            Si vous aviez des Demandes Premium restantes avant la réinstallation, alors elles seront restaurées.</item>
+        <item>C\'est arrivé car ce pack d\'icônes a été déplacé sur la carte SD ; vous devriez l\'installer sur la mémoire interne.</item>
+        <item>Le problème peut venir du lanceur que vous utilisez lors de la gestion de la résolution de gros icônes.
+       	    Vous pouvez corriger cela en augmentant la taille des icônes à 115 - 120%.
+       	    Sinon, vous pouvez changer de lanceur.</item>
+        <item>Ouvrir les paramètres, allez en bas pour choir \"Rapport d\'erreurs\".</item>
+        <item>\"Rapport de bugs\" est utilisé pour remonter des problèmes relatifs au pack d\'icônes, pas le tableau de bord.</item>
+        <item>Tous les lanceurs ne supportent pas l\'application directe et certains ne sont pas accessibles depuis le tableau de bord.
+      	    Vous pouvez appliquer ce pack d\'icônes manuellement depuis les paramètres dédiés du lanceur.</item>
+        <item>Quand vous \"Appliquer un fond d\'écran\" depuis l\'application, il sera téléchargé dans le cache, puis le tableau de bord essaiera de l\'appliquer. L\'application peut prendre du temps et requiert beaucoup de RAM pendant une faible durée.
+Les erreurs \"Écran noir\" peuvent survenir car votre téléphone n\'a pas assez de RAM disponible pour traiter le fond d\'écran.
+Redémarrer votre téléphone pour régler le problème. Au redémarrage, votre téléphone aura plus de RAM disponible.
+Sinon, vous pouvez ouvrir le fond d\'écran téléchargé depuis votre Galerie et le définir en tant que fond d\'écran depuis cette application.</item>
+        <item>Ouvrez Muzei, choisissez ce pack d\'icônes, Paramètres. Vous verrez une option pour charger uniquement les fonds d\'écran téléchargés.
+            Vous aurez au préalable besoin de télécharger les fonds d\'écran depuis le tableau de bord.</item>
+        <item>Si un fond d\'écran est déjà téléchargé, il sera automatiquement chargé depuis la mémoire du téléphone.
+Muzei n\'essaiera pas de le télécharger quand le fond d\'écran change. Vous aurez au préalable besoin de télécharger les fonds d\'écran depuis le tableau de bord.</item>
+        <item>Ouvrir le tableau de bord, télécharger les fonds d\'écran que vous souhaitez utiliser dans Muzei.
+Ouvrir les paramètres de Muzei puis choisir \"Charger uniquement les fonds d\'écran téléchargés\".</item>
+        <item>Nécessaire pour écrire et lire le cache et collecter les données lors de demande d\'icône•s.</item>
+        <item>Nécessaire pour charger les fonds d\'écran stockés dans le cloud &amp; les télécharger.</item>
+        <item>Nécessaire pour savoir si votre téléphone a une connexion Internet ou pas.</item>
+        <item>Nécessaire pour savoir si votre téléphone a une connexion Internet WiFi ou pas, pour charger les fonds d\'écran du cloud depuis Muzei.</item>
+        <item>Nécessaire pour directement appliquer les fonds d\'écran depuis le tableau de bord.</item>
+        <item>Nécessaire pour Muzei Live Wallpaper</item>
+        <item>Nécessaire pour lancer l\'application Horloge depuis le widget d\'horloge analogique.</item>
+    </string-array>
+    <string-array name="base">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    <string-array name="questions">
+        <item>Qu\'est-ce qu\'un launcher ?</item>
+        <item>Qu\'est-ce qu\'un pack d\'icônes ?</item>
+        <item>Comment utiliser un pack d\'icônes ?</item>
+        <item>Comment puis-je appliquer un pack d\'icônes ?</item>
+        <item>Comment puis-je voir toutes les icônes incluses ?</item>
+        <item>Je ne peux voir le nom complet d\'une icône</item>
+        <item>Comment puis-je remplacer des icônes par un icône alternatif ?</item>
+        <item>Comment puis-je demander une icône ?</item>
+        <item>Comment puis-je restaurer les Demandes Premium restantes après avoir réinstallé l\'application ?</item>
+        <item>Après avoir redémarré mon téléphone, le pack d\'icônes n\'est plus appliqué, les icônes ont était restaurées par défaut ?</item>
+        <item>Pourquoi les icônes semblent floues ou pixelisées sur mon téléphone ?</item>
+        <item>Je peux voir une icône dans la liste des icônes disponibles,
+            alors pourquoi cette même icône ne change pas dans le tiroir des applications ?</item>
+        <item>Qu\'est-ce que l\'option \"Rapport de bugs\" ?</item>
+        <item>Mon lanceur est listé dans la description Google Play alors pourquoi n\'est-il pas inclus dans la section Appliquer ?</item>
+        <item>Le fond d\'écran ne peut pas être appliqué, je n\'ai qu\'un écran noir ?</item>
+        <item>Muzei : comment uniquement charger les fonds d\'écran téléchargés ?</item>
+        <item>Muzei : Je ne veux pas continuer à télécharger des fonds d\'écran à chaque fois que le fond d\'écran change.</item>
+        <item>Muzei : Je ne veux que certains fonds d\'écran.</item>
+        <item>Pourquoi la permission Voir, modifier ou supprimer le contenu de la mémoire USB est requise ?</item>
+        <item>Pourquoi la permission Internet est requise ?</item>
+        <item>Pourquoi la permission Afficher les connexions réseau est requise ?</item>
+        <item>Pourquoi la permission Afficher les connexions Wi-Fi est requise ?</item>
+        <item>Pourquoi la permission Configurer le fond d\'écran est requise ?</item>
+        <item>Pourquoi la permission Empêcher le téléphone de passer en mode veille est requise ?</item>
+        <item>Pourquoi la permission Définir une alarme est requise ?</item>
+    </string-array>
+    <string name="about_contributors_title">Contributeurs</string>
+    <string name="about_dashboard">CandyBar</string>
+    <string name="about_dashboard_contributors">Contributeurs CandyBar</string>
+    <string name="about_dashboard_dev">CandyBar est un tableau de bord de pack d\'icônes open source pour Android publié sous licence Apache 2.0 sur Github.
+        Il est libre d\'utilisation et développé par Dani Mahardhika.</string>
+    <string name="about_dashboard_translator">Traducteurs CandyBar</string>
+    <string name="about_item_social_content_description">Un lien vers un profil en ligne de l\'auteur du pack d\'icônes : </string>
+    <string name="about_open_source_licenses">Licences Open Source</string>
+    <string name="about_privacy_policy_title">Politique de confidentialité</string>
+    <string name="about_terms_and_conditions_title">Conditions d\'utilisation</string>
+    <string name="app_client">Choisir le client e-mail</string>
+    <string name="apply_cmtheme_failed">Impossible de lancer CM Theme Manager, vous pouvez essayer d\'appliquer le pack d\'icônes manuellement depuis les paramètres.</string>
+    <string name="apply_cmtheme_not_available">CM Theme Manager n\'est pas disponible sur cet appareil</string>
+    <string name="apply_installed">Launcher(s) installé(s)</string>
+    <string name="apply_installed_launchers">Launcher(s) installé(s)</string>
+    <string name="apply_launch_failed">Impossible d\'accéder aux paramètres de %s</string>
+    <string name="apply_launcher_incompatible">Le lanceur %s ne supporte aucun pack d\'icônes, alors vous ne pouvez pas utiliser ce pack d\'icônes avec ce lanceur. Vous pouvez essayer une application tierce pour utiliser ce pack d\'icônes avec le lanceur %2$s. Voulez-vous l\'installer ?</string>
+    <string name="apply_launcher_incompatible_depending_on_version">Le lanceur %s ne prend pas en charge les packs d\'icônes sur Android %d ou moins. Veuillez mettre à jour votre version d\'Android ou installer un lanceur tiers pour utiliser ce pack d\'icônes. Vous pouvez également essayer une application d\'aide pour changer les icônes individuelles. Voulez-vous l\'installer ?</string>
+    <string name="apply_launcher_not_installable">%s Le launcher n\'est pas installé. Veuillez réessayer après l\'installation du launcher.</string>
+    <string name="apply_launcher_not_installed">%s n\'est pas installé. 
+Voulez-vous l\'ouvrir sur le Google Play Store pour le télécharger et l\'installer ?</string>
+    <string name="apply_lg_home">Pour appliquer ce pack d\'icônes, ouvez les Paramètres > Affichage > Écran d\'accueil > Thème</string>
+    <string name="apply_lg_home_failed">Impossible de lancer LG Home, vous pouvez essayer d\'appliquer le pack d\'icônes manuellement depuis les paramètres.</string>
+    <string name="apply_lg_home_not_available">LG Home n\'est pas disponible sur cet appareil</string>
+    <string name="apply_lg_home_nougat">LG Home sur Android Nougat ne supporte plus les packs d\'icônes.
+Vous avez besoin d\'un lanceur tiers pour utiliser un pack d\'icônes.</string>
+    <string name="apply_manual">Le lanceur %1$s ne prend pas en charge l\'application directe, mais vous pouvez appliquer %2$s manuellement depuis les paramètres du lanceur.</string>
+    <string name="apply_manual_before">Cette version du lanceur Before ne supporte pas encore l\'application directe des icônes. Au lieu de cela, suivez les étapes ci-dessous :</string>
+    <string name="apply_manual_before_step_1">Balayer vers la gauche sur l\'écran d\'accueil</string>
+    <string name="apply_manual_before_step_2">Appuyer sur \"Paramètres\"</string>
+    <string name="apply_manual_before_step_3">Appuyer sur \"Styles &amp; Thèmes\"</string>
+    <string name="apply_manual_before_step_4">Appuyer sur \"Styles d\'icônes &amp; Packs\"</string>
+    <string name="apply_manual_before_step_5">Appuyer sur %s</string>
+    <string name="apply_manual_color_os_step_1">Appui long sur votre écran d\'accueil</string>
+    <string name="apply_manual_color_os_step_2">Appuyer sur \"Icônes\"</string>
+    <string name="apply_manual_color_os_step_3">Faire défiler vers la droite du bouton \"Personnalisé\" (c\'est une liste déroulante !)</string>
+    <string name="apply_manual_color_os_step_4">Appuyer sur %s</string>
+    <string name="apply_manual_hios">Le lanceur HiOS ne prend pas en charge l\'application directe, mais vous pouvez suivre ces étapes :</string>
+    <string name="apply_manual_hios_step_1">Ouvrir les \"Paramètres\"</string>
+    <string name="apply_manual_hios_step_2">Appuyer sur \"Thème &amp; Écran de verrouillage\"</string>
+    <string name="apply_manual_hios_step_3">Appuyer sur \"Mon thème\"</string>
+    <string name="apply_manual_hios_step_4">Appuyer sur \"Pack d\'icônes\"</string>
+    <string name="apply_manual_hios_step_5">Appuyer sur %s</string>
+    <string name="apply_manual_kiss">KISS ne prend pas en charge l\'application directe, mais vous pouvez suivre ces étapes :</string>
+    <string name="apply_manual_kiss_step_1">Ouvrir les paramètres de KISS</string>
+    <string name="apply_manual_kiss_step_2">Appuyez sur \"Interface utilisateur\"</string>
+    <string name="apply_manual_kiss_step_3">Appuyez sur le \"Pack d\'icônes\"</string>
+    <string name="apply_manual_kiss_step_4">Choisissez %s depuis la liste</string>
+    <string name="apply_manual_kvaesitso">Kvaesitso ne supporte pas l\'application directe, mais vous pouvez suivre ces étapes :</string>
+    <string name="apply_manual_kvaesitso_step_1">Ouvrir les paramètres de Kvaesitso</string>
+    <string name="apply_manual_kvaesitso_step_2">Appuyez sur « Grille &amp; Icônes »</string>
+    <string name="apply_manual_kvaesitso_step_3">Appuyez sur le \"Pack d\'icônes\"</string>
+    <string name="apply_manual_kvaesitso_step_4">Choisissez %s depuis la liste</string>
+    <string name="apply_manual_kvaesitso_step_5">Appuyez sur l\'icône pinceau pour activer ou désactiver la forme d\'arrière-plan</string>
+    <string name="apply_manual_nothing_step_1">Ouvrir les \"Paramètres\"</string>
+    <string name="apply_manual_nothing_step_2">Appuyer sur \"Personnalisation\"</string>
+    <string name="apply_manual_nothing_step_3">Appuyer sur \"Pack d\'icônes\"</string>
+    <string name="apply_manual_nothing_step_4">Appuyer sur %s</string>
+    <string name="apply_manual_oxygen_os_step_1">Appui long sur votre écran d\'accueil</string>
+    <string name="apply_manual_oxygen_os_step_2">Appuyer sur \"Paramètres de la maison\"</string>
+    <string name="apply_manual_oxygen_os_step_3">Appuyer sur \"Pack d\'icônes\"</string>
+    <string name="apply_manual_oxygen_os_step_4">Appuyer sur %s</string>
+    <string name="apply_manual_samsung_oneui">%1$s ne prend pas en charge l\'application directe, mais avec %2$s vous pouvez appliquer des icônes avec une application complémentaire.</string>
+    <string name="apply_manual_samsung_oneui_step_1">Ouvrir %s</string>
+    <string name="apply_manual_samsung_oneui_step_2">Télécharger l\'application %s</string>
+    <string name="apply_manual_samsung_oneui_step_3">Tapez sur \"Icône\"</string>
+    <string name="apply_manual_samsung_oneui_step_4">Tapez sur \"Créer nouveau\"</string>
+    <string name="apply_manual_samsung_oneui_step_5">Tapez sur le bouton bleu \"Pack d\'icônes\"</string>
+    <string name="apply_manual_samsung_oneui_step_6">Choisissez %s depuis la liste</string>
+    <string name="apply_manual_samsung_oneui_step_7">Répétez ces étapes à chaque fois que vous mettez à jour %s, car les nouvelles icônes ne seront pas appliquées automatiquement.</string>
+    <string name="apply_manual_samsung_oneui_too_old">Votre version actuelle de %s est trop ancienne. Veuillez mettre à jour vers Android 12 ou plus récent pour pouvoir appliquer les icônes directement. Vous pouvez également installer un lanceur différent.</string>
+    <string name="apply_supported">Launchers supportés</string>
+    <string name="billing_load_product_failed">Échec du chargement des produits intégrés à l\'application</string>
+    <string name="bookmark_button_content_description">Ajouter cette icône à la section des favoris</string>
+    <string name="bookmark_icons_empty">Aucun favori trouvé. Mettez en favori des icônes pour les consulter rapidement ici.</string>
+    <string name="changelog_version">Version</string>
+    <string name="checking_for_update">Vérification de mise à jour...</string>
+    <string name="clear">Effacer</string>
+    <string name="close">Fermer</string>
+    <string name="connection_error_long">Impossible de charger les données du serveur. Veuillez vérifier votre connexion.</string>
+    <string name="connection_failed">Impossible d\'obtenir des informations du serveur</string>
+    <string name="crash_report">Rapport de Plantage</string>
+    <string name="crash_report_message">Malheureusement, %s a cessé de fonctionner. Envoyez le rapport ci-dessous pour aider le développeur à résoudre le problème.</string>
+    <string name="crash_report_send">Envoyer le Rapport</string>
+    <string name="donate">Faire un don</string>
+    <string name="donation_success">Merci d\'avoir fait un don, il sera utilisé à bon escient.</string>
+    <string name="home_apply_icon_pack">Appliquer %s</string>
+    <string name="home_donate">Faire un don</string>
+    <string name="home_donate_desc">Soutenir le développement pour le pack d\'icônes</string>
+    <string name="home_icon_dimension">Dimension d\'icône en %s pixels</string>
+    <string name="home_icon_request_installed_apps">Total\n%d applications installées</string>
+    <string name="home_icon_request_missed_apps">Manquantes\n%d applis</string>
+    <string name="home_icon_request_themed_apps">Modifiées\n%d applis</string>
+    <string name="home_icons">Icônes personnalisées</string>
+    <string name="home_loud_wallpapers">%d fonds d\'écran Cloud</string>
+    <string name="home_more_apps">Voir d\'autres applications publiées sur le Google Play Store</string>
+    <string name="home_more_apps_header">Autres applications</string>
+    <string name="home_muzei">Fond d\'écran animé Muzei</string>
+    <string name="home_rate_and_review">Noter et commenter</string>
+    <string name="hour">Heure</string>
+    <string name="icon_list_content_description">La liste des icônes incluses dans le pack d\'icônes</string>
+    <string name="icon_request_submit_button_content_description">Soumettre une demande d\'icône</string>
+    <string name="icon_search_close_button_content_description">Fermer la recherche d\'icône</string>
+    <string name="icon_search_list_content_description">La liste des icônes qui correspondent au terme recherché</string>
+    <string name="icon_shape">Forme des icônes</string>
+    <string name="icons_load_failed">Impossible de charger les icônes</string>
+    <string name="install">Installer</string>
+    <string name="intent_email_failed">Impossible d\'afficher l\'application e-mail</string>
+    <string name="intent_email_not_supported">Non supporté</string>
+    <string name="intent_email_not_supported_message">Sélection d\'un client e-mail non supporté, merci d\'en choisir un autre</string>
+    <string name="intent_email_recommended">Recommandé</string>
+    <string name="intent_email_supported">Supporté</string>
+    <string name="items_selected">%d sélectionnés</string>
+    <string name="license_check">License vérifiée</string>
+    <string name="license_check_failed">Échec du contrôle de licence ; vous n\'avez pas téléchargé l\'appli depuis le Play Store.
+        Vous ne pourrez pas l\'utiliser.</string>
+    <string name="license_check_retry">Impossible de vérifier la licence, veuillez réessayer plus tard</string>
+    <string name="license_check_success">Vérification de la licence réussie. Merci d\'avoir téléchargé l\'appli depuis le Play Store.</string>
+    <string name="license_checking">Vérification de la licence …</string>
+    <string name="menu_apply_homescreen">Ecran d\'accueil</string>
+    <string name="menu_apply_homescreen_lockscreen">Écran d\'accueil &amp; Écran de verrouillage</string>
+    <string name="menu_apply_lockscreen">Ecran de verrouillage</string>
+    <string name="menu_delete">Supprimer</string>
+    <string name="menu_save">Enregistrer sur l\'appareil</string>
+    <string name="menu_search">Recherche</string>
+    <string name="menu_select_all">Tout sélectionner</string>
+    <string name="menu_wallpaper_crop">Rogner le fond d\'écran</string>
+    <string name="minute">Minute</string>
+    <string name="muzei_downloaded_only">Charger uniquement les fonds d\'écran téléchargés</string>
+    <string name="muzei_refresh_duration">Duré d\'actualisation</string>
+    <string name="muzei_settings">Paramètres Muzei</string>
+    <string name="muzei_settings_ignored">Le pack d\'icônes ne contient pas de fonds d\'écran, paramètres ignorés.</string>
+    <string name="muzei_settings_saved">Paramètres enregistrés</string>
+    <string name="muzei_wifi_only">Actualiser via le Wi-Fi uniquement</string>
+    <string name="navigation_view_about">À propos</string>
+    <string name="navigation_view_apply">Appliquer</string>
+    <string name="navigation_view_donate">Soutenir le développement</string>
+    <string name="navigation_view_faqs">FAQ</string>
+    <string name="navigation_view_home">Accueil</string>
+    <string name="navigation_view_icons">Icônes</string>
+    <string name="navigation_view_presets">Modèles</string>
+    <string name="navigation_view_request">Demande d\'icônes</string>
+    <string name="navigation_view_settings">Paramètres</string>
+    <string name="navigation_view_wallpapers">Fonds d\'écran</string>
+    <string name="no_browser">Aucune application trouvée pour ouvrir l\'URL</string>
+    <string name="no_email_app">Aucune application trouvée pour envoyer un e-mail</string>
+    <string name="no_update_available">Vous utilisez la dernière version !</string>
+    <string name="ok">OK</string>
+    <string name="open">Ouvrir</string>
+    <string name="permission_notification_denied_1">La permission des notifications est requis pour recevoir des notifications du développeur</string>
+    <string name="permission_notification_denied_2">Activer les notifications dans les paramètres de l\'application</string>
+    <string name="permission_storage_denied">La permission Espace de stockage est requise pour enregistrer le fond d\'écran</string>
+    <string name="playstore_check">Contrôle Play Store</string>
+    <string name="playstore_check_failed">Il semble que vous avez installé ce pack d\'icônes en dehors du Google Play Store.
+        Vous ne pourrez pas l\'utiliser.</string>
+    <string name="playstore_check_success">Merci d\'avoir installé l\'appli depuis le Google Play Store. Profitez !</string>
+    <string name="pref_data_cache">Effacer le cache</string>
+    <string name="pref_data_cache_clear_dialog">Souhaitez-vous vraiment effacer le cache ?</string>
+    <string name="pref_data_cache_cleared">Cache effacé</string>
+    <string name="pref_data_cache_desc">Supprimer le cache des images sur votre espace de stockage, créé lors de la sélection d\'images depuis cette application, lors de la demande d\'applications manquantes et après avoir chargé les vignettes des fonds d\'écran depuis le cloud.</string>
+    <string name="pref_data_cache_size">Taille du cache : %s</string>
+    <string name="pref_data_header">Données et Cache</string>
+    <string name="pref_data_request">Effacer les données de demande d\'icônes</string>
+    <string name="pref_data_request_clear_dialog">Souhaitez-vous vraiment effacer les données de demandes d\'icônes ?</string>
+    <string name="pref_data_request_cleared">Données de demandes d\'icônes effacées</string>
+    <string name="pref_data_request_desc">Effacer les données de la demande d\'icônes, créées après avoir demandé des applications manquantes depuis l\'écran de demande d\'icônes.</string>
+    <string name="pref_language_header">Langue</string>
+    <string name="pref_notifications">Recevoir les notifications</string>
+    <string name="pref_notifications_header">Notifications</string>
+    <string name="pref_others_changelog">Journal des Modifications</string>
+    <string name="pref_others_header">Autres</string>
+    <string name="pref_others_report_bugs">Rapport d\'erreurs</string>
+    <string name="pref_others_reset_tutorial">Réinitialiser le didacticiel</string>
+    <string name="pref_others_reset_tutorial_reset">Didacticiel réinitialisé</string>
+    <string name="pref_premium_request_header">Demande d\'Icônes Premium</string>
+    <string name="pref_premium_request_rebuild">Reconstruire la Demande d\'Icône(s) Premium</string>
+    <string name="pref_premium_request_rebuild_desc">Collecter toutes les données de demandes d\'icône(s) premium pour les envoyer</string>
+    <string name="pref_premium_request_restore">Restaurer les achats</string>
+    <string name="pref_premium_request_restore_desc">Restaurer le pack de demande premium après avoir réinstallé le pack d\'icônes</string>
+    <string name="pref_premium_request_restore_empty">Aucun pack n\'a été acheté</string>
+    <string name="pref_premium_request_restore_success">Demande Premium restaurée</string>
+    <string name="pref_theme_dark">Thème sombre</string>
+    <string name="pref_theme_dark_desc">Utiliser des couleurs sombres pour le thème de l\'application</string>
+    <string name="pref_theme_header">Thème</string>
+    <string name="pref_wallpaper_header">Fond d\'écran</string>
+    <string name="pref_wallpaper_location">Emplacement de sauvegarde du fond d\'écran</string>
+    <string name="premium_request">Demande d\'icône(s) Premium</string>
+    <string name="premium_request_already_purchased">Vous avez encore %d demandes premium.
+Vous devez d\'abord toutes les utiliser avant de pouvoir acheter une nouvelle demande premium.</string>
+    <string name="premium_request_available">Disponibles\n%d demande(s)</string>
+    <string name="premium_request_buy">Acheter</string>
+    <string name="premium_request_consume_failed">Impossible d\'utiliser une Demande Premium, assurez-vous d\'avoir une connexion Internet stable et essayez à nouveau.
+        Allez dans les paramètres pour reconstruire des Demandes Premium.</string>
+    <string name="premium_request_count">Total\n%d demandé(s)</string>
+    <string name="premium_request_desc">Il faut payer pour avoir accès à la demande d\'icônes premium.</string>
+    <string name="premium_request_exist">Vous avez encore un pack de Demande d\'icône(s) Premium.
+Ouvrez les Paramètres et choisissez \"Restaurer les achats\" pour le restaurer.</string>
+    <string name="premium_request_limit">Vous avez seulement %d demande(s) premium.</string>
+    <string name="premium_request_limit1">Mais vous avez sélectionné %d application(s).
+
+
+Vous devez utiliser toutes vos demandes premium avant de pouvoir faire une demande classique.</string>
+    <string name="premium_request_no_internet">Assurez-vous que votre téléphone soit connecté à Internet avant d\'envoyer une demande premium</string>
+    <string name="premium_request_rebuilding">Reconstruction de Demande Premium</string>
+    <string name="premium_request_rebuilding_empty">Vous n\'avez pas fait de Demande Premium</string>
+    <string name="premium_request_required">Vous devez acheter un pack de demande d\'icône(s) premium pour faire des demandes d\'icônes</string>
+    <string name="premium_request_used">Utilisées\n%d demande(s)</string>
+    <string name="presets_load_failed">Impossible de charger les modèles</string>
+    <string name="presets_required_apps">Des applications sont requises pour utiliser ces modèles</string>
+    <string name="presets_required_apps_not_installed">Les applications requises pour utiliser le modèle ne sont pas installées. Veuillez les installer et essayez à nouveau.</string>
+    <string name="presets_storage_permission">La permission Espace de stockage est requise pour charger la prévisualation du fond d\'écran</string>
+    <string name="regular_request">Demande d\'icônes classique</string>
+    <string name="regular_request_available">Disponibles\n%d demande(s)</string>
+    <string name="regular_request_count">Total\n%d demande(s)</string>
+    <string name="regular_request_desc">Faites une demande pour vos icônes. Le développeur essaiera de les inclure.</string>
+    <string name="regular_request_used">Utilisées\n%d demande(s)</string>
+    <string name="report_bugs_building">Construction de la liste d\'activités …</string>
+    <string name="report_bugs_desc">Donnez une description du type de problème que vous voulez reporté</string>
+    <string name="report_bugs_desc_empty">Veuillez fournir une description</string>
+    <string name="report_bugs_desc_hint">Description</string>
+    <string name="report_bugs_failed">Impossible de construire la liste d\'activités</string>
+    <string name="report_bugs_send">Envoyer le Rapport</string>
+    <string name="request_already_requested">Déjà demandée</string>
+    <string name="request_app_disabled">Vous utilisez une ancienne version de ce pack d\'icônes, les icônes demandées peuvent être déjà incluses dans la dernière version. Veuillez mettre à jour l\'application pour demander des icônes.</string>
+    <string name="request_appfilter_failed">Impossible de lire le fichier appfilter.xml</string>
+    <string name="request_build_failed">Impossible de construire la demande d\'icône(s)</string>
+    <string name="request_building">Construction de la demande …</string>
+    <string name="request_custom_error">Une erreur s\'est produite lors de l\'envoi de la demande d\'icônes. Si cette erreur persiste, contactez le développeur. %s</string>
+    <string name="request_custom_success">Demande d\'icône(s) envoyée avec succès</string>
+    <string name="request_email_client">Choisissez la plateforme de messagerie que vous souhaitez utiliser pour envoyer la demande d\'icône(s)</string>
+    <string name="request_fetching_data">Récupération des dernières données...</string>
+    <string name="request_limit">Vous pouvez seulement faire %d demande(s) en demande classique.</string>
+    <string name="request_limit_buy">Vous pouvez acheter des Demandes Premium pour demander davantage d\'icônes.</string>
+    <string name="request_limit_reset">La limite de demande d\'icône(s) sera réinitialisée à chaque mise à jour.</string>
+    <string name="request_not_available">Ne peut pas être demandé</string>
+    <string name="request_not_requested">Non demandée</string>
+    <string name="request_not_selected">Sélectionnez les applications à demander</string>
+    <string name="request_pacific_error">Échec de l\'envoi de la demande à Pacific Manager. L\'erreur est %s</string>
+    <string name="request_pacific_sending">Envoi de la demande à Pacific Manager...</string>
+    <string name="request_pacific_success">Demande envoyée avec succès à Pacific Manager</string>
+    <string name="request_requested">Vous avez déjà demandé cette icône et ne pouvez pas la demander à nouveau.</string>
+    <string name="request_requested_button_cancel">Retour</string>
+    <string name="request_requested_button_confirm">Confirmer</string>
+    <string name="request_requested_possible">Vous avez déjà demandé cette icône. Êtes-vous sûr(e) de vouloir consommer une autre requête ?</string>
+    <string name="request_title">Demande d\'icône(s)</string>
+    <string name="request_used">Vous avez demandé %d icône(s).</string>
+    <string name="save_setting">Enregistrer</string>
+    <string name="search_faqs">Question ou réponse</string>
+    <string name="search_icon">Nom d\'icône</string>
+    <string name="search_noresult">Aucun résultat pour \"%s\"</string>
+    <string name="search_wallpapers">Nom du fond d\'écran</string>
+    <string name="share_app_body">Regarde %1$s, ce pack d\'icônes est vraiment sympa ! %2$s</string>
+    <string name="share_app_title">Salut ! Regarde ça %s</string>
+    <string name="share_icon_pack_button_content_description">Partager cette application avec une connaissance</string>
+    <string name="splash_screen_title">Tableau de bord CandyBar</string>
+    <string name="tap_intro_home_apply">Appliquer le pack d\'icônes</string>
+    <string name="tap_intro_home_apply_desc">Appuyez ici pour appliquer %s à votre lanceur actuel. Appuyez longuement pour appliquer à d\'autres lanceurs.</string>
+    <string name="tap_intro_home_navigation">Tiroir de Navigation</string>
+    <string name="tap_intro_home_navigation_desc">Appuyez ici ou faites glisser votre doigt depuis le côté gauche de l\'écran pour ouvrir le tiroir de navigation</string>
+    <string name="tap_intro_icons_search">Recherche</string>
+    <string name="tap_intro_icons_search_desc">Appuyez ici pour rechercher une icône</string>
+    <string name="tap_intro_request_premium">Demande d\'icône(s) Premium</string>
+    <string name="tap_intro_request_premium_desc">Appuyez ici pour acheter un pack de demande d\'icônes premium,
+        avec la demande d\'icônes premium, vous pouvez demander plus d\'icônes plus rapidement.</string>
+    <string name="tap_intro_request_select">Sélectionner l\'application manquante</string>
+    <string name="tap_intro_request_select_all">Sélectionner toutes les applications manquantes</string>
+    <string name="tap_intro_request_select_all_desc">Appuyez ici pour sélectionner toutes les applications pour la demande d\'icône(s)</string>
+    <string name="tap_intro_request_select_desc">Appuyez ici pour sélectionner l\'application manquante pour la demande d\'icône(s)</string>
+    <string name="tap_intro_request_send">Envoyer la demande d\'icône(s)</string>
+    <string name="tap_intro_request_send_desc">Appuyez ici pour envoyer les applications manquantes sélectionnées</string>
+    <string name="tap_intro_wallpaper_preview_apply">Appliquer le fond d\'écran</string>
+    <string name="tap_intro_wallpaper_preview_apply_desc">Appuyez ici pour mettre le fond d\'écran sur votre écran d\'accueil</string>
+    <string name="tap_intro_wallpaper_preview_save">Enregistrer le fond d\'écran</string>
+    <string name="tap_intro_wallpaper_preview_save_desc">Appuyez ici pour télécharger et enregistrer le fond d\'écran sur votre appareil afin de pouvoir l\'utiliser ultérieurement</string>
+    <string name="tap_intro_wallpapers_option">Options du fond d\'écran</string>
+    <string name="tap_intro_wallpapers_option_desc">Appuyez ici et maintenez pour voir les options de fond d\'écran, %s appliquer le fond d\'écran.</string>
+    <string name="tap_intro_wallpapers_option_desc_download">Télécharger ou</string>
+    <string name="tap_intro_wallpapers_preview">Prévisualiser le fond d\'écran</string>
+    <string name="tap_intro_wallpapers_preview_desc">Appuyez ici pour prévisualiser le fond d\'écran en taille réelle</string>
+    <string name="theme_name_auto">Auto</string>
+    <string name="theme_name_dark">Sombre</string>
+    <string name="theme_name_light">Clair</string>
+    <string name="theme_name_material_you">Material You</string>
+    <string name="txt_close">Fermer</string>
+    <string name="txt_new">Nouveau</string>
+    <string name="txt_open">Ouvrir</string>
+    <string name="unable_to_load_config">Une erreur s\'est produite lors de la récupération/lecture des données du serveur.</string>
+    <string name="update">Mettre à jour</string>
+    <string name="update_available">Mise à jour disponible !</string>
+    <string name="wallpaper_already_downloaded">Fond d\'écran déjà téléchargé</string>
+    <string name="wallpaper_applied">Fond d\'écran appliqué</string>
+    <string name="wallpaper_apply">Appliquer le fond d\'écran</string>
+    <string name="wallpaper_apply_cancelled">Application du fond d\'écran annulé</string>
+    <string name="wallpaper_apply_failed">Impossible d\'appliquer le fond d\'écran</string>
+    <string name="wallpaper_applying">Application du fond d\'écran …</string>
+    <string name="wallpaper_download_failed">Impossible de télécharger le fond d\'écran</string>
+    <string name="wallpaper_download_success">Fond d\'écran téléchargé avec succès</string>
+    <string name="wallpaper_downloading">Téléchargement du fond d\'écran …</string>
+    <string name="wallpaper_loading">Chargement du fond d\'écran …</string>
+    <string name="wallpaper_new_added">Nouveaux fonds d\'écran</string>
+    <string name="wallpaper_save_to_device">Enregistrer le fond d\'écran</string>
+</resources>

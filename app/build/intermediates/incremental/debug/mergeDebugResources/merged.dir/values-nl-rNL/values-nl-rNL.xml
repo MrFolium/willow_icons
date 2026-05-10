@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>De launcher is de interface waarmee gebruikers het startscherm kunnen aanpassen.,
+            start mobiele apps, start telefoongesprekken, en andere taken uitvoeren op Androidapparaten.</item>
+        <item>Een grafische set die het uiterlijk van je app-iconen wijzigt</item>
+        <item>Je hebt een launcher nodig die aangepaste icoonpakketten ondersteunt.
+            Ondersteunde launchers staan vermeld in de beschrijving van de Play Store.
+            Als je niet weet welke launchers gebruikt moeten worden, ga gewoon naar het \"Toepassen\" gedeelte en installeer het vanaf daar.</item>
+        <item>Je kunt het navigatiepaneel openen en vervolgens \"Toepassen\" openen. Kies uw launcher uit de lijst.
+            Als je launcher daar niet is opgenomen, maar dit icon pack is compatibel met
+            (zie op de Google Play Store beschrijving voor ondersteunde launchers),
+            je kunt het iconenpakket handmatig toepassen in uw launcher instellingen.</item>
+        <item>Je kunt het zijmenu openen en vervolgens \"Iconen\" openen</item>
+        <item>Tik op het icoon. Een preview zal verschijnen met een grotere afbeelding en een volledige naam van het icoon.</item>
+        <item>Het hangt ervan af welke launcher je hebt gebruikt. Niet elke launcher ondersteunt het bewerken van icoon.
+       	    Meestal kun je een icoon bewerken door op &amp; het ingedrukt te houden of er dubbel op te tikken.</item>
+        <item>Je kunt de navigatiebalk openen en vervolgens \"Iconen\" openen</item>
+        <item>Je kunt het zijmenu openen en vervolgens \"Instellingen\" openen en \"Aankopen Herstellen\" kiezen.
+            Als je nog resterende Premium verzoeken had voordat je opnieuw installeerde, ze zullen worden hersteld.</item>
+        <item>Het gebeurde omdat dit iconenpakket naar de SD-kaart is verplaatst; je moet het in het interne geheugen installeren.</item>
+        <item>Het probleem is misschien afkomstig van de launcher die je hebt gebruikt bij het vergroten van je iconen.
+       	    Je kunt het oplossen door de grootte van het icoon te verhogen naar 115-120%.
+       	    Als alternatief kan je je launcher wijzigen.</item>
+        <item>Open instellingen, scroll naar beneden en selecteer vervolgens \"Rapporteer bugs\".</item>
+        <item>\"Rapporteer bugs\" wordt gebruikt om bugs te rapporteren die gerelateerd zijn aan het iconenpakket, niet het dashboard.</item>
+        <item>Niet elke launcher ondersteunt direct toepassing, en sommige ervan kunnen niet direct vanaf het dashboard de iconen toepassen.
+      	    U kunt dit iconenpakket handmatig toepassen in de individuele launcher instellingen.</item>
+        <item>Wanneer je \"Achtergrond instellen\" direct vanuit de app gebruikt, wordt deze gedownload naar de cache,
+      	    dan zal het dashboard proberen deze toe te passen. Het toepassen ervan zal enige tijd in beslag nemen en heeft ook een enorme hoeveelheid RAM nodig voor een korte periode.
+      	    \"Zwart scherm\" fouten kunnen verschijnen, omdat je telefoon niet genoeg gratis RAM heeft om de achtergrond te verwerken.
+      	    Herstarten van je telefoon zal dit probleem oplossen. Na het herstarten zal uw telefoon meer RAM beschikbaar hebben.
+            Als alternatief, kan je de gedownloade achtergrond vanuit je galerij openen en daar als achtergrond instellen.</item>
+        <item>Open Muzei, kies dit iconenpakket → instellingen. Je ziet een optie om alleen de gedownloade achtergronden te laden.
+            Je moet eerst achtergronden downloaden vanaf het dashboard.</item>
+        <item>Als een achtergrond al is gedownload, zal deze automatisch vanuit je telefoongeheugen worden geladen.
+            Muzei zal het niet blijven downloaden wanneer de achtergrond verandert. Je moet eerst achtergronden downloaden vanaf het dashboard.</item>
+        <item>Open Dashboard, download de achtergronden die je wilt gebruiken in Muzei.
+            Open Muzei-instellingen en kies \"Load Downloaded Wallpapers Only\".</item>
+        <item>Het wordt gebruikt voor het schrijven &amp; lezen van de cache en de icoonverzoek data op te halen.</item>
+        <item>Het wordt gebruikt om Achtergronden uit de cloud &amp; te downloaden.</item>
+        <item>Het wordt gebruikt om te controleren of je telefoon een internetverbinding heeft of niet.</item>
+        <item>Het wordt gebruikt om te controleren of je telefoon een internetverbinding heeft of niet, om cloud achtergronden van Muzei te laden.</item>
+        <item>Het wordt gebruikt om achtergronden rechtstreeks vanuit de dashboardapp toe te passen.</item>
+        <item>Het is nodig voor Muzei Live Wallpaper.</item>
+        <item>Het wordt gebruikt om de klok-app te lanceren vanuit de analoge klokwidget.</item>
+    </string-array>
+    <string-array name="base">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    <string-array name="questions">
+        <item>Wat is een launcher?</item>
+        <item>Wat is een icoonpakket?</item>
+        <item>Hoe gebruik ik een icoonpakket?</item>
+        <item>Hoe pas ik een icoonpakket toe?</item>
+        <item>Hoe zie ik alle iconen inbegrepen?</item>
+        <item>Ik kan geen volledige icoonnaam zien</item>
+        <item>Hoe kan ik iconen vervangen door een alternatief icoon?</item>
+        <item>Hoe vraag ik om een icoon?</item>
+        <item>Hoe kan ik overige Premium Aanvragen herstellen na het opnieuw installeren van de app?</item>
+        <item>Na het herstarten van mijn telefoon wordt het iconenpakket niet toegepast, is het teruggezet naar de standaardinstellingen?</item>
+        <item>Waarom zien iconen er hoekerig of gepixeled uit op mijn telefoon?</item>
+        <item>Ik kan het icoon zien in alle iconen,
+            maar waarom is het icoon in de app scherm niet gewijzigd?</item>
+        <item>Wat is de optie \"bugs rapporteren\"?</item>
+        <item>Mijn launcher staat vermeld in de Google Play omschrijving, maar waarom is het niet opgenomen in de toepassectie?</item>
+        <item>Achtergrond kan niet toegepast worden, het toont alleen het zwarte scherm?</item>
+        <item>Muzei: Hoe laad je alleen gedownloade achtergronden?</item>
+        <item>Muzei: Ik wil geen achtergronden blijven downloaden, telkens als de achtergrond verandert?</item>
+        <item>Muzei: Ik wil alleen specifieke achtergronden gebruiken?</item>
+        <item>Waarom is de Lees &amp; Schrijf Externe Opslag-toestemming nodig?</item>
+        <item>Waarom is internettoestemming nodig?</item>
+        <item>Waarom is toegang tot netwerkstatus nodig?</item>
+        <item>Waarom is toegang tot netwerkstatus nodig?</item>
+        <item>Waarom is Achtergrond Instellen toestemming nodig?</item>
+        <item>Waarom is Wake Lock-toestemming nodig?</item>
+        <item>Waarom is alarmtoestemming nodig?</item>
+    </string-array>
+    <string name="about_contributors_title">Bijdragers</string>
+    <string name="about_dashboard">CandyBar</string>
+    <string name="about_dashboard_contributors">CandyBar bijdragers</string>
+    <string name="about_dashboard_dev">CandyBar is een open source icoonpakket-dashboard gelicenceerd onder Apache Licentie 2.0 voor Android.
+Beschikbaar op GitHub en gratis te gebruiken, ontwikkeld door Dani Mahardhika.</string>
+    <string name="about_dashboard_translator">CandyBar vertaler</string>
+    <string name="about_item_social_content_description">Een link naar een online profiel van de auteur van het icoonpakket: </string>
+    <string name="about_open_source_licenses">Open Source-licenties</string>
+    <string name="about_privacy_policy_title">Privacybeleid</string>
+    <string name="about_terms_and_conditions_title">Algemene voorwaarden</string>
+    <string name="app_client">App kiezen</string>
+    <string name="apply_cmtheme_failed">Kan CM Theme Manager niet starten. Je kunt proberen het icoonpakket handmatig toe te passen vanuit de instellingen.</string>
+    <string name="apply_cmtheme_not_available">CM Theme Manager is niet beschikbaar op dit apparaat</string>
+    <string name="apply_installed">Geïnstalleerde Launcher</string>
+    <string name="apply_installed_launchers">Geïnstalleerde Launchers</string>
+    <string name="apply_launch_failed">Kan %s instellingen niet starten</string>
+    <string name="apply_launcher_incompatible">%s ondersteunt geen icoonpakketten. Je kunt een third-party app proberen om dit icoonpakket te gebruiken in %2$s launcher. Wil je het installeren?</string>
+    <string name="apply_launcher_incompatible_depending_on_version">%s launcher ondersteunt geen icoonpakketten op Android %d of lager. Update je Androidversie of installeer een andere launcher om dit icoonpakket te gebruiken. Je kunt ook een helper-app proberen om de individuele iconen te wijzigen. Wil je deze installeren?</string>
+    <string name="apply_launcher_not_installable">%s is niet geïnstalleerd. Probeer het opnieuw na het installeren van de launcher.</string>
+    <string name="apply_launcher_not_installed">%s is niet geïnstalleerd. Wil je de
+        Google Play Store openen om te downloaden en installeren?</string>
+    <string name="apply_lg_home">Om dit icoonpakket toe te passen, open Instellingen - Display - Beginscherm - Thema</string>
+    <string name="apply_lg_home_failed">Kan LG Home-instellingen niet starten. Je kunt proberen het icoonpakket handmatig toe te passen vanuit de instellingen.</string>
+    <string name="apply_lg_home_not_available">LG Home is niet beschikbaar op dit apparaat</string>
+    <string name="apply_lg_home_nougat">LG Home met Android Nougat ondersteunt geen icoonpakketten. Je hebt een andere launcher nodig om icoonpakketten te gebruiken.</string>
+    <string name="apply_manual">%1$s ondersteunt geen directe toepassing, maar je kunt %2$s handmatig toepassen via de launcherinstellingen.</string>
+    <string name="apply_manual_before">Deze versie van Before launcher kan nog niet direct iconen toepassen. Volg in plaats daarvan onderstaande stappen:</string>
+    <string name="apply_manual_before_step_1">Veeg naar links op het beginscherm</string>
+    <string name="apply_manual_before_step_2">Klik op \"Instellingen\"</string>
+    <string name="apply_manual_before_step_3">Klik op \"Stijlen &amp; Thema\"</string>
+    <string name="apply_manual_before_step_4">Klik op \"Icon Styles &amp; Packs\"</string>
+    <string name="apply_manual_before_step_5">Klik %s</string>
+    <string name="apply_manual_color_os_step_1">Klik lang op je homescreen</string>
+    <string name="apply_manual_color_os_step_2">Klik op \"Icons\"</string>
+    <string name="apply_manual_color_os_step_3">Scrol naar rechts van de \"Custom\" knop (dit is een scrolbare lijst!)</string>
+    <string name="apply_manual_color_os_step_4">Klik %s</string>
+    <string name="apply_manual_hios">HiOS Launcher ondersteunt geen directe toepassing, maar je kunt de volgende stappen volgen:</string>
+    <string name="apply_manual_hios_step_1">Open \"Instellingen\"</string>
+    <string name="apply_manual_hios_step_2">Klik op \"Thema &amp; Vergrendelscherm\"</string>
+    <string name="apply_manual_hios_step_3">Klik op \"Mijn thema\"</string>
+    <string name="apply_manual_hios_step_4">Klik op \"Icoonpakket\"</string>
+    <string name="apply_manual_hios_step_5">Klik %s</string>
+    <string name="apply_manual_kiss">Kvaesitso ondersteunt geen directe toepassing, maar je kunt deze stappen volgen:</string>
+    <string name="apply_manual_kiss_step_1">Open KISS-instellingen</string>
+    <string name="apply_manual_kiss_step_2">Tik \"Gebruikersinterface\"</string>
+    <string name="apply_manual_kiss_step_3">Tik op \"Icoonpakket\"</string>
+    <string name="apply_manual_kiss_step_4">Kies %s uit de lijst</string>
+    <string name="apply_manual_kvaesitso">Kvaesitso ondersteunt geen directe toepassing, maar je kunt deze stappen volgen:</string>
+    <string name="apply_manual_kvaesitso_step_1">Open Kvaesitso\'s instellingen</string>
+    <string name="apply_manual_kvaesitso_step_2">Klik \"Raster &amp; iconen\"</string>
+    <string name="apply_manual_kvaesitso_step_3">Tik op \"Icoonpakket\"</string>
+    <string name="apply_manual_kvaesitso_step_4">Kies %s uit de lijst</string>
+    <string name="apply_manual_kvaesitso_step_5">Tik op het penseel-icoon om de achtergrondvorm in of uit te schakelen</string>
+    <string name="apply_manual_nothing_step_1">Open \"Instellingen\"</string>
+    <string name="apply_manual_nothing_step_2">Klik op \"Aanpassingen\"</string>
+    <string name="apply_manual_nothing_step_3">Klik op \"Icon pack\"</string>
+    <string name="apply_manual_nothing_step_4">Klik %s</string>
+    <string name="apply_manual_oxygen_os_step_1">Klik lang op je homescreen</string>
+    <string name="apply_manual_oxygen_os_step_2">Klik op \"Home Settings\"</string>
+    <string name="apply_manual_oxygen_os_step_3">Klik op \"Icon pack\"</string>
+    <string name="apply_manual_oxygen_os_step_4">Klik %s</string>
+    <string name="apply_manual_samsung_oneui">%1$s ondersteunt geen directe toepassing, maar vanaf %2$s kun je iconen toepassen met een companion-app.</string>
+    <string name="apply_manual_samsung_oneui_step_1">Open %s</string>
+    <string name="apply_manual_samsung_oneui_step_2">Download de app %s</string>
+    <string name="apply_manual_samsung_oneui_step_3">Klik op \"Icoon\"</string>
+    <string name="apply_manual_samsung_oneui_step_4">Klik op \"Nieuwe Aanmaken\"</string>
+    <string name="apply_manual_samsung_oneui_step_5">Klik op de blauwe \"Iconpack\" knop</string>
+    <string name="apply_manual_samsung_oneui_step_6">Kies %s uit de lijst</string>
+    <string name="apply_manual_samsung_oneui_step_7">Herhaal deze stappen elke keer dat u %s bijwerkt, nieuwe iconen worden niet automatisch toegewezen.</string>
+    <string name="apply_manual_samsung_oneui_too_old">Je huidige versie van %s is te oud. Gebruik Android 12 of nieuwer om direct iconen te kunnen gebruiken. Als alternatief kun je een andere launcher installeren.</string>
+    <string name="apply_supported">Ondersteunde Launchers</string>
+    <string name="billing_load_product_failed">Kan in-app-aankopen niet laden</string>
+    <string name="bookmark_button_content_description">Dit icoon toevoegen aan de bladwijzersectie</string>
+    <string name="bookmark_icons_empty">Geen bladwijzers gevonden. Geef iconen een bladwijzer om ze hier snel te openen.</string>
+    <string name="changelog_version">Versie</string>
+    <string name="checking_for_update">Controleren op update …</string>
+    <string name="clear">Wissen</string>
+    <string name="close">Sluiten</string>
+    <string name="connection_error_long">Kan geen gegevens laden van de server. Controleer je netwerkverbinding.</string>
+    <string name="connection_failed">Gegevens ophalen van server mislukt</string>
+    <string name="crash_report">Foutenrapport</string>
+    <string name="crash_report_message">Helaas is %s gecrasht. Stuur hieronder een rapport om de ontwikkelaar te helpen het probleem op te lossen.</string>
+    <string name="crash_report_send">Rapport versturen</string>
+    <string name="donate">Doneren</string>
+    <string name="donation_success">Bedankt voor de donatie. Ik zal het goed gebruiken.</string>
+    <string name="home_apply_icon_pack">%s toepassen</string>
+    <string name="home_donate">Doneren</string>
+    <string name="home_donate_desc">Steun de ontwikkeling van het icoonpakket</string>
+    <string name="home_icon_dimension">%s pixels icoonafmeting</string>
+    <string name="home_icon_request_installed_apps">Totaal\n%d geïnstalleerde apps</string>
+    <string name="home_icon_request_missed_apps">Ontbrekende\n%d apps</string>
+    <string name="home_icon_request_themed_apps">Gethematiseerd\n%d apps</string>
+    <string name="home_icons">Aangepaste iconen</string>
+    <string name="home_loud_wallpapers">%d cloud achtergronden</string>
+    <string name="home_more_apps">Bekijk andere apps op de Google Play Store</string>
+    <string name="home_more_apps_header">Meer apps</string>
+    <string name="home_muzei">Muzei live achtergrond</string>
+    <string name="home_rate_and_review">Beoordeel ons</string>
+    <string name="hour">Uur</string>
+    <string name="icon_list_content_description">De lijst met iconen opgenomen in het icoonpakket</string>
+    <string name="icon_request_submit_button_content_description">Dien een icoon-aanvraag in</string>
+    <string name="icon_search_close_button_content_description">Sluit het zoeken naar icoon</string>
+    <string name="icon_search_list_content_description">De lijst met iconen die overeenkomen met de zoekterm</string>
+    <string name="icon_shape">Icoonvorm</string>
+    <string name="icons_load_failed">Kan iconen niet laden</string>
+    <string name="install">Installeren</string>
+    <string name="intent_email_failed">Kan e-mailapp niet weergeven</string>
+    <string name="intent_email_not_supported">Niet ondersteund</string>
+    <string name="intent_email_not_supported_message">Niet ondersteunde e-mailclient geselecteerd, selecteer een andere e-mailclient</string>
+    <string name="intent_email_recommended">Aanbevolen</string>
+    <string name="intent_email_supported">Ondersteund</string>
+    <string name="items_selected">%d geselecteerd</string>
+    <string name="license_check">Licentie controleren</string>
+    <string name="license_check_failed">Licentiecontrole mislukt. Je hebt de app niet gedownload van de Play Store. Je kunt het niet gebruiken.</string>
+    <string name="license_check_retry">Kan licentie niet controleren, probeer het over enkele ogenblikken opnieuw.</string>
+    <string name="license_check_success">Licentiecontrole succesvol. Bedankt voor het downloaden van de app via de Play Store.</string>
+    <string name="license_checking">Licentie controleren …</string>
+    <string name="menu_apply_homescreen">Beginscherm</string>
+    <string name="menu_apply_homescreen_lockscreen">Beginscherm &amp; vergrendelscherm</string>
+    <string name="menu_apply_lockscreen">Vergrendelscherm</string>
+    <string name="menu_delete">Verwijderen</string>
+    <string name="menu_save">Opslaan op apparaat</string>
+    <string name="menu_search">Zoeken</string>
+    <string name="menu_select_all">Alle selecteren</string>
+    <string name="menu_wallpaper_crop">Achtergrond bijsnijden</string>
+    <string name="minute">Minuut</string>
+    <string name="muzei_downloaded_only">Alleen gedownloade achtergronden laden</string>
+    <string name="muzei_refresh_duration">Verversingsduur</string>
+    <string name="muzei_settings">Muzei-instellingen</string>
+    <string name="muzei_settings_ignored">Icoonpakket bevat geen achtergronden, instellingen genegeerd.</string>
+    <string name="muzei_settings_saved">Instellingen opgeslagen</string>
+    <string name="muzei_wifi_only">Alleen verversen via wifi</string>
+    <string name="navigation_view_about">Over</string>
+    <string name="navigation_view_apply">Toepassen</string>
+    <string name="navigation_view_donate">Ontwikkeling steunen</string>
+    <string name="navigation_view_faqs">Veelgestelde vragen</string>
+    <string name="navigation_view_home">Thuis</string>
+    <string name="navigation_view_icons">Iconen</string>
+    <string name="navigation_view_presets">Voorinstellingen</string>
+    <string name="navigation_view_request">Icoonverzoek</string>
+    <string name="navigation_view_settings">Instellingen</string>
+    <string name="navigation_view_wallpapers">Achtergronden</string>
+    <string name="no_browser">Geen app om URL te openen</string>
+    <string name="no_email_app">Geen app om e-mail te verzenden</string>
+    <string name="no_update_available">Je gebruikt de laatste versie!</string>
+    <string name="ok">Oké</string>
+    <string name="open">Openen</string>
+    <string name="permission_notification_denied_1">De meldingen toestemming is nodig om meldingen van de ontwikkelaar te ontvangen</string>
+    <string name="permission_notification_denied_2">Activeer meldingen van de app instellingen</string>
+    <string name="permission_storage_denied">Opslagrechten nodig om achtergrond op te slaan</string>
+    <string name="playstore_check">Play Store controle</string>
+    <string name="playstore_check_failed">Het lijkt erop dat je dit icoonpakket hebt geïnstalleerd van buiten de Google Play Store. Je kunt het niet gebruiken.</string>
+    <string name="playstore_check_success">Bedankt voor het installeren van de app via Google Play Store. Veel plezier!</string>
+    <string name="pref_data_cache">Cache wissen</string>
+    <string name="pref_data_cache_clear_dialog">Weet je zeker dat je de cache wilt wissen?</string>
+    <string name="pref_data_cache_cleared">Cache gewist</string>
+    <string name="pref_data_cache_desc">Wis afbeeldingscache uit je opslag; aangemaakt wanneer je een afbeelding kiest, ontbrekende apps aanvraagt en na het laden van achtergronden uit de cloud.</string>
+    <string name="pref_data_cache_size">Cachegrootte: %s</string>
+    <string name="pref_data_header">Gegevens &amp; Cache</string>
+    <string name="pref_data_request">Wis icoonaanvraaggegevens</string>
+    <string name="pref_data_request_clear_dialog">Weet je zeker dat je de icoonaanvraaggegevens wilt wissen?</string>
+    <string name="pref_data_request_cleared">Icoonaanvraaggegevens gewist</string>
+    <string name="pref_data_request_desc">Icoonaanvraaggegevens wissen na het verzoeken van een ontbrekende app.</string>
+    <string name="pref_language_header">Taal</string>
+    <string name="pref_notifications">Meldingen ontvangen</string>
+    <string name="pref_notifications_header">Meldingen</string>
+    <string name="pref_others_changelog">Wijzigingslogboek</string>
+    <string name="pref_others_header">Overige</string>
+    <string name="pref_others_report_bugs">Fouten rapporteren</string>
+    <string name="pref_others_reset_tutorial">Handleiding opnieuw instellen</string>
+    <string name="pref_others_reset_tutorial_reset">Handleiding opnieuw instellen</string>
+    <string name="pref_premium_request_header">Premium icoonaanvraag</string>
+    <string name="pref_premium_request_rebuild">Premium icoonaanvraag opnieuw opbouwen</string>
+    <string name="pref_premium_request_rebuild_desc">Verzamel alle Premium icoonaanvragen om ze opnieuw te verzenden</string>
+    <string name="pref_premium_request_restore">Aankopen herstellen</string>
+    <string name="pref_premium_request_restore_desc">Herstel Premium aanvraagpakket na het opnieuw installeren van het icoonpakket</string>
+    <string name="pref_premium_request_restore_empty">Je hebt geen aangeschafte pakketten</string>
+    <string name="pref_premium_request_restore_success">Premium aanvraag hersteld</string>
+    <string name="pref_theme_dark">Donker thema</string>
+    <string name="pref_theme_dark_desc">Donkere kleur gebruiken voor appthema</string>
+    <string name="pref_theme_header">Thema</string>
+    <string name="pref_wallpaper_header">Achtergrond</string>
+    <string name="pref_wallpaper_location">Opslaglocatie voor achtergronden</string>
+    <string name="premium_request">Premium icoonaanvraag</string>
+    <string name="premium_request_already_purchased">Je hebt nog %d premium aanvragen.
+        Je moet ze allemaal gebruiken voordat je weer een Premium aanvraagpakket koopt.</string>
+    <string name="premium_request_available">Beschikbaar\n%d aanvragen</string>
+    <string name="premium_request_buy">Kopen</string>
+    <string name="premium_request_consume_failed">Kon Premium aanvraag niet gebruiken, zorg ervoor dat je een stabiele internetverbinding hebt en probeer het opnieuw.
+        Ga naar de instellingen om Premium aanvragen opnieuw op te bouwen.</string>
+    <string name="premium_request_count">Totaal\n%d aanvragen</string>
+    <string name="premium_request_desc">Premium icoonaanvraag is betaald. Je kunt je aangevraagde apps sneller krijgen door gebruik te maken van Premium icoonaanvraag.</string>
+    <string name="premium_request_exist">Je hebt nog een Premium icoonaanvraagpakket.
+        Open Instellingen, kies \"Aankopen Herstellen\" om te herstellen.</string>
+    <string name="premium_request_limit">Je hebt nog maar %d Premium aanvragen,</string>
+    <string name="premium_request_limit1">maar je hebt %d app(s) geselecteerd.
+        \n\nJe moet al je Premium aanvragen gebruiken voordat je het verzoek opnieuw gebruikt.</string>
+    <string name="premium_request_no_internet">Zorg ervoor dat je telefoon verbonden is met internet voordat je een Premium aanvraag verstuurt</string>
+    <string name="premium_request_rebuilding">Premium aanvraag opnieuw opbouwen …</string>
+    <string name="premium_request_rebuilding_empty">Je hebt nog geen Premium aanvraag gebruikt</string>
+    <string name="premium_request_required">Je moet een Premium icoonaanvraagpakket kopen om aanvragen te kunnen doen</string>
+    <string name="premium_request_used">Gebruikt\n%d aanvragen</string>
+    <string name="presets_load_failed">Voorinstellingen laden mislukt</string>
+    <string name="presets_required_apps">Vereiste apps om deze voorinstellingen te gebruiken</string>
+    <string name="presets_required_apps_not_installed">Vereiste app om de voorinstelling te gebruiken niet geïnstalleerd. Installeer de vereiste app(s) en probeer het opnieuw.</string>
+    <string name="presets_storage_permission">Opslagrechten nodig om achtergrond op te slaan</string>
+    <string name="regular_request">Reguliere icoonaanvraag</string>
+    <string name="regular_request_available">Beschikbaar\n%d aanvragen</string>
+    <string name="regular_request_count">Totaal\n%d aanvragen</string>
+    <string name="regular_request_desc">Vraag je icoon aan en de ontwikkelaar zal deze proberen toe te voegen.</string>
+    <string name="regular_request_used">Gebruikt\n%d aanvragen</string>
+    <string name="report_bugs_building">Activiteitenlijst opbouwen…</string>
+    <string name="report_bugs_desc">Geef alsjeblieft een omschrijving van wat voor soort probleem je wilt melden</string>
+    <string name="report_bugs_desc_empty">Voer een beschrijving in</string>
+    <string name="report_bugs_desc_hint">Omschrijving</string>
+    <string name="report_bugs_failed">Kan activiteitenlijst niet bouwen</string>
+    <string name="report_bugs_send">Rapport versturen</string>
+    <string name="request_already_requested">Reeds aangevraagd</string>
+    <string name="request_app_disabled">Je gebruikt een oudere versie van dit icoonpakket. De verzochte iconen zijn mogelijk al toegevoegd. Update de app naar de laatste versie om iconen aan te vragen.</string>
+    <string name="request_appfilter_failed">Kan appfilter.xml niet lezen</string>
+    <string name="request_build_failed">Kan icoonaanvraag niet aanmaken</string>
+    <string name="request_building">Aanvraag aanmaken…</string>
+    <string name="request_custom_error">Fout opgetreden tijdens het verzenden van de aanvraag. Neem contact op met de ontwikkelaar. %s</string>
+    <string name="request_custom_success">Icoonaanvraag succesvol verzonden</string>
+    <string name="request_email_client">Kies een app die je wilt meesturen in de icoonaanvraag</string>
+    <string name="request_fetching_data">Laatste gegevens ophalen…</string>
+    <string name="request_limit">Je kunt slechts %d verzoek(en) doen met reguliere aanvraag.</string>
+    <string name="request_limit_buy">Je kunt Premium aanvragen kopen om meer iconen aan te vragen.</string>
+    <string name="request_limit_reset">Icoonaanvraaglimiet wordt teruggezet bij iedere update.</string>
+    <string name="request_not_available">Kan niet worden aangevraagd</string>
+    <string name="request_not_requested">Niet aangevraagd</string>
+    <string name="request_not_selected">Kies apps voor aanvraag</string>
+    <string name="request_pacific_error">Fout tijdens het versturen van de aanvraag naar Pacific Manager. Fout is %s</string>
+    <string name="request_pacific_sending">Aanvraag versturen naar Pacific Manager...</string>
+    <string name="request_pacific_success">Aanvraag succesvol verstuurt naar Pacific Manager</string>
+    <string name="request_requested">Je hebt dit icoon al aangevraagd en kunt het niet opnieuw aanvragen.</string>
+    <string name="request_requested_button_cancel">Terug</string>
+    <string name="request_requested_button_confirm">Toch selecteren</string>
+    <string name="request_requested_possible">Je hebt dit icoon al aangevraagd. Weet je zeker dat je er een ander verzoek aan wilt besteden?</string>
+    <string name="request_title">Icoonverzoek</string>
+    <string name="request_used">Je hebt %d iconen aangevraagd.</string>
+    <string name="save_setting">Opslaan</string>
+    <string name="search_faqs">Vraag of antwoord</string>
+    <string name="search_icon">Icoon-naam</string>
+    <string name="search_noresult">Geen resultaten voor \"%s\"</string>
+    <string name="search_wallpapers">Achtergrondnaam</string>
+    <string name="share_app_body">Bekijk %1$s, dit icoonpakket is erg cool! %2$s</string>
+    <string name="share_app_title">Yo! Bekijk %s</string>
+    <string name="share_icon_pack_button_content_description">Deel deze app met iemand</string>
+    <string name="splash_screen_title">CandyBar Material Dashboard</string>
+    <string name="tap_intro_home_apply">Icoonpakket toepassen</string>
+    <string name="tap_intro_home_apply_desc">Tik hier om %s toe te passen op je huidige launcher. Druk lang om toe te passen op andere launchers.</string>
+    <string name="tap_intro_home_navigation">Navigatiemenu</string>
+    <string name="tap_intro_home_navigation_desc">Klik hier of veeg vanaf de linkerkant van het scherm om het navigatiemenu te openen</string>
+    <string name="tap_intro_icons_search">Zoeken</string>
+    <string name="tap_intro_icons_search_desc">Klik hier om een icoon te zoeken</string>
+    <string name="tap_intro_request_premium">Premium icoonaanvraag</string>
+    <string name="tap_intro_request_premium_desc">Klik hier om een Premium icoonaanvraagpakket te kopen,
+        met een Premium icoonaanvraag kun je sneller je apps krijgen.</string>
+    <string name="tap_intro_request_select">Ontbrekende apps kiezen</string>
+    <string name="tap_intro_request_select_all">Alle ontbrekende apps kiezen</string>
+    <string name="tap_intro_request_select_all_desc">Klik hier om alle ontbrekende apps te kiezen voor icoonaanvraag</string>
+    <string name="tap_intro_request_select_desc">Klik hier om ontbrekende apps te kiezen voor icoonaanvraag</string>
+    <string name="tap_intro_request_send">Icoonaanvraag versturen</string>
+    <string name="tap_intro_request_send_desc">Tik hier om gekozen ontbrekende apps te versturen</string>
+    <string name="tap_intro_wallpaper_preview_apply">Achtergrond toepassen</string>
+    <string name="tap_intro_wallpaper_preview_apply_desc">Klik hier om de achtergrond als startscherm in te stellen</string>
+    <string name="tap_intro_wallpaper_preview_save">Achtergrond opslaan</string>
+    <string name="tap_intro_wallpaper_preview_save_desc">Tik hier om de achtergrond te downloaden en bewaren op jouw apparaat, zodat je het later kunt gebruiken</string>
+    <string name="tap_intro_wallpapers_option">Achtergrond opties</string>
+    <string name="tap_intro_wallpapers_option_desc">Klik hier en houd vast om achtergrondopties weer te geven, %s pas achtergrond toe.</string>
+    <string name="tap_intro_wallpapers_option_desc_download">downloaden of</string>
+    <string name="tap_intro_wallpapers_preview">Achtergrond bekijken</string>
+    <string name="tap_intro_wallpapers_preview_desc">Klik hier om de volledige grootte van de achtergrond te bekijken</string>
+    <string name="theme_name_auto">Automatisch</string>
+    <string name="theme_name_dark">Donker</string>
+    <string name="theme_name_light">Licht</string>
+    <string name="theme_name_material_you">Material You</string>
+    <string name="txt_close">Sluiten</string>
+    <string name="txt_new">Nieuw</string>
+    <string name="txt_open">Openen</string>
+    <string name="unable_to_load_config">Fout bij het ophalen/lezen van gegevens van de server.</string>
+    <string name="update">Bijwerken</string>
+    <string name="update_available">Update beschikbaar!</string>
+    <string name="wallpaper_already_downloaded">Achtergrond is al gedownload</string>
+    <string name="wallpaper_applied">Achtergrond toegepast</string>
+    <string name="wallpaper_apply">Achtergrond toepassen</string>
+    <string name="wallpaper_apply_cancelled">Achtergrond toepassen geannuleerd</string>
+    <string name="wallpaper_apply_failed">Achtergrond toepassen mislukt</string>
+    <string name="wallpaper_applying">Achtergrond toepassen …</string>
+    <string name="wallpaper_download_failed">Achtergrond downloaden mislukt</string>
+    <string name="wallpaper_download_success">Achtergrond succesvol gedownload</string>
+    <string name="wallpaper_downloading">Achtergrond downloaden …</string>
+    <string name="wallpaper_loading">Achtergrond laden …</string>
+    <string name="wallpaper_new_added">Nieuwe achtergrond</string>
+    <string name="wallpaper_save_to_device">Achtergrond opslaan</string>
+</resources>

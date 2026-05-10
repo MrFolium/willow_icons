@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>Лаунчер е частта от потребителския интерфейс на Андроид, която позволява на потребителите да персонализират началния екран, да стартират мобилни приложения, да извършват телефонни обаждания и да изпълняват други задачи на устройства с Андроид.</item>
+        <item>Набор графики, които ще променят външния вид на иконите на чекмеджето на приложението ви</item>
+        <item>You will need a launcher that supports custom icon packs.
+            Supported launchers are listed in the Play Store description.
+            If you are confused about which launchers should be used, just go to the \"Apply\" section and install from there.</item>
+        <item>You can open the navigation drawer, then open \"Apply\". Choose your launcher from the list.
+            If your launcher is not listed there, but this icon pack is compatible with it
+            (see on Google Play Store description for supported launchers),
+            you can apply the icon pack manually in your launcher settings.</item>
+        <item>You can open the navigation drawer and then open \"Icons\"</item>
+        <item>Просто докоснете иконата.  Ще се появи диалогов прозорец за преглед с по-голямо изображение и пълно име на иконата.</item>
+        <item>Зависи кой лаунчер  използвате.  Не всеки лаунчер поддържа редактиране на икони.  Най-често можете да редактирате икона, като докоснете и задържите иконата.</item>
+        <item>You can open the navigation drawer, then open \"Icon Request\".</item>
+        <item>You can open the navigation drawer, then open \"Settings\", choose \"Restore Purchases\".
+            If you had any remaining Premium Requests before reinstalling, they will be restored.</item>
+        <item>It happened because this icon pack was moved to the SD Card; you should install it in internal memory.</item>
+        <item>The problem might come from the launcher that you used when handling big icon resolution.
+       	    You can fix it by increasing the icon size to 115–120%.
+       	    Alternatively, you might change your launcher.</item>
+        <item>Open settings, scroll down, and then select \"Report Bugs\".</item>
+        <item>\"Докладвай Грешки\" се използва за докладване на грешки, свързани с пакета с икони, а не с таблото за управление.</item>
+        <item>Not every launcher supports direct apply, and some of them can\'t be accessed directly from the dashboard.
+      	    You can apply this icon pack manually in the individual launcher settings.</item>
+        <item>Когато \"Зададете Тапет\" директно от приложението, той ще бъде изтеглен в кеша, след което приложението на таблото ще се опита да го приложи.  Задаването на тапета ще отнеме известно време, и също така се нуждае от огромно количество оперативна памет за кратък период от време.  Възможно е да се появят грешки в „Черен екран“, защото телефонът ви няма достатъчно свободна RAM памет, за да обработи тапета.  Рестартирането на телефона ви ще отстрани този проблем.  След рестартиране телефонът ви ще има на разположение повече RAM памет.  Освен това можете да отворите изтегления тапет от вашата Галерия и да го зададете като тапет от там.</item>
+        <item>Open Muzei, choose this icon pack, settings. You will see an option to load downloaded wallpapers only.
+            You will need to download wallpapers from the dashboard first.</item>
+        <item>Ако тапетът вече е изтеглен, той ще се зареди автоматично от паметта на вашия телефон.  Muzei няма да продължи да го изтегля, когато тапетът се промени.  Първо ще трябва да изтеглите тапети от таблото за управление.</item>
+        <item>Отворете таблото за управление, изтеглете тапети, които искате да използвате в Muzei.  Отворете настройките на Muzei, след това изберете- Зареди свалените тапети.</item>
+        <item>Използва се за писане и четене на кеш и събиране на данни за заявките за икони.</item>
+        <item>It is used to load Cloud-Based Wallpapers &amp; download them.</item>
+        <item>Използва се за проверка дали телефонът ви има интернет връзка или не.</item>
+        <item>Използва се за проверка дали телефонът ви има интернет връзка към wifi или не, за да зареди облачни тапети от Muzei.</item>
+        <item>Използва се за прилагане на тапети директно от приложението на таблото.</item>
+        <item>Използва се от Muzei Live Wallpaper</item>
+        <item>It is used to launch the clock app from the analog clock widget.</item>
+    </string-array>
+    <string-array name="base">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    <string-array name="questions">
+        <item>Какво е лаунчер?</item>
+        <item>Какво е пакет с икони?</item>
+        <item>Как да използвате пакет с икони?</item>
+        <item>Как да приложите пакета с икони?</item>
+        <item>Как да видя всички включени икони?</item>
+        <item>Не мога да видя пълното име на иконата</item>
+        <item>Как мога да заменя икона с алтернативна икона?</item>
+        <item>Как мога да направя заявка за икона?</item>
+        <item>How can I restore the remaining Premium Requests after reinstalling the app?</item>
+        <item>After restarting my phone, the icon pack is not applied; it restores to defaults?</item>
+        <item>Защо иконите изглеждат размазани или пикселирани на моя телефон?</item>
+        <item>I can see the icon included in all icons,
+            but why isn\'t the actual icon on the app drawer changed?</item>
+        <item>Каква е опцията \"доклад за грешки\"?</item>
+        <item>My launcher is listed in the Google Play description, but why isn\'t it included in apply section?</item>
+        <item>Тапетът не може да се приложи, показва само черен екран?</item>
+        <item>Muzei: Как да зареждате само изтеглени тапети?</item>
+        <item>Muzei: Не искам да продължа да тегля тапети всеки път, когато тапетът се промени?</item>
+        <item>Muzei: Искам да използвам само конкретни тапети?</item>
+        <item>Защо са необходими разрешение за четене и запис на външно съхранение?</item>
+        <item>Защо е необходимо разрешение за интернет?</item>
+        <item>Защо е необходимо разрешение за състояние на мрежата ?</item>
+        <item>Защо е необходимо разрешение за достъп до Wifi ?</item>
+        <item>Защо е необходимо разрешение за задаване на Wallpaper?</item>
+        <item>Защо е необходимо разрешение за Wake Lock?</item>
+        <item>Why is Set Alarm permission needed?</item>
+    </string-array>
+    <string name="apply_cmtheme_not_available">CM Theme Manager не е наличен на това устройство</string>
+    <string name="apply_installed">Инсталиран Лаунчер</string>
+    <string name="apply_launch_failed">Настройките не могат да се стартират</string>
+    <string name="apply_launcher_not_installable">Лаунчера не е инсталиран.  Моля, опитайте отново, след като инсталирате лаунчера.</string>
+    <string name="apply_launcher_not_installed">Лаунчера не е инсталиран.  Искате ли да отворите Google Play Store, за да го изтеглите и инсталирате?</string>
+    <string name="apply_lg_home">За да приложите този Пакет с икони отворете Настройки - Дисплей - Начален екран - Тема</string>
+    <string name="apply_lg_home_not_available">LG Home не е наличен на това устройство</string>
+    <string name="apply_lg_home_nougat">LG Home с Android Nougat вече не поддържа Пакети с икони.  Имате нужда от друг Лаунчер, за да използвате Пакета с икони.</string>
+    <string name="apply_manual_samsung_oneui_step_1"/>
+    <string name="apply_supported">Поддържани Лаунчери</string>
+    <string name="changelog_version">Версия</string>
+    <string name="clear">Изчисти</string>
+    <string name="close">Затвори</string>
+    <string name="donate">Дари</string>
+    <string name="home_apply_icon_pack">Приложи</string>
+    <string name="home_donate">Дари</string>
+    <string name="home_donate_desc">Подкрепи разработването на пакета с икони</string>
+    <string name="home_icon_dimension">Размер на иконата в пиксели</string>
+    <string name="home_icon_request_installed_apps">Общо\инсталирани приложения</string>
+    <string name="home_icon_request_missed_apps">Липсващи приложения</string>
+    <string name="home_icon_request_themed_apps">Покрити приложения</string>
+    <string name="home_icons">Персонализирани икони</string>
+    <string name="home_loud_wallpapers">онлайн тапети</string>
+    <string name="home_more_apps_header">Още приложения</string>
+    <string name="home_muzei">Мuzei динамичен тапет</string>
+    <string name="home_rate_and_review">Оценка и преглед</string>
+    <string name="hour">Час</string>
+    <string name="install">Инсталирай</string>
+    <string name="license_check">Проверка на лиценз</string>
+    <string name="license_check_retry">Лицензът не може да се провери, моля, опитайте отново след няколко минути.</string>
+    <string name="license_checking">Проверка на лиценз ...</string>
+    <string name="menu_apply_homescreen">Начален екран</string>
+    <string name="menu_apply_homescreen_lockscreen">Начален екран и екран за заключване</string>
+    <string name="menu_apply_lockscreen">Екран за заключване</string>
+    <string name="menu_delete">Изтривам</string>
+    <string name="menu_save">Запази в телефона</string>
+    <string name="menu_search">Търсене</string>
+    <string name="menu_select_all">Избери всички</string>
+    <string name="menu_wallpaper_crop">Изрежи Тапета</string>
+    <string name="minute">Минута</string>
+    <string name="muzei_downloaded_only">Зареди само изтеглените Тапети</string>
+    <string name="muzei_refresh_duration">Продължителност на опресняване</string>
+    <string name="muzei_settings">Muzei Настройки</string>
+    <string name="muzei_settings_ignored">Пакета с икони не съдържа Тапети,настройките се игнорират.</string>
+    <string name="muzei_settings_saved">Настройките са запазени</string>
+    <string name="muzei_wifi_only">Опресняване само от Wi-Fi</string>
+    <string name="navigation_view_about">Относно</string>
+    <string name="navigation_view_apply">Приложи</string>
+    <string name="navigation_view_donate">Подкрепи разработването</string>
+    <string name="navigation_view_faqs">Често задавани въпроси</string>
+    <string name="navigation_view_home">Начало</string>
+    <string name="navigation_view_icons">Икони</string>
+    <string name="navigation_view_presets">Настройки</string>
+    <string name="navigation_view_request">Заявка за икони</string>
+    <string name="navigation_view_settings">Настройки</string>
+    <string name="navigation_view_wallpapers">Тапети</string>
+    <string name="no_update_available">Използвате последната версия!</string>
+    <string name="ok">Ок</string>
+    <string name="open">Отвори</string>
+    <string name="playstore_check">Play Store Проверка</string>
+    <string name="request_title">Заявка за икони</string>
+    <string name="save_setting">Запази</string>
+    <string name="search_faqs">Въпроси и отговори</string>
+    <string name="search_icon">Име на иконите</string>
+    <string name="search_noresult">Няма намерени резултати</string>
+    <string name="share_app_body">Вижте, този пакет с икони е наистина готин!</string>
+    <string name="share_app_title">Хей! </string>
+    <string name="splash_screen_title">CandyBar табло за управление</string>
+    <string name="tap_intro_home_apply">Прилагане на пакета с икони</string>
+    <string name="tap_intro_home_navigation">Навигационно чекмедже</string>
+    <string name="tap_intro_icons_search">Търсене</string>
+    <string name="tap_intro_request_premium">Платена заявка за икони</string>
+    <string name="tap_intro_request_select">Изберете липсващото приложение</string>
+    <string name="tap_intro_request_select_all">Изберете всички липсващи икони</string>
+    <string name="tap_intro_request_select_all_desc">Докоснете тук, за да изберете всички липсващи приложения за заявка за икони</string>
+    <string name="tap_intro_request_select_desc">Докоснете тук, за да изберете липсващото приложение, за заявка за икони</string>
+    <string name="tap_intro_request_send">Изпратете заявката за икони</string>
+    <string name="tap_intro_request_send_desc">Докоснете тук, за да изпратите избраните липсващи приложения</string>
+    <string name="tap_intro_wallpaper_preview_apply">Приложи тапет</string>
+    <string name="tap_intro_wallpaper_preview_save">Запазване на тапет</string>
+    <string name="tap_intro_wallpaper_preview_save_desc">Докоснете тук, за да изтеглите и запазите тапет на устройството си, за да можете да го използвате по-късно</string>
+    <string name="tap_intro_wallpapers_option">Опции за тапет</string>
+    <string name="tap_intro_wallpapers_option_desc_download">изтегляне или</string>
+    <string name="tap_intro_wallpapers_preview">Визуализация тапет</string>
+    <string name="txt_close">Затвори</string>
+    <string name="txt_open">Отвори</string>
+    <string name="update">Актуализация</string>
+    <string name="update_available">Налична актуализация!</string>
+    <string name="wallpaper_apply">Приложи тапет</string>
+    <string name="wallpaper_save_to_device">Запазване на тапет</string>
+</resources>

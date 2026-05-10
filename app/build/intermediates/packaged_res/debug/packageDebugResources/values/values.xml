@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="about_social_links">
+        <item>https://github.com/MrFolium</item>
+    </string-array>
+    <string-array name="changelog">
+        <item>First Changelog</item>
+        <item>Second Changelog</item>
+        <item>
+            <![CDATA[
+            Formatted Changelog with <u>Underline</u>, <b>Bold</b>, <i>Italic</i> and <a href="https://your.link.here">Link</a>.
+            ]]>
+        </item>
+    </string-array>
+    <string-array name="dashboard_launchers">
+        <item>action</item>
+        <item>adw</item>
+        <item>apex</item>
+        <item>before</item>
+        <item>blackberry</item>
+        <item>cm_theme</item>
+        <item>coloros</item>
+        <item>flick</item>
+        <item>go_ex</item>
+        <item>hios</item>
+        <item>holo</item>
+        <item>holo_hd</item>
+        <item>hyperion</item>
+        <item>ion_launcher</item>
+        <item>kiss</item>
+        <item>kvaesitso</item>
+        <item>lawnchair</item>
+        <item>lawnchair_legacy</item>
+        <item>lg_home</item>
+        <item>lucid</item>
+        <item>microsoft</item>
+        <item>mlauncher</item>
+        <item>moto_launcher</item>
+        <item>niagara</item>
+        <item>nothing</item>
+        <item>nougat</item>
+        <item>nova</item>
+        <item>oxygenos</item>
+        <item>pixel</item>
+        <item>poco</item>
+        <item>projectivy</item>
+        <item>realme_ui</item>
+        <item>samsung_one_ui</item>
+        <item>smart</item>
+        <item>solo</item>
+        <item>square</item>
+        <item>tinybit</item>
+        <item>zenui</item>
+    </string-array>
+    <string-array name="icon_name_replacer">
+        
+        <item>app_,</item>
+        
+        <item>icon_,app_</item>
+    </string-array>
+    <bool name="config_apexskin">true</bool>
+    <bool name="config_iconpack">true</bool>
+    <bool name="enableIconPack">true</bool>
+    <bool name="enable_apply">true</bool>
+    <bool name="enable_check_update">false</bool>
+    <bool name="enable_donation">false</bool>
+    <bool name="enable_icon_name_replacer">false</bool>
+    <bool name="enable_icon_request">true</bool>
+    <bool name="enable_icon_request_limit">false</bool>
+    <bool name="enable_icon_request_multiple">false</bool>
+    <bool name="enable_icons_sort">true</bool>
+    <bool name="enable_in_app_review">false</bool>
+    <bool name="enable_non_mail_app_request">false</bool>
+    <bool name="enable_premium_request">false</bool>
+    <bool name="enable_restore_purchases">false</bool>
+    <bool name="enable_wallpaper_download">true</bool>
+    <bool name="hide_missing_app_count">false</bool>
+    <bool name="includes_adaptive_icons">false</bool>
+    <bool name="json_check_before_request">false</bool>
+    <bool name="material_you_by_default">true</bool>
+    <bool name="reset_icon_request_limit">true</bool>
+    <bool name="show_contributors_dialog">false</bool>
+    <bool name="show_icon_name">true</bool>
+    <bool name="show_intro">true</bool>
+    <bool name="use_flat_card">true</bool>
+    <bool name="wallpaper_show_name_author">true</bool>
+    <color name="drawer_background_color">#55000000</color>
+    <color name="drawer_icon_dark">#ff8b8b8b</color>
+    <color name="drawer_icon_text_color">#ffffffff</color>
+    <color name="drawer_list_selector_dark_pressed">#594f4f4f</color>
+    <color name="drawer_list_selector_light_pressed">#59c3c3c3</color>
+    <color name="drawer_selected_dark">#0f000000</color>
+    <color name="drawer_selected_light">#0fffffff</color>
+    <color name="drawer_shadow_color">#c73c3c3c</color>
+    <color name="drawer_tab_text_color">#ffffffff</color>
+    <color name="drawer_text_color">#ffffffff</color>
+    <color name="muzei_color">#5F97C9</color>
+    <color name="shortcutIconBackground">#5F97C9</color>
+    <color name="shortcutIconForeground">#F4F5F7</color>
+    <color name="splashColor">#F4F5F7</color>
+    <integer name="icon_request_limit">10</integer>
+    <integer name="in_app_review_after_visits">2</integer>
+    <integer name="in_app_review_visit_time">30</integer>
+    <string name="about_desc">
+        <![CDATA[
+            Designer of <b>Willow Icons</b> — a clean and minimal icon pack.
+            <br><br>
+            <a href="https://github.com/MrFolium/willow_icons">github.com/MrFolium/willow_icons</a>
+        ]]>
+    </string>
+    <string name="about_image">#32363B</string>
+    <string name="about_profile_image">profile_picture</string>
+    <string name="about_title">MrFolium</string>
+    <string name="app_name">CandyBar Sample</string>
+    <string name="authorLink">http://www.yourlink.com</string>
+    <string name="authorName">Developer</string>
+    <string name="changelog_date">August 04, 2019</string>
+    <string name="config_json"/>
+    <string name="default_theme">auto</string>
+    <string name="default_wallpaper">wall0</string>
+    <string name="developerName">Developer</string>
+    <string name="developer_link">http://www.yourlink.com/</string>
+    <string name="developer_name">Developer</string>
+    <string name="google_play_dev"/>
+    <string name="home_description">
+        <![CDATA[
+            A clean and minimal icon pack by <b>MrFolium</b>.
+            <br><br>
+            <a href="https://github.com/MrFolium/willow_icons">View on GitHub</a>
+        ]]>
+    </string>
+    <string name="home_image">home_image</string>
+    <string name="home_image_style">card_landscape</string>
+    <string name="home_title">Willow Icons</string>
+    <string name="iconpack">com.your.package.name</string>
+    <string name="kustom_pack_description">Willow Icons Kustom presets</string>
+    <string name="kustom_pack_title">@string/app_name</string>
+    <string name="muzei_art_source_desc">Wallpapers from Willow Icons</string>
+    <string name="muzei_art_source_name">Willow Icons</string>
+    <string name="navigation_view_header">nav_head</string>
+    <string name="navigation_view_header_title">Willow Icons</string>
+    <string name="premium_request_email"/>
+    <string name="premium_request_email_subject"/>
+    <string name="premium_request_method"/>
+    <string name="premium_request_pacific_api_key"/>
+    <string name="privacy_policy_link"/>
+    <string name="rate_and_review_link"/>
+    <string name="regular_request_email">mrfolium@users.noreply.github.com</string>
+    <string name="regular_request_email_subject">Willow Icons — Icon Request</string>
+    <string name="regular_request_method">email</string>
+    <string name="regular_request_pacific_api_key"/>
+    <string name="share_link">https://github.com/MrFolium/willow_icons</string>
+    <string name="terms_and_conditions_link"/>
+    <string name="theme_ad_msg">Your Icon Pack Description</string>
+    <string name="theme_author">Developer</string>
+    <string name="theme_description">Your Icon Pack Description</string>
+    <string name="theme_feature">feature</string>
+    <string name="theme_info">Your Icon Pack Description</string>
+    <string name="theme_name">Your Icon Pack Name</string>
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+    <string name="theme_title">Your Icon Pack Name</string>
+    <string name="wallpaper_grid_preview_style">square</string>
+    <string name="wallpaper_json"/>
+    <style name="CandyBar.Theme.App.DayNight" parent="CandyBar.Theme.Base">
+        <item name="cb_colorPrimary">#35C164</item>
+        <item name="cb_colorPrimaryDark">#4CAF50</item>
+        <item name="cb_colorAccent">#1BB96F</item>
+
+        
+        <item name="cb_navigationBar">#1A73E9</item>
+
+        
+        <item name="cb_splashColor">#FFF</item>
+
+        
+        <item name="cb_navigationViewHeaderBackground">#00000000</item>
+        <item name="cb_navigationViewTitle">#FFFFFF</item>
+        <item name="cb_navigationViewTitleBack">#33000000</item>
+
+        <item name="cb_navigationViewText">#484848</item>
+        <item name="cb_navigationViewTextSelected">#1BB96F</item>
+        <item name="cb_navigationViewSelectedBackground">#2A1BB96F</item>
+        <item name="cb_navigationViewRippleColor">#25000000</item>
+
+        
+        <item name="cb_swipeRefresh">#1BB96F</item>
+
+        
+        <item name="cb_tapIntroTitle">?cb_mainBackground</item>
+        <item name="cb_tapIntroDescription">?cb_mainBackground</item>
+        <item name="cb_tapIntroCircleInner">?cb_primaryText</item>
+        <item name="cb_tapIntroCircleOuter">?cb_secondaryText</item>
+
+        
+        <item name="cb_toolbarIcon">#FFFFFF</item>
+
+        
+        <item name="cb_tabIndicator">#FFF</item>
+        <item name="cb_tabText">#99FFFFFF</item>
+        <item name="cb_tabTextSelected">#FFF</item>
+
+        
+        <item name="cb_cardBackground">#FFFFFF</item>
+        <item name="cb_cardStroke">#11000000</item>
+
+        
+        <item name="cb_rippleColor">#1BB96F</item>
+        <item name="cb_rippleAccent">#1BB96F</item>
+
+        
+        <item name="cb_mainBackground">#FFFFFF</item>
+        <item name="cb_primaryText">#484848</item>
+        <item name="cb_secondaryText">#777777</item>
+
+        <item name="cb_dividerList">#FFFFFF</item>
+
+        
+        <item name="cb_wallpaperStatusBar">#66000000</item>
+        <item name="cb_wallpaperToolbar">#66000000</item>
+    </style>
+</resources>

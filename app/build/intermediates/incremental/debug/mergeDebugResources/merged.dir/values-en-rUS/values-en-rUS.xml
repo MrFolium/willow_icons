@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="base">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    <string name="navigation_view_apply">Apply</string>
+    <string name="navigation_view_home">Home</string>
+    <string name="navigation_view_icons">Icons</string>
+    <string name="splash_screen_title">CandyBar Material Dashboard</string>
+</resources>

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="answers">
+        <item>啟動器是 Android 界面不可或缺的一部分。其不但可用於啟動應用程式、打電話，高度客製化也是其一大特性。</item>
+        <item>一組能夠更改應用程式圖示的圖形</item>
+        <item>您需要一個支援自訂圖示的啟動器。
+            詳細支援項目已列於 Play Store 說明中。
+            若您仍然不確定要使用哪個啟動器可移至「套用圖示」區域安裝。</item>
+        <item>您可以在側欄的「套用圖示」中選擇您所使用的啟動器。若您所使用的啟動器雖已列於 Google Play 說明中但未在「套用圖示」中出現，請自行於啟動器設定中套用圖示包。</item>
+        <item>開啟側欄後選擇「圖示」</item>
+        <item>輕點一下圖示將放大圖檔並且顯示名稱。</item>
+        <item>並非所有啟動器皆支援圖示編輯。您可以嘗試長按或雙擊應用程式圖示開啟編輯面板。</item>
+        <item>開啟側欄並且選擇「申請圖示」。</item>
+        <item>開啟並點選側欄中的「設定」>「回復已購買項目」。此將回復未使用的高級圖示申請餘額。</item>
+        <item>請將圖示包安裝於內部儲存空間並避免安裝於 SD 卡上。</item>
+        <item>某些啟動器在處理這些高解析度圖示時可能會有的問題。請將圖示放大為 115-120% 或更換啟動器。</item>
+        <item>開啟設定並選擇「回報問題」。</item>
+        <item>「回報問題」將回報有關此圖示包的問題而非關於此應用程式本身。</item>
+        <item>並非所有啟動器皆支援直接套用圖示的功能，或是無法直接於此取用。您可於啟動器設定中套用此圖示包。</item>
+        <item>「設定桌布」會將下載的桌布儲存於快取並且套用桌布。套用桌布的過程將在極短時間內佔用大量內存，若這些內存不足將顯示黑畫面。您可嘗試重新啟動以釋放內存空間。您亦可自行下載桌布並於其他桌布管理器中套用。</item>
+        <item>請於下載桌布後開啟 Muzei，選擇此圖示包 > 設定 > 僅載入已下載桌布。</item>
+        <item>桌布下載後將自動於手機內存中載入。Muzei 不會在更改桌布後下載圖檔。請先自行下載桌布。</item>
+        <item>請先下載欲於 Muzei 上套用的桌布並且於 Muzei 設定中開啟「僅載入已下載桌布」。</item>
+        <item>此權限用於讀寫內存並且收集申請圖示的相關資料。</item>
+        <item>此權限僅用於下載雲端桌布。</item>
+        <item>此權限用於確認手機的連線狀態。</item>
+        <item>此權限用於確認手機連接 Wi-Fi 的狀態，也同時用於載入 Muzei 的雲端桌布。</item>
+        <item>此權限讓您能夠直接在此應用程式直接套用桌布。</item>
+        <item>此權限用於 Muzei 動態桌布。</item>
+        <item>此用於從指針時鐘小工具中啟動時鐘應用程式。</item>
+    </string-array>
+    <string-array name="base">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    <string-array name="questions">
+        <item>什麼是啟動器？</item>
+        <item>什麼是圖示包？</item>
+        <item>我該如何使用圖示包？</item>
+        <item>我該如何套用圖示包？</item>
+        <item>我該如何看到此圖示包的所有圖示？</item>
+        <item>我看不到完整的圖示名稱</item>
+        <item>我該如何將目前圖示更改為其他圖示？</item>
+        <item>我該如何申請圖示？</item>
+        <item>我該如何在重裝應用程式後取得剩餘的高級圖示申請數？</item>
+        <item>為何重新啟動手機後仍然無法套用圖示包？</item>
+        <item>我的圖示看起來糊糊的；有鋸齒狀！</item>
+        <item>某些圖示雖然有在應用程式中，但它們沒有在應用程式抽屜中套用！</item>
+        <item>「回報問題」是回報哪個項目的問題？</item>
+        <item>我的啟動器雖然有列在 Google Play 應用程式說明中，但為何它沒有在「套用圖示」中顯示？</item>
+        <item>套用桌布後在桌面顯示黑畫面？</item>
+        <item>Muzei：我該如何讓應用程式只載入已下載的桌布？</item>
+        <item>Muzei：我該如何避免在每次更改桌布時重新下載它們？</item>
+        <item>Muzei：我只想使用特定的桌布！</item>
+        <item>為何應用程式需要讀寫外部儲存空間權限？</item>
+        <item>為何需要網路權限？</item>
+        <item>為何需要讀取網路連接狀態（ACCESS_NETWORK_STATE）的權限？</item>
+        <item>為何需要讀取 Wi-Fi 連接狀態（ACCESS_WIFI_STATE）的權限？</item>
+        <item>為何需要設定桌布權限？</item>
+        <item>為何需要 Wake Lock 權限？</item>
+        <item>為何需要用到設定鬧鐘權限？</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 則新通知</item>
+    <item quantity="other">%d 則新通知</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完成"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"關閉"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"開啟"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"空格鍵"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="about_contributors_title">貢獻者</string>
+    <string name="about_dashboard">CandyBar</string>
+    <string name="about_dashboard_contributors">CandyBar 貢獻者</string>
+    <string name="about_dashboard_dev">CandyBar 是 GitHub 上一個受 Apache License 2.0 保護的免費開源 Android 圖示包儀表板，由 Dani Mahardhika 開發。</string>
+    <string name="about_dashboard_translator">CandyBar 翻譯者</string>
+    <string name="about_item_social_content_description">此圖示包的作者：</string>
+    <string name="about_open_source_licenses">開放原始碼授權</string>
+    <string name="about_privacy_policy_title">隱私政策</string>
+    <string name="about_terms_and_conditions_title">條款及細則</string>
+    <string name="app_client">選擇電子郵件應用程式</string>
+    <string name="apply_cmtheme_failed">無法啟動 CM 主題管理器，請於設定中手動套用圖示包。</string>
+    <string name="apply_cmtheme_not_available">CM 主題管理器在此裝置上不可用。</string>
+    <string name="apply_installed">已安裝的啟動器</string>
+    <string name="apply_installed_launchers">已安裝的啟動器</string>
+    <string name="apply_launch_failed">無法啟動 %s 設定</string>
+    <string name="apply_launcher_incompatible">%s 啟動器不支援任何圖示包，不過您也可以使用第三方應用程式於 %2$s 啟動器中套用圖示包。是否安裝？</string>
+    <string name="apply_launcher_incompatible_depending_on_version">%s 啟動器不支援於 Android %d 或更低版本中套用圖示包。請更新您的 Android 版本或安裝第三方啟動器以使用此圖示包。您亦可安裝輔助應用程式以一一套用圖示。是否安裝？</string>
+    <string name="apply_launcher_not_installable">尚未安裝 %s 啟動器。請在安裝啟動器後重試。</string>
+    <string name="apply_launcher_not_installed">尚未安裝 %s 啟動器。是否於 Google Play 商店安裝？</string>
+    <string name="apply_lg_home">開啟設定 > 顯示 > 主螢幕 > 主題以套用圖示包</string>
+    <string name="apply_lg_home_failed">無法啟動 LG Home，請於設定中手動套用圖示包。</string>
+    <string name="apply_lg_home_not_available">LG Home 在此裝置上不可用。</string>
+    <string name="apply_lg_home_nougat">Android Nougat 後的 LG Home 不再支援圖示包。請安裝其他啟動器。</string>
+    <string name="apply_manual">%1$s 不支援直接從應用程式中啟用圖示，請於啟動器設定中手動啟用 %2$s。</string>
+    <string name="apply_manual_before">此版本的 Before 啟動器不支援直接套用圖示，但您可以按照以下步驟操作：</string>
+    <string name="apply_manual_before_step_1">在主螢幕上向左滑動</string>
+    <string name="apply_manual_before_step_2">點擊\"設置\"</string>
+    <string name="apply_manual_before_step_3">點擊「樣式和主題」</string>
+    <string name="apply_manual_before_step_4">點擊「圖示樣式和套裝」</string>
+    <string name="apply_manual_before_step_5">點擊 %s</string>
+    <string name="apply_manual_color_os_step_1">長按主畫面</string>
+    <string name="apply_manual_color_os_step_2">點擊「圖示」</string>
+    <string name="apply_manual_color_os_step_3">滑動到 「自訂」 按鈕的右側</string>
+    <string name="apply_manual_color_os_step_4">點擊 %s</string>
+    <string name="apply_manual_hios">HiOS 不支援直接套用圖示，但您可以按照以下步驟操作：</string>
+    <string name="apply_manual_hios_step_1">開啟「設定」</string>
+    <string name="apply_manual_hios_step_2">點擊「主題和鎖定畫面」</string>
+    <string name="apply_manual_hios_step_3">點擊「我的主題」</string>
+    <string name="apply_manual_hios_step_4">點擊「圖示包」</string>
+    <string name="apply_manual_hios_step_5">點擊 %s</string>
+    <string name="apply_manual_kiss">KISS 不支援直接套用圖示，但您可以按照以下步驟操作：</string>
+    <string name="apply_manual_kiss_step_1">開啟 KISS 設定</string>
+    <string name="apply_manual_kiss_step_2">點擊「使用者界面」</string>
+    <string name="apply_manual_kiss_step_3">點擊「圖示包」</string>
+    <string name="apply_manual_kiss_step_4">從清單中選擇 %s</string>
+    <string name="apply_manual_kvaesitso">Kvaesitso 圖示不支援直接套用，但您可以按照以下步驟操作：</string>
+    <string name="apply_manual_kvaesitso_step_1">開啟 Kvaesitso 設定</string>
+    <string name="apply_manual_kvaesitso_step_2">點擊「網格和圖示」</string>
+    <string name="apply_manual_kvaesitso_step_3">點擊「圖示包」</string>
+    <string name="apply_manual_kvaesitso_step_4">從清單中選擇 %s</string>
+    <string name="apply_manual_kvaesitso_step_5">點擊畫筆圖示以啟用或禁用背景形狀</string>
+    <string name="apply_manual_nothing_step_1">開啟「設定」</string>
+    <string name="apply_manual_nothing_step_2">點擊「客製化」</string>
+    <string name="apply_manual_nothing_step_3">點擊「圖示包」</string>
+    <string name="apply_manual_nothing_step_4">點擊 %s</string>
+    <string name="apply_manual_oxygen_os_step_1">長按主畫面</string>
+    <string name="apply_manual_oxygen_os_step_2">點擊「主畫面設定」</string>
+    <string name="apply_manual_oxygen_os_step_3">點擊「圖示包」</string>
+    <string name="apply_manual_oxygen_os_step_4">點擊 %s</string>
+    <string name="apply_manual_samsung_oneui">%1$s 不支援直接套用圖示，但從 %2$s 開始，您可以透過配套應用程式套用圖示。</string>
+    <string name="apply_manual_samsung_oneui_step_1">開啟 %s</string>
+    <string name="apply_manual_samsung_oneui_step_2">下載應用程式 %s</string>
+    <string name="apply_manual_samsung_oneui_step_3">點擊「圖示」</string>
+    <string name="apply_manual_samsung_oneui_step_4">點擊「新增」</string>
+    <string name="apply_manual_samsung_oneui_step_5">點擊藍色的「圖示包」按鈕</string>
+    <string name="apply_manual_samsung_oneui_step_6">從清單中選擇 %s</string>
+    <string name="apply_manual_samsung_oneui_step_7">每次更新 %s 時重複這些步驟以重新套用圖示包。</string>
+    <string name="apply_manual_samsung_oneui_too_old">目前的 %s 版本過舊。請更新到 Android 12 或更高版本以直接套用圖示。您也可以安裝其他啟動器。</string>
+    <string name="apply_supported">支援的啟動器</string>
+    <string name="billing_load_product_failed">無法載入應用程式內購買項目</string>
+    <string name="bookmark_button_content_description">將此圖示新增到書籤</string>
+    <string name="bookmark_icons_empty">未找到書籤。將圖示以書籤標記以便於此快速查看。</string>
+    <string name="bottomsheet_action_collapse">收合底部功能表</string>
+    <string name="bottomsheet_action_expand">展開底部功能表</string>
+    <string name="bottomsheet_action_expand_halfway">展開一半</string>
+    <string name="bottomsheet_drag_handle_content_description">拖曳控點</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"接聽"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"視訊"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"拒接"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"掛斷"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"來電"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"通話中"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"正在過濾來電"</string>
+    <string name="changelog_version">版本</string>
+    <string name="character_counter_content_description">已輸入 %1$d 個字元 (上限為 %2$d 個字元)</string>
+    <string name="character_counter_overflowed_content_description">超過字元限制 (共 %1$d 字元，上限 %2$d 字元)</string>
+    <string name="checking_for_update">正在檢查更新……</string>
+    <string name="clear">清除</string>
+    <string name="clear_text_end_icon_content_description">清除文字</string>
+    <string name="close">關閉</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">啟用</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">您必須啟用 Google Play 服務，才能執行「%1$s」。</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">安裝</string>
+    <string name="common_google_play_services_install_text">您的裝置並未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">取得 Google Play 服務</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 服務可用性</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務發生錯誤</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」無法存取 Google Play 服務，請再試一次。</string>
+    <string name="common_google_play_services_unsupported_text">您的裝置不支援 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">更新</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">您必須更新 Google Play 服務，才能執行「%1$s」。</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_google_play_services_updating_text">執行「%1$s」所需的 Google Play 服務正在更新。</string>
+    <string name="common_google_play_services_wear_update_text">必須使用新版 Google Play 服務。該服務稍後就會自動更新。</string>
+    <string name="common_open_on_phone">在手機上開啟</string>
+    <string name="common_signin_button_text">登入</string>
+    <string name="common_signin_button_text_long">使用 Google 帳戶登入</string>
+    <string name="connection_error_long">無法從伺服器載入資料。請檢查連線狀態。</string>
+    <string name="connection_failed">無法從服務器獲取資料</string>
+    <string name="crash_report">崩潰報告</string>
+    <string name="crash_report_message">不幸的是，%s 已崩潰。請點選「回報問題」以幫助開發人員解決問題。</string>
+    <string name="crash_report_send">提交回報</string>
+    <string name="donate">捐贈</string>
+    <string name="donation_success">感謝您的捐贈讓開發者能吃點飯。</string>
+    <string name="error_a11y_label">錯誤：無效</string>
+    <string name="error_icon_content_description">錯誤</string>
+    <string name="exposed_dropdown_menu_content_description">顯示下拉式選單</string>
+    <string name="home_apply_icon_pack">套用 %s</string>
+    <string name="home_donate">捐贈</string>
+    <string name="home_donate_desc">支持圖示包的開發</string>
+    <string name="home_icon_dimension">%s 個像素圖示解析度</string>
+    <string name="home_icon_request_installed_apps">總計\n%d 個已安裝的應用程式</string>
+    <string name="home_icon_request_missed_apps">未支援\n%d 個應用程式</string>
+    <string name="home_icon_request_themed_apps">已於\n%d 個應用程式中套用主題</string>
+    <string name="home_icons">自定圖示</string>
+    <string name="home_loud_wallpapers">%d 雲端桌布</string>
+    <string name="home_more_apps">查看在 Google Play 商店中發布的其它應用程式</string>
+    <string name="home_more_apps_header">更多應用程式</string>
+    <string name="home_muzei">Muzei 動態桌布</string>
+    <string name="home_rate_and_review">評分 &amp; 評論</string>
+    <string name="hour">小時</string>
+    <string name="icon_content_description">對話方塊圖示</string>
+    <string name="icon_list_content_description">圖示包中所包含的圖示</string>
+    <string name="icon_request_submit_button_content_description">提交圖示請求</string>
+    <string name="icon_search_close_button_content_description">關閉圖示搜尋</string>
+    <string name="icon_search_list_content_description">與搜尋目標匹配的圖示</string>
+    <string name="icon_shape">圖示形狀</string>
+    <string name="icons_load_failed">無法載入圖示</string>
+    <string name="install">安裝</string>
+    <string name="intent_email_failed">無法顯示電子郵件應用程式</string>
+    <string name="intent_email_not_supported">不支援</string>
+    <string name="intent_email_not_supported_message">請選擇其他受支援的電子郵件應用程式</string>
+    <string name="intent_email_recommended">推薦</string>
+    <string name="intent_email_supported">支援</string>
+    <string name="item_view_role_description">分頁標籤</string>
+    <string name="items_selected">已選擇 %d 個</string>
+    <string name="license_check">授權檢查</string>
+    <string name="license_check_failed">授權檢查失敗；此應用程式非來自於 Play 商店。您無法使用此選項。</string>
+    <string name="license_check_retry">無法檢查授權，請稍後重試。</string>
+    <string name="license_check_success">授權檢查成功，感謝您從 Play 商店下載應用程式。</string>
+    <string name="license_checking">檢查授權中……</string>
+    <string name="m3_loading_indicator_content_description">載入中</string>
+    <string name="material_clock_toggle_content_description">選取上午或下午</string>
+    <string name="material_hour_24h_suffix">%1$s 小時</string>
+    <string name="material_hour_selection">請選取時段</string>
+    <string name="material_hour_suffix">%1$s 點</string>
+    <string name="material_minute_selection">選取分鐘數</string>
+    <string name="material_minute_suffix">%1$s 分</string>
+    <string name="material_slider_range_end">範圍終點</string>
+    <string name="material_slider_range_start">範圍起點</string>
+    <string name="material_slider_value">值</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">切換至時鐘模式來輸入時間。</string>
+    <string name="material_timepicker_hour">小時</string>
+    <string name="material_timepicker_minute">分鐘</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">選取時間</string>
+    <string name="material_timepicker_text_input_mode_description">切換至文字輸入模式來輸入時間。</string>
+    <string name="menu_apply_homescreen">主螢幕</string>
+    <string name="menu_apply_homescreen_lockscreen">主螢幕和鎖定畫面</string>
+    <string name="menu_apply_lockscreen">鎖定畫面</string>
+    <string name="menu_delete">刪除</string>
+    <string name="menu_save">儲存到裝置</string>
+    <string name="menu_search">搜尋</string>
+    <string name="menu_select_all">全選</string>
+    <string name="menu_wallpaper_crop">裁剪桌布</string>
+    <string name="minute">分鐘</string>
+    <string name="mtrl_badge_numberless_content_description">新通知</string>
+    <string name="mtrl_checkbox_state_description_checked">已勾選</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">已勾選部分選項</string>
+    <string name="mtrl_checkbox_state_description_unchecked">未勾選</string>
+    <string name="mtrl_chip_close_icon_content_description">移除 %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">超過 %1$d 則新通知</string>
+    <string name="mtrl_picker_a11y_next_month">變更至下個月</string>
+    <string name="mtrl_picker_a11y_prev_month">變更至上個月</string>
+    <string name="mtrl_picker_announce_current_range_selection">所選開始日期：%1$s - 所選結束日期：%2$s</string>
+    <string name="mtrl_picker_announce_current_selection">目前選取：%1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">無</string>
+    <string name="mtrl_picker_cancel">取消</string>
+    <string name="mtrl_picker_confirm">確定</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">選取日期</string>
+    <string name="mtrl_picker_date_header_unselected">所選日期</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">結束日期：%1$s</string>
+    <string name="mtrl_picker_invalid_format">格式無效。</string>
+    <string name="mtrl_picker_invalid_format_example">範例：%1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用：%1$s</string>
+    <string name="mtrl_picker_invalid_range">日期範圍無效。</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">前往今年 %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">前往 %1$d 年</string>
+    <string name="mtrl_picker_out_of_range">超出日期範圍：%1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日期 – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – 結束日期</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">選取範圍</string>
+    <string name="mtrl_picker_range_header_unselected">開始日期 - 結束日期</string>
+    <string name="mtrl_picker_save">儲存</string>
+    <string name="mtrl_picker_start_date_description">開始日期：%1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">日期</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">結束日期</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日期</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">今天 %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">切換至日曆輸入模式</string>
+    <string name="mtrl_picker_toggle_to_day_selection">切換至日曆檢視模式</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">切換至文字輸入模式</string>
+    <string name="mtrl_picker_toggle_to_year_selection">切換至「年」檢視模式</string>
+    <string name="mtrl_picker_toggled_to_day_selection">已切換至日曆檢視畫面</string>
+    <string name="mtrl_picker_toggled_to_year_selection">已切換至年份檢視畫面</string>
+    <string name="mtrl_timepicker_cancel">取消</string>
+    <string name="mtrl_timepicker_confirm">確定</string>
+    <string name="muzei_downloaded_only">只使用已下載桌布</string>
+    <string name="muzei_refresh_duration">重新整裡時間間隔</string>
+    <string name="muzei_settings">Muzei 設定</string>
+    <string name="muzei_settings_ignored">此圖示包沒有任何桌布，設定將被忽略。</string>
+    <string name="muzei_settings_saved">已儲存設定</string>
+    <string name="muzei_wifi_only">僅在 Wi-Fi 下重新整裡</string>
+    <string name="navigation_view_about">關於</string>
+    <string name="navigation_view_apply">套用圖示</string>
+    <string name="navigation_view_donate">支持開發工作</string>
+    <string name="navigation_view_faqs">常見問題</string>
+    <string name="navigation_view_home">首頁</string>
+    <string name="navigation_view_icons">圖示</string>
+    <string name="navigation_view_presets">預製設定</string>
+    <string name="navigation_view_request">申請圖示</string>
+    <string name="navigation_view_settings">設定</string>
+    <string name="navigation_view_wallpapers">桌布</string>
+    <string name="no_browser">沒有應用程式可以開啟網站</string>
+    <string name="no_email_app">沒有應用程式可以發送郵件</string>
+    <string name="no_update_available">您正在使用最新版本！</string>
+    <string name="ok">確認</string>
+    <string name="open">開啟</string>
+    <string name="password_toggle_content_description">顯示密碼</string>
+    <string name="permission_notification_denied_1">需要通知權限才能接收來自開發者的通知</string>
+    <string name="permission_notification_denied_2">從應用程式設定中啟用通知</string>
+    <string name="permission_storage_denied">需要儲存權限以儲存桌布</string>
+    <string name="playstore_check">Play 商店檢查</string>
+    <string name="playstore_check_failed">此應用程式非來自於 Google Play 商店。您無法使用此選項。</string>
+    <string name="playstore_check_success">感謝您於 Google Play 商店安裝此應用程式！</string>
+    <string name="pref_data_cache">清除快取</string>
+    <string name="pref_data_cache_clear_dialog">您確認要清除快取嗎？</string>
+    <string name="pref_data_cache_cleared">已清除快取</string>
+    <string name="pref_data_cache_desc">清除此應用程式所產生的所有圖片快取，包括挑選圖片、申請圖示、或雲端桌布的縮圖。</string>
+    <string name="pref_data_cache_size">快取大小：%s</string>
+    <string name="pref_data_header">資料和快取</string>
+    <string name="pref_data_request">清除圖示申請資料</string>
+    <string name="pref_data_request_clear_dialog">是否清除圖示申請資料？</string>
+    <string name="pref_data_request_cleared">已清除圖示申請資料</string>
+    <string name="pref_data_request_desc">刪除於申請圖示後所產生的圖示申請資料。</string>
+    <string name="pref_language_header">語言</string>
+    <string name="pref_notifications">接收通知</string>
+    <string name="pref_notifications_header">通知</string>
+    <string name="pref_others_changelog">更新日誌</string>
+    <string name="pref_others_header">其它</string>
+    <string name="pref_others_report_bugs">回報問題</string>
+    <string name="pref_others_reset_tutorial">重置教程</string>
+    <string name="pref_others_reset_tutorial_reset">已重置教程</string>
+    <string name="pref_premium_request_header">高級圖示申請</string>
+    <string name="pref_premium_request_rebuild">重新整理高級圖示申請</string>
+    <string name="pref_premium_request_rebuild_desc">重新整理全部高級圖示申請資料以重新提交</string>
+    <string name="pref_premium_request_restore">回復已購買項目</string>
+    <string name="pref_premium_request_restore_desc">在重新安裝圖示包後回復高級申請包</string>
+    <string name="pref_premium_request_restore_empty">尚未購買任何項目</string>
+    <string name="pref_premium_request_restore_success">已回復高級圖示申請</string>
+    <string name="pref_theme_dark">深色主題</string>
+    <string name="pref_theme_dark_desc">於應用程式中顯示深色主題</string>
+    <string name="pref_theme_header">主題</string>
+    <string name="pref_wallpaper_header">桌布</string>
+    <string name="pref_wallpaper_location">桌布儲存位置</string>
+    <string name="premium_request">高級圖示申請</string>
+    <string name="premium_request_already_purchased">您仍剩餘 %d 個高級圖示申請次數。
+請於再次購買高級圖示申請包前使用完畢剩餘次數。</string>
+    <string name="premium_request_available">可用\n%d 請求</string>
+    <string name="premium_request_buy">購買</string>
+    <string name="premium_request_consume_failed">無法使用高級圖示申請，請確認連線狀態並於設定重新整理高級圖示申請次數。</string>
+    <string name="premium_request_count">總計\n%d 個請求</string>
+    <string name="premium_request_desc">高級圖示申請是能夠比常規圖示申請得到回應的付費申請。</string>
+    <string name="premium_request_exist">您仍有一個高級圖示申請包。請開啟設定並點選「回復已購買項目」以回復它。</string>
+    <string name="premium_request_limit">僅剩 %d 次高級圖示申請，</string>
+    <string name="premium_request_limit1">但已選擇了 %d 個應用程式。
+\n\n請於使用常規圖示申請前將剩餘的高級圖示申請使用完畢。</string>
+    <string name="premium_request_no_internet">在提交高級圖示申請前請確保連線狀態</string>
+    <string name="premium_request_rebuilding">正在重新整理高級圖示申請中……</string>
+    <string name="premium_request_rebuilding_empty">尚未使用任何高級圖示申請</string>
+    <string name="premium_request_required">您需要購買高級圖示申請包以提交圖示申請</string>
+    <string name="premium_request_used">已使用\n%d 個請求</string>
+    <string name="presets_load_failed">無法載入預製設定</string>
+    <string name="presets_required_apps">使用這些預製設定所需的應用程式</string>
+    <string name="presets_required_apps_not_installed">未安裝預製設定所需的應用程式。請安裝缺少的應用程式並重試。</string>
+    <string name="presets_storage_permission">需要儲存權限才能載入預覽桌布</string>
+    <string name="regular_request">常規圖示請求</string>
+    <string name="regular_request_available">可用\n%d 請求</string>
+    <string name="regular_request_count">總計\n%d 個請求</string>
+    <string name="regular_request_desc">提交圖示請求後，開發者將嘗試將您的請求圖示加入於圖示包內。</string>
+    <string name="regular_request_used">已使用\n%d 個請求</string>
+    <string name="report_bugs_building">正在產生活動列表……</string>
+    <string name="report_bugs_desc">請描述您要回報的問題類型</string>
+    <string name="report_bugs_desc_empty">請給予一些說明</string>
+    <string name="report_bugs_desc_hint">說明</string>
+    <string name="report_bugs_failed">無法產生活動列表</string>
+    <string name="report_bugs_send">提交回報</string>
+    <string name="request_already_requested">已經申請</string>
+    <string name="request_app_disabled">您使用的是此圖示包的舊版本。請求的圖示可能早已包含在最新版本中。請將您的應用程式更新到最新版本以請求圖示。</string>
+    <string name="request_appfilter_failed">無法讀取 appfilter.xml</string>
+    <string name="request_build_failed">無法產生申請文件</string>
+    <string name="request_building">產生申請文件中……</string>
+    <string name="request_custom_error">發送圖示請求時出錯。如果此錯誤仍然存在，請聯繫開發人員。%s</string>
+    <string name="request_custom_success">已成功發送圖示申請</string>
+    <string name="request_email_client">請選擇電子郵件應用程式</string>
+    <string name="request_fetching_data">取得最新資料……</string>
+    <string name="request_limit">常規圖示申請僅能提交 %d 個圖示申請。</string>
+    <string name="request_limit_buy">請購買高級圖示申請以申請更多圖示。</string>
+    <string name="request_limit_reset">圖示申請次數將於每次更新後重置。</string>
+    <string name="request_not_available">無法被申請</string>
+    <string name="request_not_requested">尚未申請</string>
+    <string name="request_not_selected">選擇申請的應用程式</string>
+    <string name="request_pacific_error">向 Pacific Manager 發送申請時出錯。錯誤為 %s</string>
+    <string name="request_pacific_sending">正在向 Pacific Manager 送出申請……</string>
+    <string name="request_pacific_success">已成功向 Pacific Manager 發送申請</string>
+    <string name="request_requested">無法再次請求相同圖示。</string>
+    <string name="request_requested_button_cancel">回上頁</string>
+    <string name="request_requested_button_confirm">仍然選擇</string>
+    <string name="request_requested_possible">您已經請求了此圖示。您確定要為此花費另一個請求嗎？</string>
+    <string name="request_title">申請圖示</string>
+    <string name="request_used">您已申請 %d 個圖示。</string>
+    <string name="save_setting">儲存</string>
+    <string name="search_faqs">問題或回答</string>
+    <string name="search_icon">圖示名稱</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"搜尋"</string>
+    <string name="search_noresult">找不到「%s」的結果</string>
+    <string name="search_wallpapers">桌布名稱</string>
+    <string name="searchview_clear_text_content_description">清除文字</string>
+    <string name="searchview_navigation_content_description">返回</string>
+    <string name="share_app_body">來看看 %1$s，這個圖示包超酷的！ %2$s</string>
+    <string name="share_app_title">喲！來看看 %s</string>
+    <string name="share_icon_pack_button_content_description">分享此應用程式</string>
+    <string name="side_sheet_accessibility_pane_title">側邊功能表</string>
+    <string name="splash_screen_title">CandyBar Material 儀表板</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tap_intro_home_apply">套用圖示包</string>
+    <string name="tap_intro_home_apply_desc">點擊此處將 %s 套用到目前的啟動器。長按可更改所套用的啟動器。</string>
+    <string name="tap_intro_home_navigation">側欄</string>
+    <string name="tap_intro_home_navigation_desc">點擊這裡或於螢幕邊緣向右滑動以開啟側欄</string>
+    <string name="tap_intro_icons_search">搜尋</string>
+    <string name="tap_intro_icons_search_desc">點擊此處以搜尋圖示</string>
+    <string name="tap_intro_request_premium">高級圖示申請</string>
+    <string name="tap_intro_request_premium_desc">點擊此處以購買高級圖示申請包， 高級圖示申請將更優先處理您的申請內容。</string>
+    <string name="tap_intro_request_select">選擇尚未支援的應用程式</string>
+    <string name="tap_intro_request_select_all">全選未支援的應用程式</string>
+    <string name="tap_intro_request_select_all_desc">點擊此處以選擇所有尚未支援的應用程式以提交圖示申請</string>
+    <string name="tap_intro_request_select_desc">點擊此處以選擇尚未支援的應用程式</string>
+    <string name="tap_intro_request_send">提交圖示申請</string>
+    <string name="tap_intro_request_send_desc">點擊此處以提交未支援的應用程式</string>
+    <string name="tap_intro_wallpaper_preview_apply">套用桌布</string>
+    <string name="tap_intro_wallpaper_preview_apply_desc">點擊此處以將此桌布設定為主畫面背景</string>
+    <string name="tap_intro_wallpaper_preview_save">儲存桌布</string>
+    <string name="tap_intro_wallpaper_preview_save_desc">點此以下載桌布並儲存到裝置</string>
+    <string name="tap_intro_wallpapers_option">桌布選項</string>
+    <string name="tap_intro_wallpapers_option_desc">長按此處以顯示桌布選項，%s 套用桌布。</string>
+    <string name="tap_intro_wallpapers_option_desc_download">下載或</string>
+    <string name="tap_intro_wallpapers_preview">預覽桌布</string>
+    <string name="tap_intro_wallpapers_preview_desc">點此預覽桌布原圖</string>
+    <string name="theme_name_auto">自動</string>
+    <string name="theme_name_dark">深色</string>
+    <string name="theme_name_light">淺色</string>
+    <string name="theme_name_material_you">Material You</string>
+    <string name="txt_close">關閉</string>
+    <string name="txt_new">新</string>
+    <string name="txt_open">開啟</string>
+    <string name="unable_to_load_config">從伺服器讀取資料時發生錯誤。</string>
+    <string name="update">更新</string>
+    <string name="update_available">可用的更新 ！</string>
+    <string name="wallpaper_already_downloaded">已下載桌布</string>
+    <string name="wallpaper_applied">已套用桌布</string>
+    <string name="wallpaper_apply">套用桌布</string>
+    <string name="wallpaper_apply_cancelled">已取消套用桌布</string>
+    <string name="wallpaper_apply_failed">無法套用桌布</string>
+    <string name="wallpaper_applying">正在套用桌布……</string>
+    <string name="wallpaper_download_failed">無法下載桌布</string>
+    <string name="wallpaper_download_success">桌布下載成功</string>
+    <string name="wallpaper_downloading">正在下載桌布……</string>
+    <string name="wallpaper_loading">正在載入桌布……</string>
+    <string name="wallpaper_new_added">新桌布</string>
+    <string name="wallpaper_save_to_device">儲存桌布</string>
+</resources>

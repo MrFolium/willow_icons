@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mrfolium.willowicons.app-mergeDebugResources-59:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/mrfolium/.gradle/caches/9.4.1/transforms/6ae8a217eb46c1d060d7135a2494da64/transformed/appcompat-1.7.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

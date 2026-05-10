@@ -1,0 +1,63 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdk = rootProject.ext.CompileSdk
+    namespace 'com.mrfolium.willowicons'
+
+    defaultConfig {
+        applicationId 'com.mrfolium.willowicons'
+        minSdkVersion rootProject.ext.MinSdk
+        targetSdkVersion rootProject.ext.TargetSdk
+        versionCode 1
+        versionName '1.0'
+    }
+
+    bundle {
+        language {
+            enableSplit false
+        }
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    lint {
+        abortOnError false
+    }
+}
+
+base {
+    archivesName = "${parent.name}-${android.defaultConfig.versionCode}"
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+dependencies {
+    implementation 'com.github.zixpo:candybar:3.23.0'
+}
+
+// Automatically copies appfilter.xml and drawable.xml
+// from res/xml to assets before building
+tasks.register('copyXMLs') {
+    ['appfilter.xml', 'drawable.xml'].each { file ->
+        copy {
+            from "$projectDir/src/main/res/xml/$file"
+            into "$projectDir/src/main/assets/"
+        }
+    }
+}
+
+tasks.configureEach { task ->
+    if (task.name == 'assembleDebug' || task.name == 'assembleRelease') {
+        task.dependsOn copyXMLs
+    }
+}

@@ -1,0 +1,898 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mrfolium.willowicons"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+8-->INJECTED
+9        android:minSdkVersion="21"
+9-->INJECTED
+10        android:targetSdkVersion="36" />
+10-->INJECTED
+11
+12    <supports-screens
+12-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:6:5-10:40
+13        android:largeScreens="true"
+13-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:9:9-36
+14        android:normalScreens="true"
+14-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:8:9-37
+15        android:smallScreens="true"
+15-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:7:9-36
+16        android:xlargeScreens="true" />
+16-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:10:9-37
+17
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:27:5-76
+18-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:27:22-73
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:28:5-79
+19-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:28:22-76
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:29:5-67
+20-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:29:22-64
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:30:5-68
+21-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:30:22-65
+22    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+22-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:31:5-72
+22-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:31:22-69
+23    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+23-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:32:5-78
+23-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:32:22-75
+24    <uses-permission
+24-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:33:5-36:40
+25        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+25-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:34:9-65
+26        android:maxSdkVersion="28" />
+26-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:35:9-35
+27    <uses-permission
+27-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:37:5-39:38
+28        android:name="android.permission.READ_EXTERNAL_STORAGE"
+28-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:38:9-64
+29        android:maxSdkVersion="32" />
+29-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:39:9-35
+30    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+30-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:40:5-42:47
+30-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:41:9-57
+31
+32    <queries>
+32-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:44:5-58:15
+33        <intent>
+33-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:45:9-49:18
+34            <action android:name="android.intent.action.MAIN" />
+34-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:17-69
+34-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:25-66
+35
+36            <category android:name="android.intent.category.LAUNCHER" />
+36-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:35:17-77
+36-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:35:27-74
+37        </intent>
+38        <intent>
+38-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:50:9-54:18
+39            <action android:name="android.intent.action.MAIN" />
+39-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:17-69
+39-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:25-66
+40
+41            <category android:name="android.intent.category.HOME" />
+41-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:53:13-69
+41-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:53:23-66
+42        </intent>
+43
+44        <package android:name="com.android.bluetooth" />
+44-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:56:9-57
+44-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:56:18-54
+45        <package android:name="com.android.cellbroadcastreceiver" />
+45-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:57:9-69
+45-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:57:18-66
+46        <!-- Used to query the Muzei ContentProvider -->
+47        <package android:name="net.nurik.roman.muzei" />
+47-->[com.google.android.apps.muzei:muzei-api:3.4.2] /home/mrfolium/.gradle/caches/9.4.1/transforms/dd86c4ae6dba39329b76c9bc36896eaa/transformed/jetified-muzei-api-3.4.2/AndroidManifest.xml:25:9-57
+47-->[com.google.android.apps.muzei:muzei-api:3.4.2] /home/mrfolium/.gradle/caches/9.4.1/transforms/dd86c4ae6dba39329b76c9bc36896eaa/transformed/jetified-muzei-api-3.4.2/AndroidManifest.xml:25:18-54
+48
+49        <intent>
+49-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:13:9-15:18
+50            <action android:name="com.android.vending.billing.InAppBillingService.BIND" />
+50-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:14:13-91
+50-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:14:21-88
+51        </intent>
+52        <intent>
+52-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:16:9-18:18
+53            <action android:name="com.google.android.apps.play.billingtestcompanion.BillingOverrideService.BIND" />
+53-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:17:13-116
+53-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:17:21-113
+54        </intent>
+55    </queries>
+56
+57    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+57-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:25:5-81
+57-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:25:22-78
+58    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- Required permission to check licensing. -->
+58-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:26:5-77
+58-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:26:22-74
+59    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+59-->[com.github.danimahardhika.android-helpers:license:0.1.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/baf18e725c96ae131a230332c51d2d90/transformed/jetified-license-0.1.0/AndroidManifest.xml:12:5-73
+59-->[com.github.danimahardhika.android-helpers:license:0.1.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/baf18e725c96ae131a230332c51d2d90/transformed/jetified-license-0.1.0/AndroidManifest.xml:12:22-70
+60    <uses-permission android:name="com.android.vending.BILLING" />
+60-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:10:5-67
+60-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:10:22-64
+61
+62    <permission
+62-->[androidx.core:core:1.13.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/939a05a1631a5e8fd276fff45193b504/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+63        android:name="com.mrfolium.willowicons.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+63-->[androidx.core:core:1.13.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/939a05a1631a5e8fd276fff45193b504/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+64        android:protectionLevel="signature" />
+64-->[androidx.core:core:1.13.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/939a05a1631a5e8fd276fff45193b504/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+65
+66    <uses-permission android:name="com.mrfolium.willowicons.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+66-->[androidx.core:core:1.13.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/939a05a1631a5e8fd276fff45193b504/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+66-->[androidx.core:core:1.13.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/939a05a1631a5e8fd276fff45193b504/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+67
+68    <application
+68-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:12:5-183:19
+69        android:name="com.mrfolium.willowicons.applications.CandyBar"
+69-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:14:9-46
+70        android:allowBackup="true"
+70-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:15:9-35
+71        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+71-->[androidx.core:core:1.13.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/939a05a1631a5e8fd276fff45193b504/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+72        android:debuggable="true"
+73        android:enableOnBackInvokedCallback="true"
+73-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:21:9-51
+74        android:extractNativeLibs="true"
+74-->INJECTED
+75        android:icon="@mipmap/ic_launcher"
+75-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:16:9-43
+76        android:label="@string/app_name"
+76-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:18:9-41
+77        android:networkSecurityConfig="@xml/network_config"
+77-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:17:9-60
+78        android:supportsRtl="true"
+78-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:19:9-35
+79        android:theme="@style/Theme.App.Starting" >
+79-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:20:9-50
+80        <activity
+80-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:24:9-156:20
+81            android:name="com.mrfolium.willowicons.activities.MainActivity"
+81-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:25:13-52
+82            android:configChanges="uiMode|orientation|keyboardHidden|screenSize"
+82-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:28:13-81
+83            android:exported="true"
+83-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:29:13-36
+84            android:launchMode="singleTop"
+84-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:26:13-43
+85            android:theme="@style/Theme.App.Starting" >
+85-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:27:13-54
+86            <meta-data
+86-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:30:13-32:53
+87                android:name="android.app.shortcuts"
+87-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:31:17-53
+88                android:resource="@xml/shortcuts" />
+88-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:32:17-50
+89
+90            <intent-filter>
+90-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:33:13-36:29
+91                <action android:name="android.intent.action.MAIN" />
+91-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:17-69
+91-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:25-66
+92
+93                <category android:name="android.intent.category.LAUNCHER" />
+93-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:35:17-77
+93-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:35:27-74
+94            </intent-filter>
+95            <intent-filter>
+95-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:37:13-41:29
+96                <action android:name="android.intent.action.VIEW" />
+96-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:38:17-69
+96-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:38:25-66
+97
+98                <category android:name="android.intent.category.DEFAULT" />
+98-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+98-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+99                <category android:name="android.intent.category.BROWSABLE" />
+99-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:40:17-78
+99-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:40:27-75
+100            </intent-filter>
+101            <intent-filter>
+101-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:42:13-47:29
+102                <action android:name="android.intent.action.GET_CONTENT" />
+102-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:43:17-76
+102-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:43:25-73
+103
+104                <category android:name="android.intent.category.DEFAULT" />
+104-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+104-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+105                <category android:name="android.intent.category.OPENABLE" />
+105-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:45:17-77
+105-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:45:27-74
+106
+107                <data android:mimeType="image/*" />
+107-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:46:17-52
+107-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:46:23-49
+108            </intent-filter>
+109            <intent-filter>
+109-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:48:13-51:29
+110                <action android:name="android.intent.action.SET_WALLPAPER" />
+110-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:49:17-78
+110-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:49:25-75
+111
+112                <category android:name="android.intent.category.DEFAULT" />
+112-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+112-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+113            </intent-filter>
+114            <intent-filter>
+114-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:52:13-56:29
+115                <action android:name="android.intent.action.PICK" />
+115-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:53:17-69
+115-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:53:25-66
+116
+117                <category android:name="android.intent.category.DEFAULT" />
+117-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+117-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+118
+119                <data android:mimeType="image/*" />
+119-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:46:17-52
+119-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:46:23-49
+120            </intent-filter>
+121            <intent-filter>
+121-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:57:13-61:29
+122                <action android:name="android.intent.action.PICK" />
+122-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:53:17-69
+122-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:53:25-66
+123
+124                <category android:name="android.intent.category.DEFAULT" />
+124-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+124-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+125                <category android:name="android.intent.category.OPENABLE" />
+125-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:45:17-77
+125-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:45:27-74
+126            </intent-filter>
+127            <!-- ADW Launcher -->
+128            <intent-filter>
+128-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:63:13-66:29
+129                <action android:name="org.adw.launcher.THEMES" />
+129-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:64:17-66
+129-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:64:25-63
+130
+131                <category android:name="android.intent.category.DEFAULT" />
+131-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+131-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+132            </intent-filter>
+133            <!-- ADW Launcher Custom Icon Picker -->
+134            <intent-filter>
+134-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:68:13-71:29
+135                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
+135-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:69:17-82
+135-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:69:25-79
+136
+137                <category android:name="android.intent.category.DEFAULT" />
+137-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+137-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+138            </intent-filter>
+139            <!-- Apex Launcher -->
+140            <intent-filter>
+140-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:73:13-76:29
+141                <action android:name="android.intent.action.MAIN" />
+141-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:17-69
+141-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:25-66
+142
+143                <category android:name="com.anddoes.launcher.THEME" />
+143-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:75:17-71
+143-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:75:27-68
+144            </intent-filter>
+145            <!-- GO Launcher -->
+146            <intent-filter>
+146-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:78:13-82:29
+147                <action android:name="android.intent.action.MAIN" />
+147-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:17-69
+147-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:25-66
+148                <action android:name="com.gau.go.launcherex.theme" />
+148-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:80:17-70
+148-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:80:25-67
+149
+150                <category android:name="android.intent.category.DEFAULT" />
+150-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+150-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+151            </intent-filter>
+152            <!-- Atom Launcher -->
+153            <intent-filter>
+153-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:84:13-86:29
+154                <action android:name="com.dlto.atom.launcher.THEME" />
+154-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:85:17-71
+154-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:85:25-68
+155            </intent-filter>
+156            <!-- Turbo Launcher -->
+157            <intent-filter>
+157-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:88:13-91:29
+158                <action android:name="com.phonemetra.turbo.launcher.icons.ACTION_PICK_ICON" />
+158-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:89:17-95
+158-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:89:25-92
+159
+160                <category android:name="android.intent.category.DEFAULT" />
+160-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+160-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+161            </intent-filter>
+162            <!-- Nine Launcher -->
+163            <intent-filter>
+163-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:93:13-96:29
+164                <action android:name="com.gridappsinc.launcher.theme.apk_action" />
+164-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:94:17-84
+164-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:94:25-81
+165
+166                <category android:name="android.intent.category.DEFAULT" />
+166-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+166-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+167            </intent-filter>
+168            <!-- Lawnchair -->
+169            <intent-filter>
+169-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:98:13-101:29
+170                <action android:name="ch.deletescape.lawnchair.ICONPACK" />
+170-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:99:17-76
+170-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:99:25-73
+171
+172                <category android:name="ch.deletescape.lawnchair.PICK_ICON" />
+172-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:100:17-79
+172-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:100:27-76
+173            </intent-filter>
+174            <!-- Nova Launcher -->
+175            <intent-filter>
+175-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:103:13-106:29
+176                <action android:name="com.novalauncher.THEME" />
+176-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:104:17-65
+176-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:104:25-62
+177
+178                <category android:name="com.novalauncher.category.CUSTOM_ICON_PICKER" />
+178-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:105:17-89
+178-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:105:27-86
+179            </intent-filter>
+180            <!-- Solo Launcher -->
+181            <intent-filter>
+181-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:108:13-112:29
+182                <action android:name="android.intent.action.MAIN" />
+182-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:17-69
+182-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:25-66
+183                <action android:name="home.solo.launcher.free.THEMES" />
+183-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:110:17-73
+183-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:110:25-70
+184                <action android:name="home.solo.launcher.free.ACTION_ICON" />
+184-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:111:17-78
+184-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:111:25-75
+185            </intent-filter>
+186            <!-- LG Home -->
+187            <intent-filter>
+187-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:114:13-118:29
+188                <action android:name="android.intent.action.MAIN" />
+188-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:17-69
+188-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:25-66
+189                <action android:name="com.lge.launcher2.THEME" />
+189-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:116:17-66
+189-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:116:25-63
+190
+191                <category android:name="android.intent.category.DEFAULT" />
+191-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+191-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+192            </intent-filter>
+193            <!-- OnePlus Launcher -->
+194            <intent-filter>
+194-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:120:13-123:29
+195                <action android:name="net.oneplus.launcher.icons.ACTION_PICK_ICON" />
+195-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:121:17-86
+195-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:121:25-83
+196
+197                <category android:name="android.intent.category.DEFAULT" />
+197-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+197-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+198            </intent-filter>
+199            <!-- TSF Shell -->
+200            <intent-filter>
+200-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:125:13-128:29
+201                <action android:name="com.tsf.shell.themes" />
+201-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:126:17-63
+201-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:126:25-60
+202
+203                <category android:name="android.intent.category.DEFAULT" />
+203-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+203-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+204            </intent-filter>
+205            <!-- Smart Launcher -->
+206            <intent-filter>
+206-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:130:13-133:29
+207                <action android:name="ginlemon.smartlauncher.THEMES" />
+207-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:131:17-72
+207-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:131:25-69
+208
+209                <category android:name="android.intent.category.DEFAULT" />
+209-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+209-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+210            </intent-filter>
+211            <!-- Sony Launcher -->
+212            <intent-filter>
+212-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:135:13-138:29
+213                <action android:name="com.sonymobile.home.ICON_PACK" />
+213-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:136:17-72
+213-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:136:25-69
+214
+215                <category android:name="android.intent.category.DEFAULT" />
+215-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+215-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+216            </intent-filter>
+217            <!-- GO Launcher & Zero Launcher -->
+218            <intent-filter>
+218-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:140:13-144:29
+219                <action android:name="com.gau.go.launcherex.theme" />
+219-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:80:17-70
+219-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:80:25-67
+220                <action android:name="com.zeroteam.zerolauncher.theme" />
+220-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:142:17-74
+220-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:142:25-71
+221                <action android:name="android.intent.action.MAIN" />
+221-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:17-69
+221-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:25-66
+222            </intent-filter>
+223            <!-- +HOME Icon Picker -->
+224            <intent-filter>
+224-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:146:13-149:29
+225                <action android:name="jp.co.a_tm.android.launcher.icons.ACTION_PICK_ICON" />
+225-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:147:17-93
+225-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:147:25-90
+226
+227                <category android:name="android.intent.category.DEFAULT" />
+227-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+227-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+228            </intent-filter>
+229            <!-- V Launcher -->
+230            <intent-filter>
+230-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:151:13-155:29
+231                <action android:name="android.intent.action.MAIN" />
+231-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:17-69
+231-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:34:25-66
+232                <action android:name="com.vivid.launcher.theme" />
+232-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:153:17-67
+232-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:153:25-64
+233
+234                <category android:name="android.intent.category.DEFAULT" />
+234-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:17-76
+234-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:39:27-73
+235            </intent-filter>
+236        </activity>
+237
+238        <provider
+238-->INJECTED
+239            android:name="com.mrfolium.willowicons.services.MuzeiService"
+239-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:159:13-50
+240            android:authorities="com.mrfolium.willowicons.ArtProvider"
+240-->INJECTED
+241            android:description="@string/muzei_art_source_desc"
+241-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:162:13-64
+242            android:exported="true"
+242-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:163:13-36
+243            android:label="@string/muzei_art_source_name"
+243-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:161:13-58
+244            android:permission="com.google.android.apps.muzei.api.ACCESS_PROVIDER" >
+244-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:164:13-83
+245            <intent-filter>
+245-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:165:13-167:29
+246                <action android:name="com.google.android.apps.muzei.api.MuzeiArtProvider" />
+246-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:166:17-93
+246-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:166:25-90
+247            </intent-filter>
+248
+249            <meta-data
+249-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:168:13-170:54
+250                android:name="color"
+250-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:169:17-37
+251                android:value="@color/muzei_color" />
+251-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:170:17-51
+252        </provider>
+253        <provider
+253-->INJECTED
+254            android:name="androidx.core.content.FileProvider"
+254-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:174:13-62
+255            android:authorities="com.mrfolium.willowicons.fileProvider"
+255-->INJECTED
+256            android:exported="false"
+256-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:176:13-37
+257            android:grantUriPermissions="true" >
+257-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:177:13-47
+258            <meta-data
+258-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:178:13-180:63
+259                android:name="android.support.FILE_PROVIDER_PATHS"
+259-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:179:17-67
+260                android:resource="@xml/file_provider_paths" />
+260-->/home/mrfolium/willow_icons/app/src/main/AndroidManifest.xml:180:17-60
+261        </provider>
+262
+263        <meta-data
+263-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:61:9-63:35
+264            android:name="android.max_aspect"
+264-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:62:13-46
+265            android:value="2.1" />
+265-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:63:13-32
+266
+267        <activity
+267-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:65:9-69:76
+268            android:name="candybar.lib.activities.CandyBarCrashReport"
+268-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:66:13-71
+269            android:launchMode="singleInstance"
+269-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:67:13-48
+270            android:noHistory="true"
+270-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:68:13-37
+271            android:theme="@style/Theme.MaterialComponents.Light.Dialog" />
+271-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:69:13-73
+272        <activity
+272-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:70:9-74:63
+273            android:name="candybar.lib.activities.CandyBarWallpaperActivity"
+273-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:71:13-77
+274            android:configChanges="uiMode|orientation|keyboardHidden|screenSize"
+274-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:72:13-81
+275            android:launchMode="singleTop"
+275-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:73:13-43
+276            android:theme="@style/CandyBar.Theme.Wallpaper" />
+276-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:74:13-60
+277
+278        <service
+278-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:76:9-78:44
+279            android:name="candybar.lib.services.CandyBarService"
+279-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:77:13-65
+280            android:stopWithTask="false" />
+280-->[com.github.zixpo.candybar:library:3.23.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/f27fd4d78d6d288373df5e8a3052d211/transformed/jetified-library-3.23.0/AndroidManifest.xml:78:13-41
+281
+282        <provider
+282-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:29:9-37:20
+283            android:name="androidx.startup.InitializationProvider"
+283-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:30:13-67
+284            android:authorities="com.mrfolium.willowicons.androidx-startup"
+284-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:31:13-68
+285            android:exported="false" >
+285-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:32:13-37
+286            <meta-data
+286-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:34:13-36:52
+287                android:name="androidx.work.WorkManagerInitializer"
+287-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:35:17-68
+288                android:value="androidx.startup" />
+288-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:36:17-49
+289            <meta-data
+289-->[com.squareup.okhttp3:okhttp-android:5.2.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/6071575a3c56afec55f33023717d7898/transformed/jetified-okhttp-release/AndroidManifest.xml:16:13-18:52
+290                android:name="okhttp3.internal.platform.PlatformInitializer"
+290-->[com.squareup.okhttp3:okhttp-android:5.2.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/6071575a3c56afec55f33023717d7898/transformed/jetified-okhttp-release/AndroidManifest.xml:17:17-77
+291                android:value="androidx.startup" />
+291-->[com.squareup.okhttp3:okhttp-android:5.2.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/6071575a3c56afec55f33023717d7898/transformed/jetified-okhttp-release/AndroidManifest.xml:18:17-49
+292            <meta-data
+292-->[androidx.emoji2:emoji2:1.3.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/041a8cfc1c2fcca0a9bdacf8b9179312/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+293                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+293-->[androidx.emoji2:emoji2:1.3.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/041a8cfc1c2fcca0a9bdacf8b9179312/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+294                android:value="androidx.startup" />
+294-->[androidx.emoji2:emoji2:1.3.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/041a8cfc1c2fcca0a9bdacf8b9179312/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+295            <meta-data
+295-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/mrfolium/.gradle/caches/9.4.1/transforms/7c9d41caeaab25be1f49acb7456436c8/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+296                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+296-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/mrfolium/.gradle/caches/9.4.1/transforms/7c9d41caeaab25be1f49acb7456436c8/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+297                android:value="androidx.startup" />
+297-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/mrfolium/.gradle/caches/9.4.1/transforms/7c9d41caeaab25be1f49acb7456436c8/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+298            <meta-data
+298-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+299                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+299-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+300                android:value="androidx.startup" />
+300-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+301        </provider>
+302
+303        <service
+303-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:39:9-45:35
+304            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+304-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:40:13-88
+305            android:directBootAware="false"
+305-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:41:13-44
+306            android:enabled="@bool/enable_system_alarm_service_default"
+306-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:42:13-72
+307            android:exported="false" />
+307-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:43:13-37
+308        <service
+308-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:46:9-52:35
+309            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+309-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:47:13-84
+310            android:directBootAware="false"
+310-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:48:13-44
+311            android:enabled="@bool/enable_system_job_service_default"
+311-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:49:13-70
+312            android:exported="true"
+312-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:50:13-36
+313            android:permission="android.permission.BIND_JOB_SERVICE" />
+313-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:51:13-69
+314        <service
+314-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:53:9-59:35
+315            android:name="androidx.work.impl.foreground.SystemForegroundService"
+315-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:54:13-81
+316            android:directBootAware="false"
+316-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:55:13-44
+317            android:enabled="@bool/enable_system_foreground_service_default"
+317-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:56:13-77
+318            android:exported="false" />
+318-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:57:13-37
+319
+320        <receiver
+320-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:61:9-66:35
+321            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+321-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:62:13-88
+322            android:directBootAware="false"
+322-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:63:13-44
+323            android:enabled="true"
+323-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:64:13-35
+324            android:exported="false" />
+324-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:65:13-37
+325        <receiver
+325-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:67:9-77:20
+326            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+326-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:68:13-106
+327            android:directBootAware="false"
+327-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:69:13-44
+328            android:enabled="false"
+328-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:70:13-36
+329            android:exported="false" >
+329-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:71:13-37
+330            <intent-filter>
+330-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:73:13-76:29
+331                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+331-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:74:17-87
+331-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:74:25-84
+332                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+332-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:75:17-90
+332-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:75:25-87
+333            </intent-filter>
+334        </receiver>
+335        <receiver
+335-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:78:9-88:20
+336            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+336-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:79:13-104
+337            android:directBootAware="false"
+337-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:80:13-44
+338            android:enabled="false"
+338-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:81:13-36
+339            android:exported="false" >
+339-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:82:13-37
+340            <intent-filter>
+340-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:84:13-87:29
+341                <action android:name="android.intent.action.BATTERY_OKAY" />
+341-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:85:17-77
+341-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:85:25-74
+342                <action android:name="android.intent.action.BATTERY_LOW" />
+342-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:86:17-76
+342-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:86:25-73
+343            </intent-filter>
+344        </receiver>
+345        <receiver
+345-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:89:9-99:20
+346            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+346-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:90:13-104
+347            android:directBootAware="false"
+347-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:91:13-44
+348            android:enabled="false"
+348-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:92:13-36
+349            android:exported="false" >
+349-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:93:13-37
+350            <intent-filter>
+350-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:95:13-98:29
+351                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+351-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:96:17-83
+351-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:96:25-80
+352                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+352-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:97:17-82
+352-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:97:25-79
+353            </intent-filter>
+354        </receiver>
+355        <receiver
+355-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:100:9-109:20
+356            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+356-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:101:13-103
+357            android:directBootAware="false"
+357-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:102:13-44
+358            android:enabled="false"
+358-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:103:13-36
+359            android:exported="false" >
+359-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:104:13-37
+360            <intent-filter>
+360-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:106:13-108:29
+361                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+361-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:107:17-79
+361-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:107:25-76
+362            </intent-filter>
+363        </receiver>
+364        <receiver
+364-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:110:9-121:20
+365            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+365-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:111:13-88
+366            android:directBootAware="false"
+366-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:112:13-44
+367            android:enabled="false"
+367-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:113:13-36
+368            android:exported="false" >
+368-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:114:13-37
+369            <intent-filter>
+369-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:116:13-120:29
+370                <action android:name="android.intent.action.BOOT_COMPLETED" />
+370-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:117:17-79
+370-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:117:25-76
+371                <action android:name="android.intent.action.TIME_SET" />
+371-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:118:17-73
+371-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:118:25-70
+372                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+372-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:119:17-81
+372-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:119:25-78
+373            </intent-filter>
+374        </receiver>
+375        <receiver
+375-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:122:9-131:20
+376            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+376-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:123:13-99
+377            android:directBootAware="false"
+377-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:124:13-44
+378            android:enabled="@bool/enable_system_alarm_service_default"
+378-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:125:13-72
+379            android:exported="false" >
+379-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:126:13-37
+380            <intent-filter>
+380-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:128:13-130:29
+381                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+381-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:129:17-98
+381-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:129:25-95
+382            </intent-filter>
+383        </receiver>
+384        <receiver
+384-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:132:9-142:20
+385            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+385-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:133:13-78
+386            android:directBootAware="false"
+386-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:134:13-44
+387            android:enabled="true"
+387-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:135:13-35
+388            android:exported="true"
+388-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:136:13-36
+389            android:permission="android.permission.DUMP" >
+389-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:137:13-57
+390            <intent-filter>
+390-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:139:13-141:29
+391                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+391-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:140:17-88
+391-->[androidx.work:work-runtime:2.10.5] /home/mrfolium/.gradle/caches/9.4.1/transforms/b2674b2ebadd030878aa73375da9be58/transformed/work-runtime-2.10.5/AndroidManifest.xml:140:25-85
+392            </intent-filter>
+393        </receiver>
+394
+395        <meta-data
+395-->[com.google.android.apps.muzei:muzei-api:3.4.2] /home/mrfolium/.gradle/caches/9.4.1/transforms/dd86c4ae6dba39329b76c9bc36896eaa/transformed/jetified-muzei-api-3.4.2/AndroidManifest.xml:29:9-31:38
+396            android:name="com.google.android.apps.muzei.api.VERSION"
+396-->[com.google.android.apps.muzei:muzei-api:3.4.2] /home/mrfolium/.gradle/caches/9.4.1/transforms/dd86c4ae6dba39329b76c9bc36896eaa/transformed/jetified-muzei-api-3.4.2/AndroidManifest.xml:30:13-69
+397            android:value="340200" />
+397-->[com.google.android.apps.muzei:muzei-api:3.4.2] /home/mrfolium/.gradle/caches/9.4.1/transforms/dd86c4ae6dba39329b76c9bc36896eaa/transformed/jetified-muzei-api-3.4.2/AndroidManifest.xml:31:13-35
+398        <meta-data
+398-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:22:9-24:37
+399            android:name="com.google.android.play.billingclient.version"
+399-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:23:13-73
+400            android:value="8.0.0" />
+400-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:24:13-34
+401
+402        <activity
+402-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:26:9-30:75
+403            android:name="com.android.billingclient.api.ProxyBillingActivity"
+403-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:27:13-78
+404            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+404-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:28:13-96
+405            android:exported="false"
+405-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:29:13-37
+406            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+406-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:30:13-72
+407        <activity
+407-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:31:9-35:75
+408            android:name="com.android.billingclient.api.ProxyBillingActivityV2"
+408-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:32:13-80
+409            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+409-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:33:13-96
+410            android:exported="false"
+410-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:34:13-37
+411            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+411-->[com.android.billingclient:billing:8.0.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/7879f4831fa9895e427d75122ff188fe/transformed/jetified-billing-8.0.0/AndroidManifest.xml:35:13-72
+412        <activity
+412-->[com.google.android.gms:play-services-base:18.5.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/4f9bc2d8e777c355f9c02b34b47f29f1/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+413            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+413-->[com.google.android.gms:play-services-base:18.5.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/4f9bc2d8e777c355f9c02b34b47f29f1/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+414            android:exported="false"
+414-->[com.google.android.gms:play-services-base:18.5.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/4f9bc2d8e777c355f9c02b34b47f29f1/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+415            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+415-->[com.google.android.gms:play-services-base:18.5.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/4f9bc2d8e777c355f9c02b34b47f29f1/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+416
+417        <meta-data
+417-->[com.google.android.gms:play-services-basement:18.4.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/6004c548dcc9043203869517865340c6/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+418            android:name="com.google.android.gms.version"
+418-->[com.google.android.gms:play-services-basement:18.4.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/6004c548dcc9043203869517865340c6/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+419            android:value="@integer/google_play_services_version" />
+419-->[com.google.android.gms:play-services-basement:18.4.0] /home/mrfolium/.gradle/caches/9.4.1/transforms/6004c548dcc9043203869517865340c6/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+420
+421        <service
+421-->[androidx.room:room-runtime:2.6.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/469ad1f8e9c83101b884760b7d115875/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+422            android:name="androidx.room.MultiInstanceInvalidationService"
+422-->[androidx.room:room-runtime:2.6.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/469ad1f8e9c83101b884760b7d115875/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+423            android:directBootAware="true"
+423-->[androidx.room:room-runtime:2.6.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/469ad1f8e9c83101b884760b7d115875/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+424            android:exported="false" />
+424-->[androidx.room:room-runtime:2.6.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/469ad1f8e9c83101b884760b7d115875/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+425
+426        <receiver
+426-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+427            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+427-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+428            android:directBootAware="false"
+428-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+429            android:enabled="true"
+429-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+430            android:exported="true"
+430-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+431            android:permission="android.permission.DUMP" >
+431-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+432            <intent-filter>
+432-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+433                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+433-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+433-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+434            </intent-filter>
+435            <intent-filter>
+435-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+436                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+436-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+436-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+437            </intent-filter>
+438            <intent-filter>
+438-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+439                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+439-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+439-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+440            </intent-filter>
+441            <intent-filter>
+441-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+442                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+442-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+442-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/mrfolium/.gradle/caches/9.4.1/transforms/63542bb5f528b4e33d044245756751eb/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+443            </intent-filter>
+444        </receiver>
+445
+446        <service
+446-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/242d348529cedab7ffcad0f1cd1f28e5/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+447            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+447-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/242d348529cedab7ffcad0f1cd1f28e5/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+448            android:exported="false" >
+448-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/242d348529cedab7ffcad0f1cd1f28e5/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+449            <meta-data
+449-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/242d348529cedab7ffcad0f1cd1f28e5/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+450                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+450-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/242d348529cedab7ffcad0f1cd1f28e5/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+451                android:value="cct" />
+451-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/242d348529cedab7ffcad0f1cd1f28e5/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+452        </service>
+453        <service
+453-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/4a75b3d4c2f15ab4c762b4ccc4a9f8e2/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+454            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+454-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/4a75b3d4c2f15ab4c762b4ccc4a9f8e2/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+455            android:exported="false"
+455-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/4a75b3d4c2f15ab4c762b4ccc4a9f8e2/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+456            android:permission="android.permission.BIND_JOB_SERVICE" >
+456-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/4a75b3d4c2f15ab4c762b4ccc4a9f8e2/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+457        </service>
+458
+459        <receiver
+459-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/4a75b3d4c2f15ab4c762b4ccc4a9f8e2/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+460            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+460-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/4a75b3d4c2f15ab4c762b4ccc4a9f8e2/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+461            android:exported="false" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+461-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/mrfolium/.gradle/caches/9.4.1/transforms/4a75b3d4c2f15ab4c762b4ccc4a9f8e2/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+462        <activity
+462-->[com.google.android.play:core-common:2.0.4] /home/mrfolium/.gradle/caches/9.4.1/transforms/2f72c6d4be7ddb565275324779ecda22/transformed/jetified-core-common-2.0.4/AndroidManifest.xml:14:9-18:65
+463            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+463-->[com.google.android.play:core-common:2.0.4] /home/mrfolium/.gradle/caches/9.4.1/transforms/2f72c6d4be7ddb565275324779ecda22/transformed/jetified-core-common-2.0.4/AndroidManifest.xml:15:13-93
+464            android:exported="false"
+464-->[com.google.android.play:core-common:2.0.4] /home/mrfolium/.gradle/caches/9.4.1/transforms/2f72c6d4be7ddb565275324779ecda22/transformed/jetified-core-common-2.0.4/AndroidManifest.xml:16:13-37
+465            android:stateNotNeeded="true"
+465-->[com.google.android.play:core-common:2.0.4] /home/mrfolium/.gradle/caches/9.4.1/transforms/2f72c6d4be7ddb565275324779ecda22/transformed/jetified-core-common-2.0.4/AndroidManifest.xml:17:13-42
+466            android:theme="@style/Theme.PlayCore.Transparent" />
+466-->[com.google.android.play:core-common:2.0.4] /home/mrfolium/.gradle/caches/9.4.1/transforms/2f72c6d4be7ddb565275324779ecda22/transformed/jetified-core-common-2.0.4/AndroidManifest.xml:18:13-62
+467    </application>
+468
+469</manifest>

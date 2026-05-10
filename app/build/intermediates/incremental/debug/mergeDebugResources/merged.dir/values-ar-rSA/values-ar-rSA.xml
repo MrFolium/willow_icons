@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>المشغل هو جزء من واجهة مستخدم أندرويد يسمح للمستخدمين بتخصيص الشاشة الرئيسية، تشغيل تطبيقات الهاتف، إجراء مكالمات هاتفية، وتنفيذ مهام أخرى على أجهزة أندرويد.</item>
+        <item>هي مجموعة من الرسومات تقوم بتغيير مظهر الأيقونات في درج التطبيقات.</item>
+        <item>ستحتاج إلى مشغل يدعم حزم الأيقونات المخصصة.
+            تم إدراج الواجهات المدعومة في وصف متجر بلاي.
+            إذا كان لديك خلط حول أي واجهات يجب استخدامها، فقط انتقل إلى قسم \"Apply\" وقم بالتثبيت من هناك.</item>
+        <item>يمكنك فتح درج التنقل ثم فتح \"تطبيق\". اختر المشغل الخاص بك من القائمة. إذا لم يكن المشغل الخاص بك موجوداً هناك ولكن حزمة الأيقونات هذه متوافقة معه (أنظر في وصف متجر Google Play للمشغلات المدعومة)، فبإمكانك تطبيق حزمة الأيقونات يدوياً من إعدادات المشغل الخاص بك.</item>
+        <item>يمكنك فتح قائمة التنقل ثم فتح \"Icons\"</item>
+        <item>فقط اضغط على الأيقونة. ستظهر نافذة معاينة بها صورة أكبر واسم الأيقونة بالكامل.</item>
+        <item>يعتمد على المشغل الذي استخدمته. ليست جميع المشغلات تدعم تعديل الأيقونات. في الغالب يمكنك تعديل الأيقونة عبر الضغط مطولاً على الأيقونة أو الضغط عليها مرتين.</item>
+        <item>يمكنك فتح قائمة التنقل، ثم فتح \"أيقونة الطلب\".</item>
+        <item>يمكنك فتح درج التنقل ثم فتح \"الإعدادات\"، واختيار \"استعادة المشتريات\". إذا كانت لديك أي طلبات متميزة متبقية قبل إعادة التثبيت، فسيتم استعادتها.</item>
+        <item>حدث ذلك لأن حزمة الأيقونات هذه نُقلت إلى بطاقة الذاكرة SD ، يجب عليك تثبيتها في الذاكرة الداخلية.</item>
+        <item>قد تكون المشكلة بسبب المشغل الذي استعملته عند التعامل مع أيقونات ذات أبعاد كبيرة. يمكنك إصلاح ذلك عن طريق زيادة حجم الأيقونات إلى 115 - 120%. بدلاً من ذلك يمكنك تغيير المشغل الخاص بك.</item>
+        <item>فتح الإعدادات، التمرير للأسفل، ثم حدد \"الإبلاغ عن الأخطاء\".</item>
+        <item>\"الإبلاغ عن أخطاء\" تستخدم للإبلاغ عن الأخطاء المتعلقة بحزمة الأيقونات، وليست لوحة المعلومات.</item>
+        <item>ليس كل مشغل يدعم التطبيق المباشر، وبعضها لا يمكن الوصول إليه مباشرة من لوحة التحكم.
+      	    يمكنك تطبيق حزمة الأيقونات هذه يدوياً في إعدادات المشغل الفردية.</item>
+        <item>عند \"تعيين الخلفية\" مباشرة من التطبيق، فسيتم تحميلها إلى المخزن المؤقت، ثم سيقوم تطبيق لوحة المعلومات بمحاولة تطبيقها. تطبيق الخلفية يأخذ بعضاً من الوقت وأيضاً يحتاج إلى كم كبير من الذاكرة العشوائية لفترة زمنية قصيرة. أخطاء \"الشاشة السوداء\" قد تظهر عند عدم توفر مساحة كافية في الذاكرة العشوائية على هاتفك لمعالجة الخلفية. إعادة تشغيل هاتفك ستحل هذه المشكلة. بعد إعادة التشغيل، سيتوفر لدى هاتفك مساحة أكبر في الذاكرة العشوائية. بدلاً من ذلك، يمكنك فتح الخلفية المحملة في المعرض الخاص بك وتعيين الخلفية من هناك.</item>
+        <item>قم بفتح muzei، اختر حزمة الأيقونات هذه، الإعدادات. سترى خياراً لعرض الخلفيات المحملة فقط. ستحتاج إلى تحميل الخلفيات من لوحة المعلومات أولاً.</item>
+        <item>إذا كانت خلفية ما محملة بالفعل، فسيتم عرضها من ذاكرة هاتفك تلقائياً. لن يقوم Muzei بالاستمرار في التحميل عندما تتغير الخلفية. ستحتاج إلى تحميل الخلفيات من لوحة المعلومات أولاً.</item>
+        <item>قم بفتح لوحة المعلومات، وقم بتحميل الخلفيات التي تريد استعمالها في Muzei. قم بفتح إعدادات Muzei، ثم اختر عرض الخلفيات المحملة فقط.</item>
+        <item>يتم استعمالها للقراءة والكتابة في المخزن المؤقت، وتجميع بيانات طلبات الأيقونات.</item>
+        <item>يستخدم لتحميل الخلفيات القائمة على السحابة &amp; وتحميلها.</item>
+        <item>يتم استعمالها للتحقق من أن هاتفك لديه اتصال بالإنترنت أم لا.</item>
+        <item>يتم استعمالها للتحقق من أن هاتفك لديه اتصال بالإنترنت عبر wifi أم لا، ولعرض الخلفيات في السحابة من Muzei.</item>
+        <item>يتم استعمالها لتطبيق الخلفيات مباشرة من تطبيق لوحة المعلومات.</item>
+        <item>يتم استعمالها من قبل خلفية Muzei الحية.</item>
+        <item>يتم استعمالها لتشغيل تطبيق الساعة من أداة الساعة الذكية.</item>
+    </string-array>
+    <string-array name="base">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    <string-array name="questions">
+        <item>ما هو مشغل التطبيقات (launcher)؟</item>
+        <item>ما هي حزمة الأيقونات؟</item>
+        <item>كيف أقوم باستعمال حزمة أيقونات؟</item>
+        <item>كيف أقوم بتطبيق حزمة أيقونات؟</item>
+        <item>كيف يمكنني رؤية جميع الأيقونات المضمنة؟</item>
+        <item>لا أستطيع رؤية اسم الأيقونة بالكامل</item>
+        <item>كيف يمكنني استبدال الأيقونات بأيقونات بديلة؟</item>
+        <item>كيف أقوم بطلب أيقونة؟</item>
+        <item>كيف يمكنني استعادة الطلبات المتميزة المتبقية بعد إعادة تثبيت التطبيق؟</item>
+        <item>بعد إعادة تشغيل هاتفي، لم يتم تطبيق حزمة الأيقونات ؛ تستعيد الإعدادات الافتراضية؟</item>
+        <item>لماذا تبدو الأيقونات مشوشة أو متقطعة على هاتفي؟</item>
+        <item>يمكنني أن أرى الأيقونة المضمنة في جميع الأيقونات
+            ولكن لماذا لم يتم تغيير الأيقونة الفعلية في درج التطبيقات؟</item>
+        <item>ما هو خيار \"الإبلاغ عن أخطاء\"؟</item>
+        <item>المشغل الخاص بي مدرج في وصف Google Play، ولكن لماذا لم يتم تضمينه في قسم التطبيق؟</item>
+        <item>لا يمكن تطبيق الخلفية، يتم عرض شاشة سوداء فقط؟</item>
+        <item>Muzei: كيف يمكن عرض الخلفيات المحملة فقط؟</item>
+        <item>Muzei: لا أريد أن يتم تحميل الخلفيات في كل مرة تتغير الخلفية؟</item>
+        <item>Muzei: أريد استعمال خلفيات محددة فقط؟</item>
+        <item>لماذا صلاحية الكتابة والقراءة على وحدة التخزين الخارجية مطلوبة؟</item>
+        <item>لماذا صلاحية الإنترنت مطلوبة؟</item>
+        <item>لماذا صلاحية الوصول إلى حالة الشبكة مطلوبة؟</item>
+        <item>لماذا صلاحية الوصول إلى حالة Wifi مطلوبة؟</item>
+        <item>لماذا صلاحية تعيين الخلفية مطلوبة؟</item>
+        <item>لماذا صلاحية Wake Lock مطلوبة؟</item>
+        <item>لماذا صلاحية ضبط المنبه مطلوبة؟</item>
+    </string-array>
+    <string name="about_contributors_title">المساهمون</string>
+    <string name="about_dashboard">CandyBar</string>
+    <string name="about_dashboard_contributors">المساهمون في CandyBar</string>
+    <string name="about_dashboard_dev">كاندي بار هي لوحة تحكم للرموز مفتوح المصدر مرخصة بموجب رخصة أباتشي 2. ل
+        أندرويد متوفر على GitHub ومجاني للاستخدام، تم تطويره من قبل داني ماهارديكا.</string>
+    <string name="about_dashboard_translator">المترجمون في CandyBar</string>
+    <string name="about_item_social_content_description">رابط إلى الملف الشخصي لمطور حزمة الأيقونات: </string>
+    <string name="about_open_source_licenses">تراخيص مفتوحة المصدر</string>
+    <string name="about_privacy_policy_title">سياسة الخصوصية</string>
+    <string name="about_terms_and_conditions_title">الشروط والأحكام</string>
+    <string name="app_client">اختر التطبيق</string>
+    <string name="apply_cmtheme_failed">غير قادر على تشغيل مدير سمات CM، يمكنك محاولة تطبيق حزمة الأيقونات يدوياً من الإعدادات.</string>
+    <string name="apply_cmtheme_not_available">CM Theme Manager ليس متاحاً على هذا الجهاز</string>
+    <string name="apply_installed">المشغلات المثبتة</string>
+    <string name="apply_installed_launchers">المشغلات المثبتة</string>
+    <string name="apply_launch_failed">تعذر تشغيل إعدادات %s</string>
+    <string name="apply_launcher_incompatible">%s Launcher لا يدعم أي حزم أيقونات ، لذلك لا يمكنك استخدام حزمة الأيقونات هذه مع هذا المشغل. يمكنك تجربة تطبيق طرف ثالث لاستخدام حزمة الأيقونات هذه في مشغل %2$s. هل تريد تثبيته؟</string>
+    <string name="apply_launcher_incompatible_depending_on_version">%s مشغل لا يدعم حزم الأيقونات على أندرويد %d أو أقل. الرجاء تحديث إصدار الأندرويد الخاص بك أو تثبيت مشغل طرف ثالث لاستخدام حزمة الأيقونة. يمكنك أيضًا تجربة تطبيق مساعد لتغيير الأيقونات الفردية. هل تريد تثبيته؟</string>
+    <string name="apply_launcher_not_installable">المشغل %s ليس مثبتاً. يرجى المحاولة مرة أخرى بعد تثبيت المشغل.</string>
+    <string name="apply_launcher_not_installed">المشغل %s ليس مثبتاً. هل تريد فتح متجر Google Play لتحميله وتثبيته؟</string>
+    <string name="apply_lg_home">لتطبيق حزمة الأيقونات هذه قم بفتح الإعدادات - العرض - الشاشة الرئيسية - التنسيق</string>
+    <string name="apply_lg_home_failed">غير قادر على تشغيل إعدادات LG الرئيسية ، يمكنك محاولة تطبيق حزمة الأيقونات يدوياً من الإعدادات.</string>
+    <string name="apply_lg_home_not_available">LG Home ليس متاحاً على هذا الجهاز</string>
+    <string name="apply_lg_home_nougat">LG Home على أندرويد Nougat لم يعد يدعم حزم الأيقونات. أنت تحتاج إلى مشغل مخصص لاستعمال حزمة الأيقونات.</string>
+    <string name="apply_manual">%1$s Launcher لا يدعم التطبيق المباشر، ولكن يمكنك تطبيق %2$s يدوياً من إعدادات المشغل.</string>
+    <string name="apply_manual_before">هذا الإصدار من قبل Launcher لا يدعم بعد تطبيق الأيقونات مباشرة. بدلاً من ذلك، اتبع الخطوات أدناه:</string>
+    <string name="apply_manual_before_step_1">مرر لليسار على الشاشة الرئيسية</string>
+    <string name="apply_manual_before_step_2">انقر فوق \"إعدادات\"</string>
+    <string name="apply_manual_before_step_3">انقر فوق \"الأنماط &amp; السمات\"</string>
+    <string name="apply_manual_before_step_4">انقر فوق \"أنماط الأيقونة &amp; الحزم\"</string>
+    <string name="apply_manual_before_step_5">اضغط %s</string>
+    <string name="apply_manual_color_os_step_1">اضغط مطولاً على شاشتك الرئيسية</string>
+    <string name="apply_manual_color_os_step_2">اضغط على \"أيقونة\"</string>
+    <string name="apply_manual_color_os_step_3">مرر إلى يمين الزر \"مخصص\" (هذه قائمة قابلة للتمرير!)</string>
+    <string name="apply_manual_color_os_step_4">اضغط %s</string>
+    <string name="apply_manual_hios">مشغل HiOS لا يدعم التطبيق المباشر، ولكن يمكنك اتباع هذه الخطوات:</string>
+    <string name="apply_manual_hios_step_1">فتح \"الإعدادات\"</string>
+    <string name="apply_manual_hios_step_2">انقر فوق \"السمة &amp; قفل الشاشة\"</string>
+    <string name="apply_manual_hios_step_3">انقر فوق \"السمات\"</string>
+    <string name="apply_manual_hios_step_4">اضغط على \"حزمة الأيقونة\"</string>
+    <string name="apply_manual_hios_step_5">اضغط %s</string>
+    <string name="apply_manual_kiss">KISS لا يدعم التطبيق المباشر، ولكن يمكنك اتباع هذه الخطوات:</string>
+    <string name="apply_manual_kiss_step_1">فتح إعدادات KISS</string>
+    <string name="apply_manual_kiss_step_2">انقر فوق \"واجهة المستخدم\"</string>
+    <string name="apply_manual_kiss_step_3">اضغط على \"حزمة الأيقونة\"</string>
+    <string name="apply_manual_kiss_step_4">اختر %s من القائمة</string>
+    <string name="apply_manual_kvaesitso">Kvaesitso لا يدعم التطبيق المباشر ولكن يمكنك اتباع هذه الخطوات:</string>
+    <string name="apply_manual_kvaesitso_step_1">فتح إعدادات Kvaesitso</string>
+    <string name="apply_manual_kvaesitso_step_2">انقر فوق \"الشبكة &amp; Icons\"</string>
+    <string name="apply_manual_kvaesitso_step_3">اضغط على \"حزمة الأيقونة\"</string>
+    <string name="apply_manual_kvaesitso_step_4">اختر %s من القائمة</string>
+    <string name="apply_manual_kvaesitso_step_5">اضغط على أيقونة فرشاة الطلاء لتمكين أو تعطيل شكل الخلفية</string>
+    <string name="apply_manual_nothing_step_1">فتح \"الإعدادات\"</string>
+    <string name="apply_manual_nothing_step_2">انقر فوق \"تخصيص\"</string>
+    <string name="apply_manual_nothing_step_3">انقر فوق \"حزمة الأيقونة\"</string>
+    <string name="apply_manual_nothing_step_4">اضغط %s</string>
+    <string name="apply_manual_oxygen_os_step_1">اضغط مطولاً على شاشتك الرئيسية</string>
+    <string name="apply_manual_oxygen_os_step_2">انقر فوق \"إعدادات الرئيسية\"</string>
+    <string name="apply_manual_oxygen_os_step_3">انقر فوق \"حزمة الأيقونة\"</string>
+    <string name="apply_manual_oxygen_os_step_4">اضغط %s</string>
+    <string name="apply_manual_samsung_oneui">%1$s لا يدعم التطبيق المباشر، ولكن بدءاً من %2$s يمكنك تطبيق الأيقونات مع تطبيق مرافق.</string>
+    <string name="apply_manual_samsung_oneui_step_1">فتح %s</string>
+    <string name="apply_manual_samsung_oneui_step_2">تحميل التطبيق %s</string>
+    <string name="apply_manual_samsung_oneui_step_3">انقر فوق \"أيقونة\"</string>
+    <string name="apply_manual_samsung_oneui_step_4">انقر فوق \"إنشاء جديد\"</string>
+    <string name="apply_manual_samsung_oneui_step_5">اضغط على الزر الأزرق \"أيقونة الحزمة\"</string>
+    <string name="apply_manual_samsung_oneui_step_6">اختر %s من القائمة</string>
+    <string name="apply_manual_samsung_oneui_step_7">كرر هذه الخطوات في كل مرة تقوم فيها بتحديث %s حيث لن يتم تعيين الأيقونات الجديدة تلقائياً.</string>
+    <string name="apply_manual_samsung_oneui_too_old">الإصدار الحالي من %s قديم جداً. الرجاء التحديث إلى Android 12 أو أحدث لتتمكن من تطبيق الأيقونات مباشرة. بدلاً من ذلك، يمكنك تثبيت واجهة مختلفة.</string>
+    <string name="apply_supported">المشغلات المدعومة</string>
+    <string name="billing_load_product_failed">غير قادر على تحميل منتجات الشراء في التطبيق</string>
+    <string name="bookmark_button_content_description">إضافة هذه الأيقونة إلى قسم الإشارات المرجعية</string>
+    <string name="bookmark_icons_empty">لم يتم العثور على أي إشارات مرجعية. قم بإضافة إشارات مرجعية للأيقونات للوصول إليها بسرعة هنا.</string>
+    <string name="changelog_version">الإصدار</string>
+    <string name="checking_for_update">جار التحقق من وجود تحديث …</string>
+    <string name="clear">مسح</string>
+    <string name="close">إغلاق</string>
+    <string name="connection_error_long">تعذر تحميل البيانات من الخادم. رجاءاً، تحقق من اتصالك بالشبكة.</string>
+    <string name="connection_failed">تعذر جلب البيانات من الخادم</string>
+    <string name="crash_report">تقرير الأعطال</string>
+    <string name="crash_report_message">للأسف، تحطم %s. اختر إرسال التقرير أدناه لمساعدة المطور على حل المشكلة.</string>
+    <string name="crash_report_send">إرسال البلاغ</string>
+    <string name="donate">التبرع</string>
+    <string name="donation_success">شكراً لك على تبرعك. سوف يستخدم للخير.</string>
+    <string name="home_apply_icon_pack">تطبيق %s</string>
+    <string name="home_donate">التبرع</string>
+    <string name="home_donate_desc">دعم تطوير حزمة الأيقونات</string>
+    <string name="home_icon_dimension">أبعاد الأيقونة %s بكسل</string>
+    <string name="home_icon_request_installed_apps">الإجمالي\n%d تطبيق(ات) مثبت(ة)</string>
+    <string name="home_icon_request_missed_apps">مفقود\n%d تطبيق(ات)</string>
+    <string name="home_icon_request_themed_apps">له أيقونة\n%d تطبيق(ات)</string>
+    <string name="home_icons">أيقونات مخصصة</string>
+    <string name="home_loud_wallpapers">%d خلفية(ات) في السحابة</string>
+    <string name="home_more_apps">تحقق من التطبيقات الأخرى المنشورة في متجر Google Play</string>
+    <string name="home_more_apps_header">المزيد من التطبيقات</string>
+    <string name="home_muzei">خلفية Muzei الحية</string>
+    <string name="home_rate_and_review">التقييم والمراجعة</string>
+    <string name="hour">ساعة</string>
+    <string name="icon_list_content_description">قائمة الأيقونات المضمنة في حزمة الأيقونات</string>
+    <string name="icon_request_submit_button_content_description">تقديم طلب أيقونات</string>
+    <string name="icon_search_close_button_content_description">إغلاق بحث الأيقونات</string>
+    <string name="icon_search_list_content_description">قائمة الأيقونات التي تتطابق مع مصطلح البحث</string>
+    <string name="icon_shape">شكل الأيقونات</string>
+    <string name="icons_load_failed">تعذر تحميل الأيقونات</string>
+    <string name="install">تثبيت</string>
+    <string name="intent_email_failed">تعذر عرض تطبيق البريد الإلكتروني</string>
+    <string name="intent_email_not_supported">غير مدعوم</string>
+    <string name="intent_email_not_supported_message">تم اختيار عميل بريد إلكتروني غير مدعوم، يرجى اختيار عميل بريد إلكتروني آخر</string>
+    <string name="intent_email_recommended">مستحسن</string>
+    <string name="intent_email_supported">مدعوم</string>
+    <string name="items_selected">تم تحديد %d</string>
+    <string name="license_check">التحقق من الترخيص</string>
+    <string name="license_check_failed">فشل التحقق من الترخيص، أنت لم تقم بتحميل التطبيق من متجر Play.
+        لن تتمكن من استخدامه.</string>
+    <string name="license_check_retry">تعذر التحقق من الترخيص، يرجى المحاولة مرة أخرى بعد لحظات.</string>
+    <string name="license_check_success">نجاح التحقق من الترخيص. شكرا لك على تنزيل التطبيق من متجر Play.</string>
+    <string name="license_checking">جار التحقق من الترخيص ...</string>
+    <string name="menu_apply_homescreen">الشاشة الرئيسية</string>
+    <string name="menu_apply_homescreen_lockscreen">الشاشة الرئيسية وشاشة القفل</string>
+    <string name="menu_apply_lockscreen">شاشة القفل</string>
+    <string name="menu_delete">حذف</string>
+    <string name="menu_save">حفظها على الجهاز</string>
+    <string name="menu_search">بحث</string>
+    <string name="menu_select_all">تحديد الكل</string>
+    <string name="menu_wallpaper_crop">اقتصاص الخلفية</string>
+    <string name="minute">دقيقة</string>
+    <string name="muzei_downloaded_only">عرض الخلفيات المحملة فقط</string>
+    <string name="muzei_refresh_duration">تحديث المدة</string>
+    <string name="muzei_settings">إعدادات Muzei</string>
+    <string name="muzei_settings_ignored">لا تحتوي حزمة الأيقونات على خلفيات، تم تجاهل الإعدادات.</string>
+    <string name="muzei_settings_saved">تم حفظ الإعدادات</string>
+    <string name="muzei_wifi_only">تحديث عبر Wi-Fi فقط</string>
+    <string name="navigation_view_about">حول</string>
+    <string name="navigation_view_apply">تطبيق</string>
+    <string name="navigation_view_donate">دعم التطوير</string>
+    <string name="navigation_view_faqs">الأسئلة الشائعة</string>
+    <string name="navigation_view_home">الرئيسية</string>
+    <string name="navigation_view_icons">الأيقونات</string>
+    <string name="navigation_view_presets">الإعدادات المسبقة</string>
+    <string name="navigation_view_request">طلب أيقونات</string>
+    <string name="navigation_view_settings">الإعدادات</string>
+    <string name="navigation_view_wallpapers">الخلفيات</string>
+    <string name="no_browser">لا يوجد تطبيق لفتح URL</string>
+    <string name="no_email_app">لا يوجد تطبيق لإرسال بريد إلكتروني</string>
+    <string name="no_update_available">أنت تستخدم أحدث إصدار!</string>
+    <string name="ok">موافق</string>
+    <string name="open">فتح</string>
+    <string name="permission_notification_denied_1">مطلوب إذن الإشعارات لتلقي الإشعارات من المطور</string>
+    <string name="permission_notification_denied_2">تمكين الإشعارات من إعدادات التطبيق</string>
+    <string name="permission_storage_denied">صلاحية التخزين مطلوبة لحفظ الخلفية</string>
+    <string name="playstore_check">التحقق من متجر Play</string>
+    <string name="playstore_check_failed">يبدو أنك قمت بتثبيت حزمة الأيقونات هذه من خارج متجر Google Play.
+        لذلك لن تتمكن من استخدامها.</string>
+    <string name="playstore_check_success">شكرا لك لتثبيت التطبيق من متجر جوجل. استمتع!</string>
+    <string name="pref_data_cache">مسح المخزن المؤقت</string>
+    <string name="pref_data_cache_clear_dialog">هل تريد حقاً مسح المخزن المؤقت؟</string>
+    <string name="pref_data_cache_cleared">تم مسح المخزن المؤقت</string>
+    <string name="pref_data_cache_desc">إزالة التخزين المؤقت للصور من وحدة التخزين، يتم إنشاؤها عند اختيار صورة من هذا التطبيق، طلب تطبيقات مفقودة، وبعد تحميل الصور المصغرة للخلفيات من السحابة.</string>
+    <string name="pref_data_cache_size">حجم المخزن المؤقت: %s</string>
+    <string name="pref_data_header">البيانات والتخزين المؤقت</string>
+    <string name="pref_data_request">مسح بيانات طلبات الأيقونات</string>
+    <string name="pref_data_request_clear_dialog">هل تريد حقاً مسح بيانات طلبات الأيقونات؟</string>
+    <string name="pref_data_request_cleared">تم مسح بيانات طلبات الأيقونات</string>
+    <string name="pref_data_request_desc">إزالة بيانات طلبات الأيقونات، يتم إنشاءها بعد طلب تطبيقات مفقودة من طلب الأيقونات.</string>
+    <string name="pref_language_header">اللغة</string>
+    <string name="pref_notifications">تلقي الإشعارات</string>
+    <string name="pref_notifications_header">الإشعارات</string>
+    <string name="pref_others_changelog">سجل التغييرات</string>
+    <string name="pref_others_header">أخرى</string>
+    <string name="pref_others_report_bugs">الإبلاغ عن أخطاء</string>
+    <string name="pref_others_reset_tutorial">إعادة تعيين البرنامج التعليمي</string>
+    <string name="pref_others_reset_tutorial_reset">إعادة تعيين البرنامج التعليمي</string>
+    <string name="pref_premium_request_header">طلب الأيقونات المتميز</string>
+    <string name="pref_premium_request_rebuild">إعادة بناء طلب الأيقونات المتميز</string>
+    <string name="pref_premium_request_rebuild_desc">تجميع جميع بيانات طلب الأيقونات المتميز وإعادة إرسالها</string>
+    <string name="pref_premium_request_restore">استعادة المشتريات</string>
+    <string name="pref_premium_request_restore_desc">استعادة حزمة الطلب المتميز بعد إعادة تثبيت حزمة الأيقونات</string>
+    <string name="pref_premium_request_restore_empty">ليس لديك أي حزم قمت بشرائها</string>
+    <string name="pref_premium_request_restore_success">تم استعادة الطلب المتميز</string>
+    <string name="pref_theme_dark">التنسيق المظلم</string>
+    <string name="pref_theme_dark_desc">استعمال لون مظلم لتنسيق التطبيق</string>
+    <string name="pref_theme_header">التنسيق</string>
+    <string name="pref_wallpaper_header">الخلفية</string>
+    <string name="pref_wallpaper_location">موقع حفظ الخلفية</string>
+    <string name="premium_request">طلب الأيقونات المتميز</string>
+    <string name="premium_request_already_purchased">ما يزال لديك %d طلب(ات) متميز(ة). عليك استعمالهم جميعهم قبل شراء حزمة طلب متميز مرة أخرى.</string>
+    <string name="premium_request_available">المتاح\n%d طلب(ات)</string>
+    <string name="premium_request_buy">شراء</string>
+    <string name="premium_request_consume_failed">تعذر استعمال الطلب المتميز، تأكد بأن لديك اتصال مستقر بالإنترنت وحاول مرة أخرى. اذهب إلى الإعدادات لإعادة بناء الطلبات المتميزة.</string>
+    <string name="premium_request_count">الإجمالي\n%d طلب(ات)</string>
+    <string name="premium_request_desc">طلب الأيقونة المتميزة هو طلب دفع للطلب. يمكنك الحصول على التطبيقات المطلوبة بشكل أسرع باستخدام طلب أيقونة مميزة.</string>
+    <string name="premium_request_exist">ما يزال لديك حزمة طلب أيقونات متميزة. قم بفتح الإعدادات، اختر \"استعادة المشتريات\" لاستعادتها.</string>
+    <string name="premium_request_limit">لديك فقط %d طلب(ات) متميز(ة)،</string>
+    <string name="premium_request_limit1">ولكنك قمت بتحديد %d تطبيق(ات). \n\nعليك استعمال جميع طلباتك المتميزة قبل استعمال الطلب العادي مرة أخرى.</string>
+    <string name="premium_request_no_internet">تأكد من أن هاتفك متصل بالإنترنت قبل إرسال طلب مميز</string>
+    <string name="premium_request_rebuilding">جار إعادة بناء الطلبات المتميزة ...</string>
+    <string name="premium_request_rebuilding_empty">لم تقم بعمل طلب متميز</string>
+    <string name="premium_request_required">أنت تحتاج إلى شراء حزمة طلب أيقونات متميزة لعمل طلبات الأيقونات</string>
+    <string name="premium_request_used">تم استخدام\n%d طلب(ات)</string>
+    <string name="presets_load_failed">تعذر تحميل الإعدادات المسبقة</string>
+    <string name="presets_required_apps">التطبيقات المطلوبة لاستخدام هذه الإعدادات المسبقة</string>
+    <string name="presets_required_apps_not_installed">التطبيقات المطلوبة لاستخدام الإعداد المسبق لم يتم تثبيتها. الرجاء تثبيت التطبيقات غير المطلوبة والمحاولة مرة أخرى.</string>
+    <string name="presets_storage_permission">صلاحية التخزين مطلوبة لتحميل معاينة الخلفية</string>
+    <string name="regular_request">طلب الأيقونات العادي</string>
+    <string name="regular_request_available">المتاح\n%d طلب(ات)</string>
+    <string name="regular_request_count">الإجمالي\n%d طلب(ات)</string>
+    <string name="regular_request_desc">احصل على الرمز الخاص بك، وسوف يحاول المطور تضمين الرموز التي طلبتها.</string>
+    <string name="regular_request_used">تم استخدام\n%d طلب(ات)</string>
+    <string name="report_bugs_building">جار بناء قائمة النشاطات ...</string>
+    <string name="report_bugs_desc">يرجى تقديم وصف لنوع المشكلة التي تريد الإبلاغ عنها</string>
+    <string name="report_bugs_desc_empty">يرجى إدخال وصف</string>
+    <string name="report_bugs_desc_hint">الوصف</string>
+    <string name="report_bugs_failed">تعذر بناء قائمة النشاطات</string>
+    <string name="report_bugs_send">إرسال البلاغ</string>
+    <string name="request_already_requested">تم طلبه بالفعل</string>
+    <string name="request_app_disabled">أنت تستخدم إصدار قديم من حزمة الأيقونات هذه. يمكن تضمين الأيقونات المطلوبة في الإصدار الأخير. الرجاء تحديث التطبيق الخاص بك إلى أحدث إصدار لطلب الأيقونة.</string>
+    <string name="request_appfilter_failed">تعذر قراءة appfilter.xml</string>
+    <string name="request_build_failed">تعذر بناء طلب الأيقونات</string>
+    <string name="request_building">جار بناء الطلب ...</string>
+    <string name="request_custom_error">حدث خطأ أثناء إرسال طلب أيقونة. إذا استمر هذا الخطأ، اتصل بالمطور. %s</string>
+    <string name="request_custom_success">تم إرسال طلب الأيقونات بنجاح</string>
+    <string name="request_email_client">اختر التطبيق الذي تريد استعماله لإرسال طلب الأيقونات</string>
+    <string name="request_fetching_data">جار جلب أحدث البيانات …</string>
+    <string name="request_limit">يمكنك فقط تقديم طلب %d مع طلب منتظم.</string>
+    <string name="request_limit_buy">يمكنك شراء الطلبات المتميزة لطلب المزيد من الأيقونات.</string>
+    <string name="request_limit_reset">سيتم إعادة تعيين حد طلب الأيقونات عند كل تحديث.</string>
+    <string name="request_not_available">لا يمكن الطلب</string>
+    <string name="request_not_requested">لم يتم طلبه</string>
+    <string name="request_not_selected">اختر التطبيقات للطلب</string>
+    <string name="request_pacific_error">حدث خطأ أثناء إرسال الطلب إلى Pacific Manager. الخطأ هو %s</string>
+    <string name="request_pacific_sending">جار إرسال الطلب إلى Pacific Manager...</string>
+    <string name="request_pacific_success">تم إرسال الطلب بنجاح إلى Pacific Manager</string>
+    <string name="request_requested">لقد طلبت هذا الرمز مسبقاً ولا يمكنك طلبه مرة أخرى.</string>
+    <string name="request_requested_button_cancel">الرجوع</string>
+    <string name="request_requested_button_confirm">حدد على أي حال</string>
+    <string name="request_requested_possible">لقد طلبت هذا الرمز بالفعل. هل أنت متيقِّن من أنك تريد طلبه مرة أخرى؟</string>
+    <string name="request_title">طلب أيقونات</string>
+    <string name="request_used">لقد قمت بعمل %d طلب(ات) أيقونات.</string>
+    <string name="save_setting">حفظ</string>
+    <string name="search_faqs">سؤال أم جواب</string>
+    <string name="search_icon">اسم الأيقونة</string>
+    <string name="search_noresult">لم يتم العثور على نتائج لـ \"%s\"</string>
+    <string name="search_wallpapers">اسم الخلفية</string>
+    <string name="share_app_body">تفقد %1$s، حزمة الأيقونات هذه رائعة جداً! %2$s</string>
+    <string name="share_app_title">مرحباً! تفقد %s</string>
+    <string name="share_icon_pack_button_content_description">مشاركة هذا التطبيق مع شخص ما</string>
+    <string name="splash_screen_title">لوحة معلومات CandyBar بتصميم الماتيريال</string>
+    <string name="tap_intro_home_apply">تطبيق حزمة الأيقونات</string>
+    <string name="tap_intro_home_apply_desc">اضغط هنا لتطبيق %s على المشغل الحالي. اضغط مطولاً للتطبيق على المشغلات الأخرى.</string>
+    <string name="tap_intro_home_navigation">درج التنقل</string>
+    <string name="tap_intro_home_navigation_desc">اضغط هنا أو اسحب من الحافة اليسرى للشاشة لفتح قائمة التنقل</string>
+    <string name="tap_intro_icons_search">بحث</string>
+    <string name="tap_intro_icons_search_desc">انقر هنا للبحث عن أيقونة</string>
+    <string name="tap_intro_request_premium">طلب أيقونات متميز</string>
+    <string name="tap_intro_request_premium_desc">اضغط هنا لشراء حزمة طلب الأيقونات المتميزة،
+        مع طلب رمز مميز، يمكنك الحصول على تطبيقاتك المطلوبة بشكل أسرع.</string>
+    <string name="tap_intro_request_select">تحديد التطبيق المفقود</string>
+    <string name="tap_intro_request_select_all">تحديد جميع التطبيقات المفقودة</string>
+    <string name="tap_intro_request_select_all_desc">اضغط هنا لتحديد جميع التطبيقات المفقودة لطلب الأيقونات</string>
+    <string name="tap_intro_request_select_desc">اضغط هنا لتحديد التطبيق المفقود لطلب الأيقونات</string>
+    <string name="tap_intro_request_send">إرسال طلب الأيقونات</string>
+    <string name="tap_intro_request_send_desc">اضغط هنا لإرسال التطبيقات المفقودة المحددة</string>
+    <string name="tap_intro_wallpaper_preview_apply">تطبيق الخلفية</string>
+    <string name="tap_intro_wallpaper_preview_apply_desc">انقر هنا لتعيين الخلفية كخلفية للشاشة الرئيسية</string>
+    <string name="tap_intro_wallpaper_preview_save">حفظ الخلفية</string>
+    <string name="tap_intro_wallpaper_preview_save_desc">اضغط هنا لتحميل وحفظ الخلفية إلى جهازك لكي يتسنى لك استعمالها لاحقاً</string>
+    <string name="tap_intro_wallpapers_option">خيارات الخلفية</string>
+    <string name="tap_intro_wallpapers_option_desc">اضغط مع الاستمرار هنا لإظهار خيارات الخلفية؛ %s تطبيق الخلفية.</string>
+    <string name="tap_intro_wallpapers_option_desc_download">تحميل أو</string>
+    <string name="tap_intro_wallpapers_preview">معاينة الخلفية</string>
+    <string name="tap_intro_wallpapers_preview_desc">اضغط هنا لمعاينة الحجم الكامل للخلفية</string>
+    <string name="theme_name_auto">تلقائي</string>
+    <string name="theme_name_dark">مظلم</string>
+    <string name="theme_name_light">فاتح</string>
+    <string name="theme_name_material_you">المواد الخاصة بك</string>
+    <string name="txt_close">إغلاق</string>
+    <string name="txt_new">جديد</string>
+    <string name="txt_open">فتح</string>
+    <string name="unable_to_load_config">حدث خطأ أثناء جلب أو قراءة البيانات من الخادم.</string>
+    <string name="update">تحديث</string>
+    <string name="update_available">هناك تحديث متوفر!</string>
+    <string name="wallpaper_already_downloaded">الخلفية محملة بالفعل</string>
+    <string name="wallpaper_applied">تم تطبيق الخلفية</string>
+    <string name="wallpaper_apply">تطبيق الخلفية</string>
+    <string name="wallpaper_apply_cancelled">تم إلغاء تطبيق الخلفية</string>
+    <string name="wallpaper_apply_failed">تعذر تطبيق الخلفية</string>
+    <string name="wallpaper_applying">جار تطبيق الخلفية ...</string>
+    <string name="wallpaper_download_failed">تعذر تحميل الخلفية</string>
+    <string name="wallpaper_download_success">تم تنزيل الخلفية بنجاح</string>
+    <string name="wallpaper_downloading">جار تحميل الخلفية ...</string>
+    <string name="wallpaper_loading">جار تحميل الخلفية ...</string>
+    <string name="wallpaper_new_added">خلفية جديدة</string>
+    <string name="wallpaper_save_to_device">حفظ الخلفية</string>
+</resources>
