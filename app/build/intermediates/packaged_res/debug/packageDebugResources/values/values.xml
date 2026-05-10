@@ -111,16 +111,16 @@
     <string name="about_image">#32363B</string>
     <string name="about_profile_image">profile_picture</string>
     <string name="about_title">MrFolium</string>
-    <string name="app_name">CandyBar Sample</string>
-    <string name="authorLink">http://www.yourlink.com</string>
-    <string name="authorName">Developer</string>
+    <string name="app_name">Willow Icons</string>
+    <string name="authorLink">https://github.com/MrFolium</string>
+    <string name="authorName">MrFolium</string>
     <string name="changelog_date">August 04, 2019</string>
     <string name="config_json"/>
     <string name="default_theme">auto</string>
     <string name="default_wallpaper">wall0</string>
-    <string name="developerName">Developer</string>
-    <string name="developer_link">http://www.yourlink.com/</string>
-    <string name="developer_name">Developer</string>
+    <string name="developerName">MrFolium</string>
+    <string name="developer_link">https://github.com/MrFolium</string>
+    <string name="developer_name">MrFolium</string>
     <string name="google_play_dev"/>
     <string name="home_description">
         <![CDATA[
@@ -132,7 +132,7 @@
     <string name="home_image">home_image</string>
     <string name="home_image_style">card_landscape</string>
     <string name="home_title">Willow Icons</string>
-    <string name="iconpack">com.your.package.name</string>
+    <string name="iconpack">com.mrfolium.willowicons</string>
     <string name="kustom_pack_description">Willow Icons Kustom presets</string>
     <string name="kustom_pack_title">@string/app_name</string>
     <string name="muzei_art_source_desc">Wallpapers from Willow Icons</string>
@@ -151,15 +151,15 @@
     <string name="regular_request_pacific_api_key"/>
     <string name="share_link">https://github.com/MrFolium/willow_icons</string>
     <string name="terms_and_conditions_link"/>
-    <string name="theme_ad_msg">Your Icon Pack Description</string>
-    <string name="theme_author">Developer</string>
-    <string name="theme_description">Your Icon Pack Description</string>
+    <string name="theme_ad_msg">A clean and minimal icon pack</string>
+    <string name="theme_author">MrFolium</string>
+    <string name="theme_description">A clean and minimal icon pack</string>
     <string name="theme_feature">feature</string>
-    <string name="theme_info">Your Icon Pack Description</string>
-    <string name="theme_name">Your Icon Pack Name</string>
+    <string name="theme_info">A clean and minimal icon pack</string>
+    <string name="theme_name">Willow Icons</string>
     <string name="theme_preview1">preview1</string>
     <string name="theme_preview2">preview2</string>
-    <string name="theme_title">Your Icon Pack Name</string>
+    <string name="theme_title">Willow Icons</string>
     <string name="wallpaper_grid_preview_style">square</string>
     <string name="wallpaper_json"/>
     <style name="CandyBar.Theme.App.DayNight" parent="CandyBar.Theme.Base">

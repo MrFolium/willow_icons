@@ -2951,7 +2951,7 @@
     <string name="about_title">MrFolium</string>
     <string name="androidx_startup" translatable="false">androidx.startup</string>
     <string name="app_client">Choose App</string>
-    <string name="app_name">CandyBar Sample</string>
+    <string name="app_name">Willow Icons</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="appfilter_item"><![CDATA[<item component=\"ComponentInfo{{{component}}}\" drawable=\"{{drawable}}\" />]]></string>
     <string name="apply_cmtheme_failed">Unable to launch CM Theme Manager, you can try to apply the Icon Pack manually from Settings.</string>
@@ -3014,8 +3014,8 @@
     <string name="apply_manual_samsung_oneui_step_7">Repeat these steps each time you update %s as new icons won\'t be mapped automatically.</string>
     <string name="apply_manual_samsung_oneui_too_old">Your current version of %s is too old. Please update to Android 12 or newer to be able to apply icons directly. Alternatively, you can install a different launcher.</string>
     <string name="apply_supported">Supported Launchers</string>
-    <string name="authorLink">http://www.yourlink.com</string>
-    <string name="authorName">Developer</string>
+    <string name="authorLink">https://github.com/MrFolium</string>
+    <string name="authorName">MrFolium</string>
     <string name="billing_load_product_failed">Unable to load In-app Purchase products</string>
     <string name="bookmark_button_content_description">Add this icon to the bookmarks section</string>
     <string name="bookmark_icons_empty">No bookmarks found. Bookmark icons to quickly access them here.</string>
@@ -3066,9 +3066,9 @@
     <string name="crash_report_send">Send Report</string>
     <string name="default_theme">auto</string>
     <string name="default_wallpaper">wall0</string>
-    <string name="developerName">Developer</string>
-    <string name="developer_link">http://www.yourlink.com/</string>
-    <string name="developer_name">Developer</string>
+    <string name="developerName">MrFolium</string>
+    <string name="developer_link">https://github.com/MrFolium</string>
+    <string name="developer_name">MrFolium</string>
     <string name="donate">Donate</string>
     <string name="donation_success">Thank you for making a donation. I will use it for good.</string>
     <string description="Screen reader announcement for when a checkbox is on error. [CHAR LIMIT=NONE]" name="error_a11y_label">
@@ -3110,7 +3110,7 @@
     <string name="icon_search_close_button_content_description">Close the icon search</string>
     <string name="icon_search_list_content_description">The list of icons that match the search term</string>
     <string name="icon_shape">Icon Shape</string>
-    <string name="iconpack">com.your.package.name</string>
+    <string name="iconpack">com.mrfolium.willowicons</string>
     <string name="icons_load_failed">Unable to load icons</string>
     <string name="install">Install</string>
     <string name="intent_email_failed">Unable to display email application</string>
@@ -3448,19 +3448,19 @@
     <string name="tap_intro_wallpapers_preview">Preview wallpaper</string>
     <string name="tap_intro_wallpapers_preview_desc">Tap here to preview the full size of the wallpaper</string>
     <string name="terms_and_conditions_link"/>
-    <string name="theme_ad_msg">Your Icon Pack Description</string>
-    <string name="theme_author">Developer</string>
-    <string name="theme_description">Your Icon Pack Description</string>
+    <string name="theme_ad_msg">A clean and minimal icon pack</string>
+    <string name="theme_author">MrFolium</string>
+    <string name="theme_description">A clean and minimal icon pack</string>
     <string name="theme_feature">feature</string>
-    <string name="theme_info">Your Icon Pack Description</string>
-    <string name="theme_name">Your Icon Pack Name</string>
+    <string name="theme_info">A clean and minimal icon pack</string>
+    <string name="theme_name">Willow Icons</string>
     <string name="theme_name_auto">Auto</string>
     <string name="theme_name_dark">Dark</string>
     <string name="theme_name_light">Light</string>
     <string name="theme_name_material_you">Material You</string>
     <string name="theme_preview1">preview1</string>
     <string name="theme_preview2">preview2</string>
-    <string name="theme_title">Your Icon Pack Name</string>
+    <string name="theme_title">Willow Icons</string>
     <string name="txt_close">Close</string>
     <string name="txt_new">New</string>
     <string name="txt_open">Open</string>
