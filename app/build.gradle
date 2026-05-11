@@ -12,7 +12,7 @@ android {
         applicationId 'com.mrfolium.willowicons'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 20
+        versionCode 1
         versionName '2.0'
     }
 
@@ -31,13 +31,12 @@ android {
         }
     }
 
-    buildTypes {
-        release {
-            debuggable false
-            minifyEnabled true
-            signingConfig signingConfigs.release
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-        }
+   buildTypes {
+    release {
+        debuggable false
+        minifyEnabled false
+        signingConfig signingConfigs.release
+    }
     }
 
     lint {
