@@ -6,13 +6,24 @@ This project is licensed under the MIT License.
 This repository contains assets from multiple sources:
 
 1. Original icons
-   - Created by @MrFolium
-   - Licensed under MIT License
+   - Created for Willow Icons
+   - Licensed under the MIT License
 
 2. Third-party contributors
    - Icons contributed via pull requests
-   - Each contributor retains authorship attribution
-   - Contributions are licensed under MIT License upon inclusion in this repository
+   - Contributors retain authorship attribution
+   - Contributions are licensed under the MIT License upon inclusion in this repository
+
+3. Third-party open-source projects
+ - The mobile application is built on the CandyBar framework. Thanks to its contributors and maintainers:
+
+     - candybar-library
+       https://github.com/danimahardhika/candybar-library
+       License: Apache License 2.0
+
+     - candybar-sample
+       https://github.com/zixpo/candybar-sample
+       License: Apache License 2.0
 
 All assets in this repository are distributed under the MIT License,
 except where otherwise noted.
