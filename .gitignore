@@ -17,3 +17,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+keystore.properties
+*.keystore

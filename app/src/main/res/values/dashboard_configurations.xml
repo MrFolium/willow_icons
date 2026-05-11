@@ -50,7 +50,7 @@
 
     <string name="regular_request_method">email</string>
     <string name="premium_request_method"></string>
-    <string name="regular_request_email">mrfolium@users.noreply.github.com</string>
+    <string name="regular_request_email">team.willow@protonmail.com</string>
     <string name="premium_request_email"></string>
     <string name="regular_request_email_subject">Willow Icons — Icon Request</string>
     <string name="premium_request_email_subject"></string>
@@ -62,7 +62,7 @@
     <bool name="wallpaper_show_name_author">true</bool>
     <string name="wallpaper_grid_preview_style">square</string>
 
-    <string name="about_image">#32363B</string>
+    <string name="about_image">about_image</string>
     <string name="about_profile_image">profile_picture</string>
     <string name="about_title">MrFolium</string>
     <string name="about_desc">
