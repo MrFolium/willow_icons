@@ -1,26 +1,59 @@
+
 # Willow Icons
 
 ![Preview](preview/preview.png)
 
 ---
 
-## 🎨 About
+# About
 
-Willow Icons is a small icon pack focused on consistency and simplicity.
+Willow Icons is an open-source icon pack focused on consistency, soft colors, and a unified visual system.
 
-The project is still in progress — the style is evolving, and some icons may change over time.  
-The goal is to build a clean and predictable icon system rather than a random collection.
+The project follows a strict base shape structure, shared palette, and standardized launcher support to keep the entire icon pack visually cohesive.
+
+Current features:
+- Consistent icon shape system
+- Unified spacing and proportions
+- Custom color palette
+- Launcher support
+- SVG source files included
+- Open contribution system
 
 ---
 
-## 🤝 Contribution
+# Project Structure
 
-Contributions are welcome! If you want to add a new icon or suggest an improvement, please read our [Contributing Guidelines](CONTRIBUTING.md) first to ensure your design matches the system rules.
+```text
+/icons                                → source SVG icons
+/app/src/main/res/drawable-nodpi     → launcher-ready PNG exports
+/app/src/main/res/xml/appfilter.xml  → launcher component mappings
+/app/src/main/res/xml/drawable.xml   → drawable entries
+````
 
 ---
 
-## ⚖️ License
+# Contribution
+
+Contributions are welcome.
+
+Before submitting a pull request, please read:
+[CONTRIBUTING.md](CONTRIBUTING.md)
+
+The contribution guide contains:
+
+* icon design rules
+* naming conventions
+* launcher support requirements
+* palette rules
+* export requirements
+
+---
+
+# License
 
 This project is licensed under the MIT License.
 
-See [NOTICE](NOTICE)  for details.
+See:
+
+* [LICENSE](LICENSE)
+* [NOTICE](NOTICE)

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="default_theme">auto</string>
+    <bool name="material_you_by_default">true</bool>
+
+    <string name="muzei_art_source_name">Willow Icons</string>
+    <string name="muzei_art_source_desc">Wallpapers from Willow Icons</string>
+    <color name="muzei_color">#5F97C9</color>
+
+    <string name="kustom_pack_title">@string/app_name</string>
+    <string name="kustom_pack_description">Willow Icons Kustom presets</string>
+
+    <string name="home_title">Willow Icons</string>
+    <string name="home_image">home_image</string>
+    <string name="home_image_style">card_landscape</string>
+    <string name="home_description">
+        <![CDATA[
+            A clean and minimal icon pack by <b>MrFolium</b>.
+            <br><br>
+            <a href="https://github.com/MrFolium/willow_icons">View on GitHub</a>
+        ]]>
+    </string>
+
+    <string name="rate_and_review_link"></string>
+    <string name="share_link">https://github.com/MrFolium/willow_icons</string>
+    <bool name="enable_check_update">false</bool>
+    <string name="google_play_dev"></string>
+    <bool name="use_flat_card">true</bool>
+
+    <string name="navigation_view_header">nav_head</string>
+    <string name="navigation_view_header_title">Willow Icons</string>
+
+    <bool name="enable_apply">true</bool>
+
+    <bool name="enable_icons_sort">true</bool>
+    <bool name="show_icon_name">true</bool>
+    <bool name="includes_adaptive_icons">false</bool>
+
+    <bool name="enable_icon_request">true</bool>
+    <bool name="enable_icon_request_limit">false</bool>
+    <bool name="enable_icon_request_multiple">false</bool>
+    <integer name="icon_request_limit">10</integer>
+    <bool name="reset_icon_request_limit">true</bool>
+    <bool name="json_check_before_request">false</bool>
+    <bool name="enable_premium_request">false</bool>
+    <bool name="enable_restore_purchases">false</bool>
+    <bool name="enable_non_mail_app_request">false</bool>
+    <bool name="hide_missing_app_count">false</bool>
+
+    <string name="regular_request_method">email</string>
+    <string name="premium_request_method"></string>
+    <string name="regular_request_email">team.willow@protonmail.com</string>
+    <string name="premium_request_email"></string>
+    <string name="regular_request_email_subject">Willow Icons — Icon Request</string>
+    <string name="premium_request_email_subject"></string>
+    <string name="regular_request_pacific_api_key"></string>
+    <string name="premium_request_pacific_api_key"></string>
+
+    <string name="wallpaper_json"></string>
+    <bool name="enable_wallpaper_download">true</bool>
+    <bool name="wallpaper_show_name_author">true</bool>
+    <string name="wallpaper_grid_preview_style">square</string>
+
+    <string name="about_image">about_image</string>
+    <string name="about_profile_image">profile_picture</string>
+    <string name="about_title">MrFolium</string>
+    <string name="about_desc">
+        <![CDATA[
+            Designer of <b>Willow Icons</b> — a clean and minimal icon pack.
+            <br><br>
+            <a href="https://github.com/MrFolium/willow_icons">github.com/MrFolium/willow_icons</a>
+        ]]>
+    </string>
+
+    <string-array name="about_social_links">
+        <item>https://github.com/MrFolium</item>
+    </string-array>
+
+    <bool name="show_contributors_dialog">false</bool>
+    <string name="privacy_policy_link"></string>
+    <string name="terms_and_conditions_link"></string>
+
+    <bool name="enable_donation">false</bool>
+
+    <string name="config_json"></string>
+    <bool name="show_intro">true</bool>
+    <bool name="enable_in_app_review">false</bool>
+    <integer name="in_app_review_visit_time">30</integer>
+    <integer name="in_app_review_after_visits">2</integer>
+
+</resources>
