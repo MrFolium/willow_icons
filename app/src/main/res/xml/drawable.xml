@@ -158,6 +158,15 @@
     <item drawable="app_multi_launcher" />
     <item drawable="app_square_launcher" />
     <item drawable="app_kiss_launcher" />
+    <item drawable="app_action_launcher" />
+    <item drawable="app_apex_launcher" />
+    <item drawable="app_before_launcher" />
+    <item drawable="app_hyperion_launcher" />
+    <item drawable="app_kvaesitso_launcher" />
+    <item drawable="app_lawnchair_launcher" />
+    <item drawable="app_lucid_launcher" />
+    <item drawable="app_niagara_launcher" />
+    <item drawable="app_nova_launcher" />
     
 
     <!-- System Icons -->

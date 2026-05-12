@@ -479,6 +479,34 @@
   <!-- Kiss Launcher -->
   <item component="ComponentInfo{fr.neamar.kiss/fr.neamar.kiss.MainActivity}" drawable="app_kiss_launcher"/>
 
+  <!-- Action Launcher -->
+  <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="app_action_launcher"/>
+  
+  <!-- Apex Launcher -->
+  <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="app_apex_launcher"/>
+  
+  <!-- Before Launcher -->
+  <item component="ComponentInfo{com.beforesoft.launcher/com.beforesoftware.launcher.activities.LauncherActivity}" drawable="app_before_launcher"/>
+
+  <!-- Hyperion Launcher -->
+  <item component="ComponentInfo{projekt.launcher/projekt.launcher.ProjektLauncher}" drawable="app_hyperion_launcher"/>
+
+  <!-- Kvaesitso Launcher -->
+  <item component="ComponentInfo{de.mm20.launcher2.release/de.mm20.launcher2.ui.launcher.LauncherActivity}" drawable="app_kvaesitso_launcher"/>
+
+  <!-- Lawnchair Launcher -->
+  <item component="ComponentInfo{app.lawnchair.play/app.lawnchair.LawnchairLauncher}" drawable="app_lawnchair_launcher"/>
+
+  <!-- Lucid Launcher -->
+  <item component="ComponentInfo{com.powerpoint45.launcher/com.powerpoint45.launcherpro.MainActivity}" drawable="app_lucid_launcher"/>
+
+  <!-- Niagara Launcher -->
+  <item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="app_niagara_launcher"/>
+
+  <!-- Nova Launcher -->
+  <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="app_nova_launcher"/>
+
+
   <!-- Weather -->
   <item component="ComponentInfo{com.amazon.weather/com.amazon.weather.WeatherTabletActivity}" drawable="sys_weather"/>
 	<item component="ComponentInfo{com.ape.weather3/com.ape.weather3.DetailActivity}" drawable="sys_weather"/>
