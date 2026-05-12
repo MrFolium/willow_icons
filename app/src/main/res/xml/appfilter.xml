@@ -467,6 +467,18 @@
   <!-- Yandex Go -->
   <item component="ComponentInfo{ru.yandex.taxi/com.yandex.go.activity.alias.DefaultMainActivityAlias}" drawable="app_yandex_go" />
 
+  <!--HiOS Launcher -->
+  <item component="ComponentInfo{com.transsion.hilauncher/com.android.launcher3.DynamicVirtualEntryActivity}" drawable="app_hios_launcher"/>
+
+  <!-- Multi Launcher -->
+  <item component="ComponentInfo{app.mlauncher/com.github.codeworkscreativehub.mlauncher.MainActivity}" drawable="app_multi_launcher"/>
+
+  <!-- Square Launcher -->
+  <item component="ComponentInfo{com.ss.squarehome2/com.ss.squarehome2.MainActivity}" drawable="app_square_launcher"/>
+
+  <!-- Kiss Launcher -->
+  <item component="ComponentInfo{fr.neamar.kiss/fr.neamar.kiss.MainActivity}" drawable="app_kiss_launcher"/>
+
   <!-- Weather -->
   <item component="ComponentInfo{com.amazon.weather/com.amazon.weather.WeatherTabletActivity}" drawable="sys_weather"/>
 	<item component="ComponentInfo{com.ape.weather3/com.ape.weather3.DetailActivity}" drawable="sys_weather"/>

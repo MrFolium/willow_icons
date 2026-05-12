@@ -154,6 +154,10 @@
     <item drawable="app_yandex_weather" />
     <item drawable="app_zoom" />
     <item drawable="app_willow_icons" />
+    <item drawable="app_hios_launcher" />
+    <item drawable="app_multi_launcher" />
+    <item drawable="app_square_launcher" />
+    <item drawable="app_kiss_launcher" />
     
 
     <!-- System Icons -->
