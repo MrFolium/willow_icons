@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string name="default_theme">auto</string>
-    <bool name="material_you_by_default">true</bool>
+    <bool name="material_you_by_default">false</bool>
 
     <string name="muzei_art_source_name">Willow Icons</string>
     <string name="muzei_art_source_desc">Wallpapers from Willow Icons</string>
@@ -39,13 +39,13 @@
 
     <bool name="enable_icon_request">true</bool>
     <bool name="enable_icon_request_limit">false</bool>
-    <bool name="enable_icon_request_multiple">false</bool>
+    <bool name="enable_icon_request_multiple">true</bool>
     <integer name="icon_request_limit">10</integer>
     <bool name="reset_icon_request_limit">true</bool>
     <bool name="json_check_before_request">false</bool>
     <bool name="enable_premium_request">false</bool>
     <bool name="enable_restore_purchases">false</bool>
-    <bool name="enable_non_mail_app_request">false</bool>
+    <bool name="enable_non_mail_app_request">true</bool>
     <bool name="hide_missing_app_count">false</bool>
 
     <string name="regular_request_method">email</string>
