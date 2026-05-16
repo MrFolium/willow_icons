@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <bool name="enable_icon_name_replacer">true</bool>
-    <string-array name="icon_name_replacer">
-        <item>app_,</item>
-        <item>sys_,System </item>
-    </string-array>
-</resources>

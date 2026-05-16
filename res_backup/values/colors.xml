@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Splash Screen -->
-    <color name="splashColor">#EEEEF0</color>
-    <!-- Shortcut Icons -->
-    <color name="shortcutIconBackground">#438F86</color>
-    <color name="shortcutIconForeground">#F4F5F7</color>
-</resources>
