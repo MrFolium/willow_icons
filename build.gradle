@@ -18,6 +18,7 @@ allprojects {
         MinSdk = 21
         TargetSdk = 36
         CompileSdk = 36
+        VersionName = '2.1'
     }
 }
 tasks.register('clean', Delete) {

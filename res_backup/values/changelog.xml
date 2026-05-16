@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="changelog_date">May 2026</string>
+
+    <string-array name="changelog">
+
+        <item>
+            Added launcher support via CandyBar base
+        </item>
+
+        <item>
+            Improved compatibility with supported launchers
+        </item>
+
+        <item>
+            General stability and performance improvements
+        </item>
+
+    </string-array>
+
+</resources>

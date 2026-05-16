@@ -3,3 +3,5 @@ plugins {
 }
 
 include ':app'
+include ':library'
+include ':extLibs:PreLollipopTransitions'

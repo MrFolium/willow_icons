@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CandyBar.Text.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textSize">@dimen/text_content_subtitle</item>
+        <item name="fontFamily">@font/medium</item>
+    </style>
+
+    <style name="NavigationViewStyle">
+        <item name="textAppearanceSubtitle2">@style/CandyBar.Text.Subtitle2</item>
+        <item name="android:listPreferredItemHeightSmall">48dp</item>
+        <item name="android:colorControlHighlight">@android:color/transparent</item>
+        <item name="itemShapeFillColor">@color/navigation_item_background_color</item>
+        <item name="itemTextAppearance">@style/CandyBar.Text.Subtitle2</item>
+        <item name="itemTextAppearanceActiveBoldEnabled">false</item>
+    </style>
+
+    <style name="RippleStyle">
+        <item name="colorControlHighlight">?cb_rippleColor</item>
+    </style>
+
+    <style name="RippleStyleLight">
+        <item name="colorControlHighlight">#44FFFFFF</item>
+    </style>
+
+    <style name="RippleAccentStyle">
+        <item name="colorControlHighlight">?cb_rippleAccent</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="colorButtonNormal">?cb_colorAccent</item>
+    </style>
+
+    <style name="CheckBoxStyle">
+        <item name="colorPrimary">?cb_colorAccent</item>
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlActivated">?cb_colorAccent</item>
+    </style>
+
+    <style name="AccentChange">
+        <item name="colorPrimary">?cb_colorAccent</item>
+    </style>
+
+    <style name="ToolbarThemeOverlay">
+        <item name="colorControlNormal">?cb_toolbarIcon</item>
+    </style>
+
+    <style name="ToolbarStyle" parent="Widget.MaterialComponents.Toolbar">
+        <item name="materialThemeOverlay">@style/ToolbarThemeOverlay</item>
+    </style>
+
+    <style name="ActionBarOverlay">
+        <item name="colorControlNormal">?cb_toolbarIcon</item>
+        <item name="android:textColorPrimary">?cb_toolbarIcon</item>
+    </style>
+
+    <style name="ActionModeStyle" parent="Widget.AppCompat.ActionMode">
+        <item name="background">?cb_colorPrimary</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+</resources>
