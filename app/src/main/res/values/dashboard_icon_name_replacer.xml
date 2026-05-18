@@ -3,6 +3,6 @@
     <bool name="enable_icon_name_replacer">true</bool>
     <string-array name="icon_name_replacer">
         <item>app_,</item>
-        <item>sys_,System </item>
+        <item>sys_, System_ </item>
     </string-array>
 </resources>

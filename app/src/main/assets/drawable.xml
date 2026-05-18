@@ -3,6 +3,7 @@
 <version>1</version>
 
     <!-- App Icons -->
+    <category title="All" />
     <item drawable="app_2gis" />
     <item drawable="app_aegis" />
     <item drawable="app_bitwarden" />
@@ -170,6 +171,7 @@
     
 
     <!-- System Icons -->
+    <category title="System" />
     <item drawable="sys_browser" />
     <item drawable="sys_calculator" />
     <item drawable="sys_calendar" />
