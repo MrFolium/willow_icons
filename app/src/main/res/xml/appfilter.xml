@@ -461,7 +461,7 @@
   <!-- Yandex Books -->
   <item component="ComponentInfo{ru.plus.bookmate/com.bookmate.DefaultIcon}" drawable="app_yandex_books" />
 
-  <!-- Yandex Start -->
+  <!-- Yandex Start -->6
   <item component="ComponentInfo{ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity}" drawable="app_yandex_app" />
 
   <!-- Yandex Go -->
@@ -479,15 +479,6 @@
   <!-- Kiss Launcher -->
   <item component="ComponentInfo{fr.neamar.kiss/fr.neamar.kiss.MainActivity}" drawable="app_kiss_launcher"/>
 
-  <!-- Action Launcher -->
-  <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="app_action_launcher"/>
-  
-  <!-- Apex Launcher -->
-  <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="app_apex_launcher"/>
-  
-  <!-- Before Launcher -->
-  <item component="ComponentInfo{com.beforesoft.launcher/com.beforesoftware.launcher.activities.LauncherActivity}" drawable="app_before_launcher"/>
-
   <!-- Hyperion Launcher -->
   <item component="ComponentInfo{projekt.launcher/projekt.launcher.ProjektLauncher}" drawable="app_hyperion_launcher"/>
 
@@ -497,14 +488,23 @@
   <!-- Lawnchair Launcher -->
   <item component="ComponentInfo{app.lawnchair.play/app.lawnchair.LawnchairLauncher}" drawable="app_lawnchair_launcher"/>
 
-  <!-- Lucid Launcher -->
-  <item component="ComponentInfo{com.powerpoint45.launcher/com.powerpoint45.launcherpro.MainActivity}" drawable="app_lucid_launcher"/>
-
   <!-- Niagara Launcher -->
   <item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="app_niagara_launcher"/>
 
   <!-- Nova Launcher -->
   <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="app_nova_launcher"/>
+
+  <!-- Ion Launcher -->
+  <item component="ComponentInfo{one.zagura.IonLauncher/one.zagura.IonLauncher.SetupAlias}" drawable="app_ion_launcher"/>
+
+  <!-- Poco Launcher -->
+  <item component="ComponentInfo{com.mi.android.globallauncher/com.miui.home.launcher.SplashActivity}" drawable="app_poco_launcher"/>
+
+  <!-- Smart Launcher -->
+  <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="smart_launcher"/>
+
+  <!-- Yasan Launcher -->
+  <item component="ComponentInfo{yasan.space.mnml.ai.launcher/glass.yasan.launcher.ui.destination.MainActivity}" drawable="app_yasan_launcher"/>
 
 
   <!-- Weather -->

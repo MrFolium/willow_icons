@@ -57,16 +57,16 @@ public class LauncherHelper {
     public enum LauncherType {
         UNKNOWN,
 
-        ACTION(
-                "Action",
-                R.drawable.ic_launcher_action,
-                new String[]{"com.actionlauncher.playstore", "com.chrislacy.actionlauncher.pro"},
-                NO_SETTINGS_ACTIVITY,
-                (context, launcherPackageName) -> context.getPackageManager().getLaunchIntentForPackage(launcherPackageName)
-                        .putExtra("apply_icon_pack", context.getPackageName())
-                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
+        // ACTION(
+        //         "Action",
+        //         R.drawable.ic_launcher_action,
+        //         new String[]{"com.actionlauncher.playstore", "com.chrislacy.actionlauncher.pro"},
+        //         NO_SETTINGS_ACTIVITY,
+        //         (context, launcherPackageName) -> context.getPackageManager().getLaunchIntentForPackage(launcherPackageName)
+        //                 .putExtra("apply_icon_pack", context.getPackageName())
+        //                 .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
+        //         MANUAL_APPLY_NOT_SUPPORTED
+        // ),
         // COLOR_OS(
         //         "ColorOS",
         //         R.drawable.ic_launcher_color_os,
@@ -366,17 +366,17 @@ public class LauncherHelper {
                 DIRECT_APPLY_NOT_SUPPORTED,
                 (context, launcherName) -> new String[]{} // FIXME: Opens app without instructions
         ),
-        PROJECTIVY(
-                "Projectivy",
-                R.drawable.ic_launcher_projectivy,
-                new String[]{"com.spocky.projengmenu"},
-                NO_SETTINGS_ACTIVITY,
-                (context, launcherPackageName) -> new Intent("com.spocky.projengmenu.APPLY_ICONPACK")
-                        .setPackage("com.spocky.projengmenu")
-                        .putExtra("com.spocky.projengmenu.extra.ICONPACK_PACKAGENAME", context.getPackageName())
-                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
+        // PROJECTIVY(
+        //         "Projectivy",
+        //         R.drawable.ic_launcher_projectivy,
+        //         new String[]{"com.spocky.projengmenu"},
+        //         NO_SETTINGS_ACTIVITY,
+        //         (context, launcherPackageName) -> new Intent("com.spocky.projengmenu.APPLY_ICONPACK")
+        //                 .setPackage("com.spocky.projengmenu")
+        //                 .putExtra("com.spocky.projengmenu.extra.ICONPACK_PACKAGENAME", context.getPackageName())
+        //                 .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
+        //         MANUAL_APPLY_NOT_SUPPORTED
+        // ),
         SMART(
                 "Smart",
                 R.drawable.ic_launcher_smart,
