@@ -67,202 +67,64 @@ public class LauncherHelper {
                         .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
                 MANUAL_APPLY_NOT_SUPPORTED
         ),
-        ADW(
-                "ADW",
-                R.drawable.ic_launcher_adw,
-                new String[]{"org.adw.launcher", "org.adwfreak.launcher"},
-                NO_SETTINGS_ACTIVITY,
-                (context, launcherPackageName) -> new Intent("org.adw.launcher.SET_THEME")
-                        .putExtra("org.adw.launcher.theme.NAME", context.getPackageName())
-                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
-        APEX(
-                "Apex",
-                R.drawable.ic_launcher_apex,
-                new String[]{"com.anddoes.launcher", "com.anddoes.launcher.pro"},
-                NO_SETTINGS_ACTIVITY,
-                (context, launcherPackageName) -> new Intent("com.anddoes.launcher.SET_THEME")
-                        .putExtra("com.anddoes.launcher.THEME_PACKAGE_NAME", context.getPackageName())
-                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
-        BEFORE(
-                "Before",
-                R.drawable.ic_launcher_before,
-                new String[]{"com.beforesoft.launcher"},
-                NO_SETTINGS_ACTIVITY,
-                (context, launcherPackageName) -> new Intent("com.beforesoftware.launcher.APPLY_ICONS")
-                        .putExtra("packageName", context.getPackageName())
-                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
-                new ManualApply() {
-                    @Override
-                    public String getCompatibilityMessage(Context context, String launcherName) {
-                        return context.getResources().getString(R.string.apply_manual_before);
-                    }
-                    @Override
-                    public String[] getInstructionSteps(Context context, String launcherName) {
-                        return new String[]{
-                                context.getResources().getString(R.string.apply_manual_before_step_1),
-                                context.getResources().getString(R.string.apply_manual_before_step_2),
-                                context.getResources().getString(R.string.apply_manual_before_step_3),
-                                context.getResources().getString(R.string.apply_manual_before_step_4),
-                                context.getResources().getString(
-                                        R.string.apply_manual_before_step_5,
-                                        context.getResources().getString(R.string.app_name)
-                                )
-                        };
-                    }
-                }
-        ),
-        BLACKBERRY(
-                "BlackBerry",
-                R.drawable.ic_launcher_blackberry,
-                new String[]{"com.blackberry.blackberrylauncher"},
-                "com.blackberry.blackberrylauncher.MainActivity",
-                DIRECT_APPLY_NOT_SUPPORTED,
-                (context, launcherName) -> new String[]{} // FIXME: Opens app without instructions
-        ),
-        CMTHEME(
-                "CM Theme",
-                R.drawable.ic_launcher_cm,
-                new String[]{"org.cyanogenmod.theme.chooser"},
-                NO_SETTINGS_ACTIVITY,
-                new DirectApply() {
-                    @Override
-                    public Intent getActivity(Context context, String launcherPackageName) {
-                        return new Intent("android.intent.action.MAIN")
-                                .setComponent(new ComponentName(launcherPackageName, "org.cyanogenmod.theme.chooser.ChooserActivity"))
-                                .putExtra("pkgName", context.getPackageName());
-                    }
+        // COLOR_OS(
+        //         "ColorOS",
+        //         R.drawable.ic_launcher_color_os,
+        //         new String[]{"com.oppo.launcher"},
+        //         NO_SETTINGS_ACTIVITY,
+        //         DIRECT_APPLY_NOT_SUPPORTED,
+        //         new ManualApply() { // FIXME:
+        //             @SuppressLint("AnnotateVersionCheck")
+        //             @Override
+        //             public boolean isSupported(String launcherPackageName) {
+        //                 return Build.VERSION.SDK_INT >= Build.VERSION_CODES.R;
+        //             }
 
-                    @Override
-                    public void run (Context context, String launcherPackageName, ApplyCallback callback) {
-                        try {
-                            DirectApply.super.run(context, launcherPackageName, callback);
-                        } catch (ActivityNotFoundException | NullPointerException e) {
-                            Toast.makeText(context, R.string.apply_cmtheme_not_available, Toast.LENGTH_LONG).show();
-                        } catch (SecurityException | IllegalArgumentException e) {
-                            Toast.makeText(context, R.string.apply_cmtheme_failed, Toast.LENGTH_LONG).show();
-                        }
-                    }
-                },
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
-        COLOR_OS(
-                "ColorOS",
-                R.drawable.ic_launcher_color_os,
-                new String[]{"com.oppo.launcher"},
-                NO_SETTINGS_ACTIVITY,
-                DIRECT_APPLY_NOT_SUPPORTED,
-                new ManualApply() { // FIXME:
-                    @SuppressLint("AnnotateVersionCheck")
-                    @Override
-                    public boolean isSupported(String launcherPackageName) {
-                        return Build.VERSION.SDK_INT >= Build.VERSION_CODES.R;
-                    }
+        //             @Override
+        //             public String[] getInstructionSteps(Context context, String launcherName) {
+        //                 return new String[]{
+        //                         context.getResources().getString(R.string.apply_manual_color_os_step_1),
+        //                         context.getResources().getString(R.string.apply_manual_color_os_step_2),
+        //                         context.getResources().getString(R.string.apply_manual_color_os_step_3),
+        //                         context.getResources().getString(
+        //                                 R.string.apply_manual_color_os_step_4,
+        //                                 context.getResources().getString(R.string.app_name)
+        //                         )
+        //                 };
+        //             }
 
-                    @Override
-                    public String[] getInstructionSteps(Context context, String launcherName) {
-                        return new String[]{
-                                context.getResources().getString(R.string.apply_manual_color_os_step_1),
-                                context.getResources().getString(R.string.apply_manual_color_os_step_2),
-                                context.getResources().getString(R.string.apply_manual_color_os_step_3),
-                                context.getResources().getString(
-                                        R.string.apply_manual_color_os_step_4,
-                                        context.getResources().getString(R.string.app_name)
-                                )
-                        };
-                    }
-
-                    @Override
-                    public void run(Context context, String launcherPackageName, ApplyCallback callback) {
-                        if (isSupported(launcherPackageName)) {
-                            ManualApply.super.run(context, launcherPackageName, callback);
-                        } else {
-                            launcherIncompatibleCustomMessage(
-                                    context,
-                                    "ColorOS",
-                                    context.getResources().getString(
-                                            R.string.apply_launcher_incompatible_depending_on_version, "ColorOS", 10
-                                    )
-                            );
-                        }
-                    }
-                }),
-        FLICK(
-                "Flick",
-                R.drawable.ic_launcher_flick,
-                new String[]{"com.universallauncher.universallauncher"},
-                NO_SETTINGS_ACTIVITY,
-                new DirectApply() {
-                    @Override
-                    public Intent getActivity(Context context, String launcherPackageName) {
-                        return context.getPackageManager().getLaunchIntentForPackage("com.universallauncher.universallauncher")
-                                .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                    }
-                    @Override
-                    public Intent getBroadcast(Context context) {
-                        return new Intent("com.universallauncher.universallauncher.FLICK_ICON_PACK_APPLIER")
-                                .putExtra("com.universallauncher.universallauncher.ICON_THEME_PACKAGE", context.getPackageName())
-                                .setComponent(new ComponentName("com.universallauncher.universallauncher", "com.android.launcher3.icon.ApplyIconPack"));
-                    }
-                }, MANUAL_APPLY_NOT_SUPPORTED
-        ),
-        GO(
-                "GO EX",
-                R.drawable.ic_launcher_go,
-                new String[]{"com.gau.go.launcherex"},
-                NO_SETTINGS_ACTIVITY,
-                new DirectApply() {
-                    @Override
-                    public Intent getActivity(Context context, String launcherPackageName) {
-                        return context.getPackageManager().getLaunchIntentForPackage("com.gau.go.launcherex")
-                                .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                    }
-
-                    @Override
-                    public Intent getBroadcast(Context context) {
-                        return new Intent("com.gau.go.launcherex.MyThemes.mythemeaction")
-                                .putExtra("type", 1)
-                                .putExtra("pkgname", context.getPackageName());
-                    }
-                },
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
-        HIOS(
-                "HiOS",
-                R.drawable.ic_launcher_hios,
-                new String[]{"com.transsion.hilauncher"},
-                NO_SETTINGS_ACTIVITY,
-                DIRECT_APPLY_NOT_SUPPORTED,
-                (context, launcherName) -> new String[]{ // FIXME: R.string.apply_manual_hios should be deleted, it has no extra info compared to the standard message
-                        context.getResources().getString(R.string.apply_manual_hios_step_1),
-                        context.getResources().getString(R.string.apply_manual_hios_step_2),
-                        context.getResources().getString(R.string.apply_manual_hios_step_3),
-                        context.getResources().getString(R.string.apply_manual_hios_step_4),
-                        context.getResources().getString(
-                                R.string.apply_manual_hios_step_5,
-                                context.getResources().getString(R.string.app_name)
-                        )
-                }
-        ),
-        HOLO(
-                "Holo",
-                R.drawable.ic_launcher_holo,
-                new String[]{"com.mobint.hololauncher"},
-                "com.mobint.hololauncher.SettingsActivity",
-                DIRECT_APPLY_NOT_SUPPORTED,
-                (context, launcherName) -> new String[]{} // FIXME: Opens app without instructions
-        ),
-        HOLOHD(
-                "Holo HD",
-                R.drawable.ic_launcher_holohd,
-                new String[]{"com.mobint.hololauncher.hd"},
-                "com.mobint.hololauncher.SettingsActivity", // TODO: Is this package actually correct?
-                DIRECT_APPLY_NOT_SUPPORTED,
-                (context, launcherName) -> new String[]{} // FIXME: Opens app without instructions
-        ),
+        //             @Override
+        //             public void run(Context context, String launcherPackageName, ApplyCallback callback) {
+        //                 if (isSupported(launcherPackageName)) {
+        //                     ManualApply.super.run(context, launcherPackageName, callback);
+        //                 } else {
+        //                     launcherIncompatibleCustomMessage(
+        //                             context,
+        //                             "ColorOS",
+        //                             context.getResources().getString(
+        //                                     R.string.apply_launcher_incompatible_depending_on_version, "ColorOS", 10
+        //                             )
+        //                     );
+        //                 }
+        //             }
+        //         }),
+        // HIOS(
+        //         "HiOS",
+        //         R.drawable.ic_launcher_hios,
+        //         new String[]{"com.transsion.hilauncher"},
+        //         NO_SETTINGS_ACTIVITY,
+        //         DIRECT_APPLY_NOT_SUPPORTED,
+        //         (context, launcherName) -> new String[]{ // FIXME: R.string.apply_manual_hios should be deleted, it has no extra info compared to the standard message
+        //                 context.getResources().getString(R.string.apply_manual_hios_step_1),
+        //                 context.getResources().getString(R.string.apply_manual_hios_step_2),
+        //                 context.getResources().getString(R.string.apply_manual_hios_step_3),
+        //                 context.getResources().getString(R.string.apply_manual_hios_step_4),
+        //                 context.getResources().getString(
+        //                         R.string.apply_manual_hios_step_5,
+        //                         context.getResources().getString(R.string.app_name)
+        //                 )
+        //         }
+        // ),
         HYPERION(
                 "Hyperion",
                 R.drawable.ic_launcher_hyperion,
@@ -331,31 +193,6 @@ public class LauncherHelper {
                 DIRECT_APPLY_NOT_SUPPORTED,
                 (context, launcherName) -> new String[]{} // FIXME: Opens app without instructions
         ),
-        LGHOME( /* INCOMPATIBLE */
-                "LG Home",
-                R.drawable.ic_launcher_lg,
-                new String[]{"com.lge.launcher2", "com.lge.launcher3"},
-                NO_SETTINGS_ACTIVITY,
-                DIRECT_APPLY_NOT_SUPPORTED,
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
-        LUCID(
-                "Lucid",
-                R.drawable.ic_launcher_lucid,
-                new String[]{"com.powerpoint45.launcher"},
-                NO_SETTINGS_ACTIVITY,
-                (context, launcherPackageName) -> new Intent("com.powerpoint45.action.APPLY_THEME", null)
-                        .putExtra("icontheme", context.getPackageName()),
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
-        MOTO(
-                "Moto Launcher",
-                R.drawable.ic_launcher_moto,
-                new String[]{"com.motorola.launcher3"},
-                "com.motorola.personalize/com.motorola.personalize.app.IconPacksActivity",
-                DIRECT_APPLY_NOT_SUPPORTED,
-                (context, launcherName) -> new String[]{} // FIXME: Opens app without instructions
-        ),
         MICROSOFT(
                 "Microsoft",
                 R.drawable.ic_launcher_microsoft,
@@ -398,17 +235,6 @@ public class LauncherHelper {
                         ),
                 }
         ),
-        NOUGAT(
-                "Nougat",
-                R.drawable.ic_launcher_nougat,
-                new String[]{"me.craftsapp.nlauncher"},
-                NO_SETTINGS_ACTIVITY,
-                (context, launcherPackageName) -> new Intent("me.craftsapp.nlauncher")
-                        .setAction("me.craftsapp.nlauncher.SET_THEME")
-                        .putExtra("me.craftsapp.nlauncher.theme.NAME", context.getPackageName())
-                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
         NOVA(
                 "Nova",
                 R.drawable.ic_launcher_nova,
@@ -429,109 +255,109 @@ public class LauncherHelper {
                 },
                 MANUAL_APPLY_NOT_SUPPORTED
         ),
-        ONEUI(
-                "Samsung One UI",
-                R.drawable.ic_launcher_one_ui,
-                new String[]{"com.sec.android.app.launcher"},
-                NO_SETTINGS_ACTIVITY, // TODO: Could link to Theme Park if available
-                DIRECT_APPLY_NOT_SUPPORTED,
-                new ManualApply() {
-                    @ChecksSdkIntAtLeast(api = Build.VERSION_CODES.S)
-                    @Override
-                    public boolean isSupported(String launcherPackageName) {
-                        return Build.VERSION.SDK_INT > Build.VERSION_CODES.R;
-                    }
+        // ONEUI(
+        //         "Samsung One UI",
+        //         R.drawable.ic_launcher_one_ui,
+        //         new String[]{"com.sec.android.app.launcher"},
+        //         NO_SETTINGS_ACTIVITY, // TODO: Could link to Theme Park if available
+        //         DIRECT_APPLY_NOT_SUPPORTED,
+        //         new ManualApply() {
+        //             @ChecksSdkIntAtLeast(api = Build.VERSION_CODES.S)
+        //             @Override
+        //             public boolean isSupported(String launcherPackageName) {
+        //                 return Build.VERSION.SDK_INT > Build.VERSION_CODES.R;
+        //             }
 
-                    @Override
-                    public String getCompatibilityMessage(Context context, String launcherName) {
-                        return context.getResources().getString(
-                                R.string.apply_manual_samsung_oneui,
-                                launcherName,
-                                launcherName + " 4.0"
-                        );
-                    }
+        //             @Override
+        //             public String getCompatibilityMessage(Context context, String launcherName) {
+        //                 return context.getResources().getString(
+        //                         R.string.apply_manual_samsung_oneui,
+        //                         launcherName,
+        //                         launcherName + " 4.0"
+        //                 );
+        //             }
 
-                    @Override
-                    public String[] getInstructionSteps(Context context, String launcherName) {
-                        return new String[] {
-                                context.getResources().getString(
-                                        R.string.apply_manual_samsung_oneui_step_1,
-                                        "Samsung Galaxy Store"
-                                ),
-                                context.getResources().getString(
-                                        R.string.apply_manual_samsung_oneui_step_2,
-                                        "Theme Park"
-                                ),
-                                context.getResources().getString(R.string.apply_manual_samsung_oneui_step_3),
-                                context.getResources().getString(R.string.apply_manual_samsung_oneui_step_4),
-                                context.getResources().getString(R.string.apply_manual_samsung_oneui_step_5),
-                                context.getResources().getString(
-                                        R.string.apply_manual_samsung_oneui_step_6,
-                                        context.getResources().getString(R.string.app_name)
-                                ),
-                                context.getResources().getString(
-                                        R.string.apply_manual_samsung_oneui_step_7,
-                                        context.getResources().getString(R.string.app_name)
-                                )
-                        };
-                    }
+        //             @Override
+        //             public String[] getInstructionSteps(Context context, String launcherName) {
+        //                 return new String[] {
+        //                         context.getResources().getString(
+        //                                 R.string.apply_manual_samsung_oneui_step_1,
+        //                                 "Samsung Galaxy Store"
+        //                         ),
+        //                         context.getResources().getString(
+        //                                 R.string.apply_manual_samsung_oneui_step_2,
+        //                                 "Theme Park"
+        //                         ),
+        //                         context.getResources().getString(R.string.apply_manual_samsung_oneui_step_3),
+        //                         context.getResources().getString(R.string.apply_manual_samsung_oneui_step_4),
+        //                         context.getResources().getString(R.string.apply_manual_samsung_oneui_step_5),
+        //                         context.getResources().getString(
+        //                                 R.string.apply_manual_samsung_oneui_step_6,
+        //                                 context.getResources().getString(R.string.app_name)
+        //                         ),
+        //                         context.getResources().getString(
+        //                                 R.string.apply_manual_samsung_oneui_step_7,
+        //                                 context.getResources().getString(R.string.app_name)
+        //                         )
+        //                 };
+        //             }
 
-                    @Override
-                    public void run(Context context, String launcherPackageName, ApplyCallback callback) {
-                        applyOneUI(context, launcherPackageName, callback);
-                    }
-                }
-        ),
-        OXYGEN_OS(
-                "OxygenOS",
-                R.drawable.ic_launcher_oxygen_os,
-                new String[]{"net.oneplus.launcher"},
-                NO_SETTINGS_ACTIVITY,
-                DIRECT_APPLY_NOT_SUPPORTED,
-                new ManualApply() {
-                    @SuppressLint("AnnotateVersionCheck")
-                    @Override
-                    public boolean isSupported(String launcherPackageName) {
-                        return Build.VERSION.SDK_INT >= Build.VERSION_CODES.P;
-                    }
+        //             @Override
+        //             public void run(Context context, String launcherPackageName, ApplyCallback callback) {
+        //                 applyOneUI(context, launcherPackageName, callback);
+        //             }
+        //         }
+        // ),
+        // OXYGEN_OS(
+        //         "OxygenOS",
+        //         R.drawable.ic_launcher_oxygen_os,
+        //         new String[]{"net.oneplus.launcher"},
+        //         NO_SETTINGS_ACTIVITY,
+        //         DIRECT_APPLY_NOT_SUPPORTED,
+        //         new ManualApply() {
+        //             @SuppressLint("AnnotateVersionCheck")
+        //             @Override
+        //             public boolean isSupported(String launcherPackageName) {
+        //                 return Build.VERSION.SDK_INT >= Build.VERSION_CODES.P;
+        //             }
 
-                    @Override
-                    public String[] getInstructionSteps(Context context, String launcherName) {
-                        return new String[]{
-                                context.getResources().getString(R.string.apply_manual_oxygen_os_step_1),
-                                context.getResources().getString(R.string.apply_manual_oxygen_os_step_2),
-                                context.getResources().getString(R.string.apply_manual_oxygen_os_step_3),
-                                context.getResources().getString(
-                                        R.string.apply_manual_oxygen_os_step_4,
-                                        context.getResources().getString(R.string.app_name)
-                                )
-                        };
-                    }
+        //             @Override
+        //             public String[] getInstructionSteps(Context context, String launcherName) {
+        //                 return new String[]{
+        //                         context.getResources().getString(R.string.apply_manual_oxygen_os_step_1),
+        //                         context.getResources().getString(R.string.apply_manual_oxygen_os_step_2),
+        //                         context.getResources().getString(R.string.apply_manual_oxygen_os_step_3),
+        //                         context.getResources().getString(
+        //                                 R.string.apply_manual_oxygen_os_step_4,
+        //                                 context.getResources().getString(R.string.app_name)
+        //                         )
+        //                 };
+        //             }
 
-                    @Override
-                    public void run(Context context, String launcherPackageName, ApplyCallback callback) {
-                        if (isSupported(launcherPackageName)) {
-                            ManualApply.super.run(context, launcherPackageName, callback);
-                        } else {
-                            launcherIncompatibleCustomMessage(
-                                    context,
-                                    "OxygenOS",
-                                    context.getResources().getString(
-                                            R.string.apply_launcher_incompatible_depending_on_version, "OxygenOS", 8
-                                    )
-                            );
-                        }
-                    }
-                }
-        ),
-        PIXEL( /* INCOMPATIBLE */
-                "Pixel",
-                R.drawable.ic_launcher_pixel,
-                new String[]{"com.google.android.apps.nexuslauncher"},
-                NO_SETTINGS_ACTIVITY,
-                DIRECT_APPLY_NOT_SUPPORTED,
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
+        //             @Override
+        //             public void run(Context context, String launcherPackageName, ApplyCallback callback) {
+        //                 if (isSupported(launcherPackageName)) {
+        //                     ManualApply.super.run(context, launcherPackageName, callback);
+        //                 } else {
+        //                     launcherIncompatibleCustomMessage(
+        //                             context,
+        //                             "OxygenOS",
+        //                             context.getResources().getString(
+        //                                     R.string.apply_launcher_incompatible_depending_on_version, "OxygenOS", 8
+        //                             )
+        //                     );
+        //                 }
+        //             }
+        //         }
+        // ),
+        // PIXEL( /* INCOMPATIBLE */
+        //         "Pixel",
+        //         R.drawable.ic_launcher_pixel,
+        //         new String[]{"com.google.android.apps.nexuslauncher"},
+        //         NO_SETTINGS_ACTIVITY,
+        //         DIRECT_APPLY_NOT_SUPPORTED,
+        //         MANUAL_APPLY_NOT_SUPPORTED
+        // ),
         POCO(
                 "POCO",
                 R.drawable.ic_launcher_poco,
@@ -561,27 +387,6 @@ public class LauncherHelper {
                         .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
                 MANUAL_APPLY_NOT_SUPPORTED
         ),
-        SOLO(
-                "Solo",
-                R.drawable.ic_launcher_solo,
-                new String[]{"home.solo.launcher.free"},
-                NO_SETTINGS_ACTIVITY,
-                new DirectApply() {
-                    @Override
-                    public Intent getActivity(Context context, String launcherPackageName) {
-                        return context.getPackageManager().getLaunchIntentForPackage("home.solo.launcher.free")
-                                .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                    }
-
-                    @Override
-                    public Intent getBroadcast(Context context) {
-                        return new Intent("home.solo.launcher.free.APPLY_THEME")
-                                .putExtra("EXTRA_THEMENAME", context.getResources().getString(R.string.app_name))
-                                .putExtra("EXTRA_PACKAGENAME", context.getPackageName());
-                    }
-                },
-                MANUAL_APPLY_NOT_SUPPORTED
-        ),
         SQUARE(
                 "Square",
                 R.drawable.ic_launcher_square,
@@ -592,35 +397,27 @@ public class LauncherHelper {
                         .putExtra("com.ss.squarehome2.EXTRA_ICONPACK", context.getPackageName()),
                 MANUAL_APPLY_NOT_SUPPORTED
         ),
-        STOCK_LEGACY(
-                /*
-                 * Historically, ColorOS, OxygenOS and realme UI were standalone launcher variants
-                 * but as of Android 12 they're slowly being merged into a single launcher that no
-                 * longer reports as e.g. "com.oppo.launcher" but now as "com.android.launcher".
-                 */
-                isColorOS() ? "ColorOS" : isRealmeUI() ? "realme UI" : "Stock Launcher",
-                isColorOS() ? R.drawable.ic_launcher_color_os : isRealmeUI() ? R.drawable.ic_launcher_realme_ui : R.drawable.ic_launcher_android,
-                new String[]{"com.android.launcher"},
-                NO_SETTINGS_ACTIVITY,
-                DIRECT_APPLY_NOT_SUPPORTED,
-                (context, launcherName) -> new String[]{
-                        context.getResources().getString(R.string.apply_manual_color_os_step_1),
-                        context.getResources().getString(R.string.apply_manual_color_os_step_2),
-                        context.getResources().getString(R.string.apply_manual_color_os_step_3),
-                        context.getResources().getString(
-                                R.string.apply_manual_color_os_step_4,
-                                context.getResources().getString(R.string.app_name)
-                        ),
-                }
-        ),
-        TINYBIT(
-                "TinyBit",
-                R.drawable.ic_launcher_tinybit,
-                new String[]{"rocks.tbog.tblauncher"},
-                "rocks.tbog.tblauncher.SettingsActivity",
-                DIRECT_APPLY_NOT_SUPPORTED,
-                (context, launcherName) -> new String[]{} // FIXME: Opens app without instructions
-        ),
+        // STOCK_LEGACY(
+        //         /*
+        //          * Historically, ColorOS, OxygenOS and realme UI were standalone launcher variants
+        //          * but as of Android 12 they're slowly being merged into a single launcher that no
+        //          * longer reports as e.g. "com.oppo.launcher" but now as "com.android.launcher".
+        //          */
+        //         isColorOS() ? "ColorOS" : isRealmeUI() ? "realme UI" : "Stock Launcher",
+        //         isColorOS() ? R.drawable.ic_launcher_color_os : isRealmeUI() ? R.drawable.ic_launcher_realme_ui : R.drawable.ic_launcher_android,
+        //         new String[]{"com.android.launcher"},
+        //         NO_SETTINGS_ACTIVITY,
+        //         DIRECT_APPLY_NOT_SUPPORTED,
+        //         (context, launcherName) -> new String[]{
+        //                 context.getResources().getString(R.string.apply_manual_color_os_step_1),
+        //                 context.getResources().getString(R.string.apply_manual_color_os_step_2),
+        //                 context.getResources().getString(R.string.apply_manual_color_os_step_3),
+        //                 context.getResources().getString(
+        //                         R.string.apply_manual_color_os_step_4,
+        //                         context.getResources().getString(R.string.app_name)
+        //                 ),
+        //         }
+        // ),
         YASAN(
                 "Yasan",
                 R.drawable.ic_launcher_yasan,
@@ -629,19 +426,19 @@ public class LauncherHelper {
                 (context, launcherPackageName) -> new Intent("yasan.space.mnml.ai.launcher.APPLY_ICONS")
                         .putExtra("packageName", context.getPackageName()),
                 MANUAL_APPLY_NOT_SUPPORTED
-        ),
-        ZENUI(
-                "ZenUI",
-                R.drawable.ic_launcher_zenui,
-                new String[]{"com.asus.launcher"},
-                NO_SETTINGS_ACTIVITY,
-                (context, launcherPackageName) -> new Intent("com.asus.launcher")
-                        .setAction("com.asus.launcher.intent.action.APPLY_ICONPACK")
-                        .addCategory(Intent.CATEGORY_DEFAULT)
-                        .putExtra("com.asus.launcher.iconpack.PACKAGE_NAME", context.getPackageName())
-                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
-                MANUAL_APPLY_NOT_SUPPORTED
-        );
+        ),;
+        // ZENUI(
+        //         "ZenUI",
+        //         R.drawable.ic_launcher_zenui,
+        //         new String[]{"com.asus.launcher"},
+        //         NO_SETTINGS_ACTIVITY,
+        //         (context, launcherPackageName) -> new Intent("com.asus.launcher")
+        //                 .setAction("com.asus.launcher.intent.action.APPLY_ICONPACK")
+        //                 .addCategory(Intent.CATEGORY_DEFAULT)
+        //                 .putExtra("com.asus.launcher.iconpack.PACKAGE_NAME", context.getPackageName())
+        //                 .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
+        //         MANUAL_APPLY_NOT_SUPPORTED
+        // );
 
         /**
          * Interface for launchers to implement when they support applying icons directly, without

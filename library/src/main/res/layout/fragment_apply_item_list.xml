@@ -20,14 +20,16 @@
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:layout_marginStart="10dp"
-            android:layout_marginLeft="10dp"
             app:cardElevation="0dp"
-            app:cardCornerRadius="8dp">
+            app:cardCornerRadius="0dp"
+            app:cardBackgroundColor="@android:color/transparent">
 
             <ImageView
                 android:id="@+id/icon"
-                android:layout_width="@dimen/icon_size_medium"
-                android:layout_height="@dimen/icon_size_medium" />
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerInside" />
+
         </androidx.cardview.widget.CardView>
 
         <LinearLayout
