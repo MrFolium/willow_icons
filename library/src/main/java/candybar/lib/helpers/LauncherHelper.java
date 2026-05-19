@@ -159,6 +159,14 @@ public class LauncherHelper {
                         )
                 }
         ),
+        MURINE(
+            "Murine",
+            R.drawable.ic_launcher_murine,
+            new String[]{"app.murinelauncher"},
+            "com.android.launcher3.settings.SettingsActivity",
+            DIRECT_APPLY_NOT_SUPPORTED,
+            (context, launcherName) -> new String[]{}
+        ),
         KVAESITSO(
                 "Kvaesitso",
                 R.drawable.ic_launcher_kvaesitso,
