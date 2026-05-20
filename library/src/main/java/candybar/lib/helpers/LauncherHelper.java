@@ -184,6 +184,14 @@ public class LauncherHelper {
                         context.getResources().getString(R.string.apply_manual_kvaesitso_step_5),
                 }
         ),
+        YAGNI(
+            "Yagni",
+            R.drawable.ic_launcher_yagni,
+            new String[]{"com.eblan.launcher"},
+            "com.eblan.launcher.activity.settings.SettingsActivity",
+            DIRECT_APPLY_NOT_SUPPORTED,
+            (context, launcherName) -> new String[]{}
+        ),
         LAWNCHAIR_LEGACY(
                 "Lawnchair Legacy",
                 R.drawable.ic_launcher_lawnchair,

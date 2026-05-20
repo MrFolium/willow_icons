@@ -516,7 +516,9 @@
   
   <!-- Projectivy Launcher -->
   <item component="ComponentInfo{com.spocky.projengmenu/com.spocky.projengmenu.ui.home.MainActivity}" drawable="app_projectivy_launcher"/>
-  
+
+  <!-- Yagni Launcher -->
+  <item component="ComponentInfo{com.eblan.launcher/com.eblan.launcher.activity.main.MainActivity}" drawable="app_yagni_launcher" />
 
   <!-- Weather -->
   <item component="ComponentInfo{com.amazon.weather/com.amazon.weather.WeatherTabletActivity}" drawable="sys_weather"/>
