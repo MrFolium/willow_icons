@@ -475,6 +475,7 @@
 
   <!-- Square Launcher -->
   <item component="ComponentInfo{com.ss.squarehome2/com.ss.squarehome2.MainActivity}" drawable="app_square_launcher"/>
+  <item component="ComponentInfo{com.ss.squarehome2/com.ss.squarehome2.MyPreferencesActivity}" drawable="app_square_launcher_settings" />
 
   <!-- Kiss Launcher -->
   <item component="ComponentInfo{fr.neamar.kiss/fr.neamar.kiss.MainActivity}" drawable="app_kiss_launcher"/>
@@ -488,6 +489,10 @@
   <!-- Lawnchair Launcher -->
   <item component="ComponentInfo{app.lawnchair.play/app.lawnchair.LawnchairLauncher}" drawable="app_lawnchair_launcher"/>
 
+  <!-- Lawnchair Launcher Legasy -->
+  <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="app_lawnchair_launcher"/>
+  <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="app_lawnchair_launcher_settings" />
+  
   <!-- Niagara Launcher -->
   <item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="app_niagara_launcher"/>
 
