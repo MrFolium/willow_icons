@@ -20,8 +20,8 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_gravity="bottom|start"
-        android:padding="@dimen/content_margin"
-        android:background="?cb_navigationViewTitleBack">
+        android:padding="@dimen/content_margin">
+    
 
         <TextView
             android:id="@+id/header_title"
