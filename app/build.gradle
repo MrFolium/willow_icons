@@ -31,12 +31,12 @@ android {
         }
     }
 
-   buildTypes {
-    release {
-        debuggable false
-        minifyEnabled false
-        signingConfig signingConfigs.release
-    }
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
     }
 
     lint {
@@ -55,11 +55,9 @@ java {
 }
 
 dependencies {
-    implementation project(':library')
+    implementation project(':candybar:library')
 }
 
-// Automatically copies appfilter.xml and drawable.xml
-// from res/xml to assets before building
 tasks.register('copyXMLs') {
     ['appfilter.xml', 'drawable.xml'].each { file ->
         copy {
