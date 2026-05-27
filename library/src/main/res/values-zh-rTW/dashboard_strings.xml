@@ -96,7 +96,7 @@
     <string name="home_donate">捐贈</string>
     <string name="home_donate_desc">支持圖示包的開發</string>
     <string name="home_icons">自定圖示</string>
-    <string name="home_icon_dimension">%s 個像素圖示解析度</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d 雲端桌布</string>
     <string name="home_muzei">Muzei 動態桌布</string>
     <string name="home_icon_request_installed_apps">總計\n%d 個已安裝的應用程式</string>

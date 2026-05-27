@@ -113,7 +113,7 @@
     <string name="home_donate">Doner</string>
     <string name="home_donate_desc">Støtt utviklingen av ikonpakken</string>
     <string name="home_icons">Egendefinerte ikoner</string>
-    <string name="home_icon_dimension">%s piksler ikondimensjon</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d skybakgrunnsbilder</string>
     <string name="home_muzei">Muzei-sanntidsbakgrunn</string>
 

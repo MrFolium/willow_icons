@@ -99,7 +99,7 @@ Avec la demande d\'icône(s) premium, vous pouvez obtenir vos applications deman
     <string name="home_donate">Faire un don</string>
     <string name="home_donate_desc">Soutenir le développement pour le pack d\'icônes</string>
     <string name="home_icons">Icônes personnalisées</string>
-    <string name="home_icon_dimension">Dimension d\'icône en %s pixels</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d fonds d\'écran Cloud</string>
     <string name="home_muzei">Fond d\'écran animé Muzei</string>
     <string name="home_icon_request_installed_apps">Total\n%d applications installées</string>

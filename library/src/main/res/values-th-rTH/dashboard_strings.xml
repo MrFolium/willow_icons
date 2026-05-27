@@ -99,7 +99,7 @@
     <string name="home_donate">บริจาค</string>
     <string name="home_donate_desc">สนับสนุนการพัฒนาชุดไอคอน</string>
     <string name="home_icons">ไอคอนแบบกำหนดเอง</string>
-    <string name="home_icon_dimension">ขนาดไอคอน %s พิกเซล</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">ภาพพื้นหลังบนคลาวด์ %d รูป</string>
     <string name="home_muzei">Muzei Live Wallpaper</string>
     <string name="home_icon_request_installed_apps">แอปที่ติดตั้ง\nทั้งหมด %d แอป</string>

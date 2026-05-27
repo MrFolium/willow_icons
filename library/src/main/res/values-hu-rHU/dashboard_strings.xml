@@ -96,7 +96,7 @@
     <string name="home_donate">Támogatás</string>
     <string name="home_donate_desc">Támogasd az alkalmazás fejlesztőjét!</string>
     <string name="home_icons">Ikonok száma</string>
-    <string name="home_icon_dimension">Ikon felbontása %s pixel</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">A felhőben %d db. háttérkép található</string>
     <string name="home_muzei">Muzei Élő-Háttérképek</string>
     <string name="home_icon_request_installed_apps">%d\t telepített alkalmazás</string>

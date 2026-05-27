@@ -97,7 +97,7 @@
     <string name="home_donate">Δωρεά</string>
     <string name="home_donate_desc">Ανάπτυξη υποστήριξης για το πακέτο εικονιδίων</string>
     <string name="home_icons">Προσαρμοσμένα εικονίδια</string>
-    <string name="home_icon_dimension">Διάσταση εικονιδίου εικονοστοιχείων %s</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d ταπετσαρίες σύννεφο</string>
     <string name="home_muzei">Ζωντανή ταπετσαρία Muzei</string>
     <string name="home_icon_request_installed_apps">Σύνολο\n%d εγκατεστημένες εφαρμογές</string>

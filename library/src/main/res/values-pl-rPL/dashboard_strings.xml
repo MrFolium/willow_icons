@@ -99,7 +99,7 @@
     <string name="home_donate">Przekaż pieniądze</string>
     <string name="home_donate_desc">Pomóź w rozwoju aplikacji</string>
     <string name="home_icons">Zawartych ikon</string>
-    <string name="home_icon_dimension">Rozdzielczość %s pikseli</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d tapet przechowywanych w chmurze</string>
     <string name="home_muzei">Ruchoma tapeta Muzei</string>
     <string name="home_icon_request_installed_apps">%d zainstalowanych aplikacji</string>

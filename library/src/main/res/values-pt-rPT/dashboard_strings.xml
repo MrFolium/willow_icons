@@ -98,7 +98,7 @@
     <string name="home_donate">Doar</string>
     <string name="home_donate_desc">Apoie o desenvolvimento do pacote de ícones</string>
     <string name="home_icons">Ícones personalizados</string>
-    <string name="home_icon_dimension">Dimensão do ícone de %s pixels</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d Cloud wallpapers</string>
     <string name="home_muzei">Papel de parede ao vivo Muzei</string>
     <string name="home_icon_request_installed_apps">Total\n%d instalados aplicativos</string>

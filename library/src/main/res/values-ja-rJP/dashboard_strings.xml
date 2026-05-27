@@ -99,7 +99,7 @@
     <string name="home_donate">寄付</string>
     <string name="home_donate_desc">アイコンパックの開発を支援します</string>
     <string name="home_icons">個のカスタムアイコン</string>
-    <string name="home_icon_dimension">アイコンの寸法：%s</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d枚のクラウドの壁紙</string>
     <string name="home_muzei">Muzeiライブ壁紙</string>
     <string name="home_icon_request_installed_apps">合計\n%d個のインストールされたアプリ</string>

@@ -99,7 +99,7 @@
     <string name="home_donate">Donează</string>
     <string name="home_donate_desc">Sprijin pentru dezvoltarea pachetului de pictograme</string>
     <string name="home_icons">Pictograme personalizate</string>
-    <string name="home_icon_dimension">Dimensiune pictogramă %s pixeli</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d fundaluri cloud</string>
     <string name="home_muzei">Imagine de fundal live Muzei</string>
     <string name="home_icon_request_installed_apps">Total\n%d aplicații instalate</string>

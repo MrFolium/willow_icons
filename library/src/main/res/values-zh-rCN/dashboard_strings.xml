@@ -98,7 +98,7 @@
     <string name="home_donate">捐赠</string>
     <string name="home_donate_desc">支援图标包的开发工作</string>
     <string name="home_icons">自定图标</string>
-    <string name="home_icon_dimension">%s 图标分辨率</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d 云端壁纸</string>
     <string name="home_muzei">Muzei 动态壁纸</string>
     <string name="home_icon_request_installed_apps">总计\n%d 个已安装程序</string>

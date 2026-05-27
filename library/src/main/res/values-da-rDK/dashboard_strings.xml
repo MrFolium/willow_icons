@@ -99,7 +99,7 @@
     <string name="home_donate">Donere</string>
     <string name="home_donate_desc">Støt udvikling af ikonpakken</string>
     <string name="home_icons">Brugerdefinerede ikoner</string>
-    <string name="home_icon_dimension">%s pixels ikon dimension</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d skybaggrunde</string>
     <string name="home_muzei">Muzei live tapet</string>
     <string name="home_icon_request_installed_apps">\n%d installerede apps i alt</string>

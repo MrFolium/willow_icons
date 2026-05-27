@@ -81,7 +81,7 @@
     <string name="home_donate">Дари</string>
     <string name="home_donate_desc">Подкрепи разработването на пакета с икони</string>
     <string name="home_icons">Персонализирани икони</string>
-    <string name="home_icon_dimension">Размер на иконата в пиксели</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">онлайн тапети</string>
     <string name="home_muzei">Мuzei динамичен тапет</string>
     <string name="home_icon_request_installed_apps">Общо\инсталирани приложения</string>

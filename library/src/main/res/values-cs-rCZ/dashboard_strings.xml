@@ -99,7 +99,7 @@
     <string name="home_donate">Přispět</string>
     <string name="home_donate_desc">Podpořte vývoj pro tento balíček ikon</string>
     <string name="home_icons">Vlastní ikony</string>
-    <string name="home_icon_dimension">Rozměr ikony: %s pixelů</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">Tapety v cloudu: %d</string>
     <string name="home_muzei">Živé tapety Muzei</string>
     <string name="home_icon_request_installed_apps">Celkem nainstalovaných aplikací: %d</string>

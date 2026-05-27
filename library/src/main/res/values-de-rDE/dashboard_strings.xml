@@ -99,7 +99,7 @@ Mit Premium Icon-Anfragen kannst du deine gewünschte App schneller erhalten.</s
     <string name="home_donate">Spenden</string>
     <string name="home_donate_desc">Die Entwicklung des Icon Packs unterstützen</string>
     <string name="home_icons">Benutzerdefinierte Icons</string>
-    <string name="home_icon_dimension">%s Pixel Icon-Größe</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d Cloud-Hintergründe</string>
     <string name="home_muzei">Muzei Live-Hintergrund</string>
     <string name="home_icon_request_installed_apps">%d\ninstallierte App(s)</string>

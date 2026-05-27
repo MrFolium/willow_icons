@@ -98,7 +98,7 @@
     <string name="home_donate">অনুদান দিন</string>
     <string name="home_donate_desc">আইকন প্যাক উন্নয়নে অবদান রাখুন</string>
     <string name="home_icons">কাস্টম আইকন</string>
-    <string name="home_icon_dimension">%s পিক্সেল আইকনের আকার</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d ক্লাউড ওয়ালপেপার</string>
     <string name="home_muzei">মুজ্যেই লাইভ ওয়ালপেপার</string>
     <string name="home_icon_request_installed_apps">মোট\n%d ইনস্টল করা অ্যাপ</string>

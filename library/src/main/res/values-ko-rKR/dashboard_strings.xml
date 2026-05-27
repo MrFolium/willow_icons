@@ -97,7 +97,7 @@
     <string name="home_donate">기부</string>
     <string name="home_donate_desc">이 아이콘 팩의 개발 지원</string>
     <string name="home_icons">사용자 지정 아이콘</string>
-    <string name="home_icon_dimension">%s 픽셀의 아이콘</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d장의 클라우드 배경화면</string>
     <string name="home_muzei">Muzei Live Wallpaper</string>
     <string name="home_icon_request_installed_apps">총\n%d개의 설치된 앱 중</string>

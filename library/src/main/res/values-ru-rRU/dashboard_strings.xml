@@ -97,7 +97,7 @@
     <string name="home_donate">Пожертвовать</string>
     <string name="home_donate_desc">Поддержать разработку набора иконок</string>
     <string name="home_icons">Другие иконки</string>
-    <string name="home_icon_dimension">%s пикселей - размер значка</string>
+    <string name="home_icon_dimension">%s px</string>
     <string name="home_loud_wallpapers">%d облачные обои</string>
     <string name="home_muzei">Muzei живые обои</string>
     <string name="home_icon_request_installed_apps">Всего\n%d установленных приложений</string>
