@@ -3,5 +3,5 @@ plugins {
 }
 
 include ':app'
-include ':library'
-include ':extLibs:PreLollipopTransitions'
+include ':candybar:library'
+include ':candybar:extLibs:PreLollipopTransitions'

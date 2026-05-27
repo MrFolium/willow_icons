@@ -21,7 +21,7 @@ package candybar.lib.items;
 public class Wallpaper {
 
     private final String mUrl;
-    private final String mThumbUrl;
+    private final String mThumbUrl; 
     private final String mAuthor;
     private String mName;
     private int mColor;
