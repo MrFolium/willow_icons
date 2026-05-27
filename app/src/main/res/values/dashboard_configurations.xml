@@ -50,7 +50,7 @@
 
     <string name="regular_request_method">email</string>
     <string name="premium_request_method"></string>
-    <string name="regular_request_email">team.willow@protonmail.com</string>
+    <string name="regular_request_email">request.willow@proton.me</string>
     <string name="premium_request_email"></string>
     <string name="regular_request_email_subject">Willow Icons — Icon Request</string>
     <string name="premium_request_email_subject"></string>
