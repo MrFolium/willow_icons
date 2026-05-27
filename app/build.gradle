@@ -57,7 +57,8 @@ java {
 dependencies {
     implementation project(':candybar:library')
 }
-
+// Automatically copies appfilter.xml and drawable.xml
+// from res/xml to assets before building+
 tasks.register('copyXMLs') {
     ['appfilter.xml', 'drawable.xml'].each { file ->
         copy {

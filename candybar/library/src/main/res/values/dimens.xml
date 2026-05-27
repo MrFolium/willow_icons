@@ -26,6 +26,7 @@
 
     <!-- FAB -->
     <dimen name="fab_margin">20dp</dimen>
+    <!-- fix: changed fab_margin from 0 to 20 dp -->
     <dimen name="fab_margin_global">20dp</dimen>
     <dimen name="fab_size">56dp</dimen>
 

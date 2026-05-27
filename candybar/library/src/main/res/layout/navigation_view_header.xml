@@ -21,6 +21,7 @@
         android:orientation="vertical"
         android:layout_gravity="bottom|start"
         android:padding="@dimen/content_margin">
+        <!-- fix: remover black background for nav view -->
     
 
         <TextView

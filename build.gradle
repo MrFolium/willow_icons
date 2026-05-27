@@ -1,21 +1,19 @@
 buildscript {
     repositories {
-        google()
         mavenCentral()
+        google()
     }
-
     dependencies {
         classpath 'com.android.tools.build:gradle:9.2.1'
     }
 }
-
 allprojects {
     repositories {
-        google()
         mavenCentral()
+        google()
         maven { url 'https://jitpack.io' }
+        maven { url 'https://maven.google.com' }
     }
-
     rootProject.ext {
         MinSdk = 21
         TargetSdk = 36
@@ -23,7 +21,6 @@ allprojects {
         VersionName = '2.1'
     }
 }
-
 tasks.register('clean', Delete) {
     delete rootProject.layout.buildDirectory
 }

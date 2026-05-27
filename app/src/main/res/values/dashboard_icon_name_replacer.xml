@@ -4,5 +4,6 @@
     <string-array name="icon_name_replacer">
         <item>app_,</item>
         <item>sys_, System_ </item>
+        <!-- fix: change name replaser -->
     </string-array>
 </resources>

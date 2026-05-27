@@ -159,7 +159,8 @@ public class LauncherHelper {
                         )
                 }
         ),
-        MURINE(
+        //add: added Murine launcher support
+        MURINE( // AI GENERATED CODE: not production-safe, needs refactor
             "Murine",
             R.drawable.ic_launcher_murine,
             new String[]{"app.murinelauncher"},
@@ -184,7 +185,8 @@ public class LauncherHelper {
                         context.getResources().getString(R.string.apply_manual_kvaesitso_step_5),
                 }
         ),
-        YAGNI(
+        // add: added Yagni launcher support
+        YAGNI( // AI GENERATED CODE: not production-safe, needs refactor
             "Yagni",
             R.drawable.ic_launcher_yagni,
             new String[]{"com.eblan.launcher"},
