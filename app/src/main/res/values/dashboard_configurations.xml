@@ -58,7 +58,7 @@
     <string name="premium_request_pacific_api_key"></string>
 
     <string name="wallpaper_json">
-    https://cdn.jsdelivr.net/gh/MrFolium/willow_icons@launcher-compatibility-2.1/resources/wallpapers/wallpapers.json
+    https://cdn.jsdelivr.net/gh/MrFolium/willow_icons@main/resources/wallpapers/wallpapers.json
     </string>
     <bool name="enable_wallpaper_download">true</bool>
     <bool name="wallpaper_show_name_author">true</bool>

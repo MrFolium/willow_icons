@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
     <category title="App Icons">
+        </category>
+    <category title="System Icons">
+        </category>
+    <category title="App Icons">
         <item drawable="app_2gis" />
         <item drawable="app_aegis" />
         <item drawable="app_bitwarden" />
@@ -81,6 +85,7 @@
         <item drawable="app_kiss_launcher" />
         <item drawable="app_kvaesitso_launcher" />
         <item drawable="app_lawnchair_launcher" />
+        <item drawable="app_lawnchair_launcher_settings" />
         <item drawable="app_libretube" />
         <item drawable="app_linkedin" />
         <item drawable="app_meta_business_suite" />
@@ -104,10 +109,10 @@
         <item drawable="app_microsoft_xbox" />
         <item drawable="app_multi_launcher" />
         <item drawable="app_murine_launcher" />
-        <item drawable="app_nekogram_dark" />
-        <item drawable="app_nekogram_light" />
+        <item drawable="app_nekogram" />
         <item drawable="app_netflix" />
         <item drawable="app_niagara_launcher" />
+        <item drawable="app_nothing_launcher" />
         <item drawable="app_nova_launcher" />
         <item drawable="app_obsidian" />
         <item drawable="app_ozon" />
@@ -134,6 +139,7 @@
         <item drawable="app_soundcloud" />
         <item drawable="app_spotify" />
         <item drawable="app_square_launcher" />
+        <item drawable="app_square_launcher_settings" />
         <item drawable="app_telegram" />
         <item drawable="app_threads" />
         <item drawable="app_tiktok" />
@@ -150,6 +156,7 @@
         <item drawable="app_wildberries" />
         <item drawable="app_willow_icons" />
         <item drawable="app_x" />
+        <item drawable="app_yagni_launcher" />
         <item drawable="app_yandex_alice" />
         <item drawable="app_yandex_app" />
         <item drawable="app_yandex_books" />

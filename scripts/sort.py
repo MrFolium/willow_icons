@@ -1,4 +1,3 @@
-
 # AI GENERATED FILE: needs review and refactor
 
 import os
@@ -8,18 +7,58 @@ from datetime import datetime
 ROOT = os.path.dirname(os.path.dirname(__file__))
 
 DRAWABLE_XML = os.path.join(ROOT, "app/src/main/res/xml/drawable.xml")
-APPFILTER_XML = os.path.join(ROOT, "app/src/main/res/xml/appfilter.xml")
-
 LOG_DIR = os.path.join(ROOT, "scripts/logs")
 os.makedirs(LOG_DIR, exist_ok=True)
-
 
 APP_PREFIX = "app_"
 SYS_PREFIX = "sys_"
 
 
+def parse(path):
+    tree = ET.parse(path)
+    return tree, tree.getroot()
+
+
+def sort_drawable_xml():
+    tree, root = parse(DRAWABLE_XML)
+    items = root.findall(".//item")
+
+    apps = []
+    sys = []
+
+    for item in items:
+        drawable = item.get("drawable")
+        if not drawable:
+            continue
+
+        parent = next((p for p in root.iter() if item in list(p)), None)
+        if parent is not None:
+            parent.remove(item)
+
+        if drawable.startswith(SYS_PREFIX):
+            sys.append(drawable)
+        else:
+            apps.append(drawable)
+
+    apps.sort()
+    sys.sort()
+
+    app_cat = ET.SubElement(root, "category", {"title": "App Icons"})
+    sys_cat = ET.SubElement(root, "category", {"title": "System Icons"})
+
+    for d in apps:
+        ET.SubElement(app_cat, "item", {"drawable": d})
+
+    for d in sys:
+        ET.SubElement(sys_cat, "item", {"drawable": d})
+
+    indent(root)
+    tree.write(DRAWABLE_XML, encoding="utf-8", xml_declaration=True)
+
+    return len(apps), len(sys)
+
+
 def indent(elem, level=0):
-    """нормальный pretty print без каши"""
     i = "\n" + level * "    "
     if len(elem):
         if not elem.text or not elem.text.strip():
@@ -30,65 +69,6 @@ def indent(elem, level=0):
             child.tail = i
     if level and (not elem.tail or not elem.tail.strip()):
         elem.tail = i
-
-
-def parse(path):
-    tree = ET.parse(path)
-    return tree, tree.getroot()
-
-
-def sort_drawable_xml():
-    tree, root = parse(DRAWABLE_XML)
-
-    items = [i for i in root.findall("item") if i.get("drawable")]
-
-    apps = []
-    sys = []
-
-    for i in items:
-        d = i.get("drawable")
-        if d.startswith(SYS_PREFIX):
-            sys.append(d)
-        else:
-            apps.append(d)
-
-    apps.sort()
-    sys.sort()
-
-    # чистим XML
-    for i in list(root):
-        root.remove(i)
-
-    # APP SECTION
-    cat1 = ET.SubElement(root, "category", {"title": "App Icons"})
-    for d in apps:
-        ET.SubElement(cat1, "item", {"drawable": d})
-
-    # SYS SECTION
-    cat2 = ET.SubElement(root, "category", {"title": "System Icons"})
-    for d in sys:
-        ET.SubElement(cat2, "item", {"drawable": d})
-
-    indent(root)
-
-    tree.write(DRAWABLE_XML, encoding="utf-8", xml_declaration=True)
-
-    return len(apps), len(sys)
-
-
-def clean_empty_comments(xml_path):
-    """убирает <!---->"""
-    with open(xml_path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-
-    cleaned = []
-    for line in lines:
-        if "<!---->" in line:
-            continue
-        cleaned.append(line)
-
-    with open(xml_path, "w", encoding="utf-8") as f:
-        f.writelines(cleaned)
 
 
 def log(msg):
@@ -102,16 +82,14 @@ def log(msg):
 def main():
     app_count, sys_count = sort_drawable_xml()
 
-    clean_empty_comments(DRAWABLE_XML)
-
     log(f"""=== SORT REPORT ===
-drawable.xml sorted
+drawable.xml sorted safely
 
 App icons: {app_count}
 System icons: {sys_count}
 """)
 
-    print("DONE: drawable.xml sorted cleanly")
+    print("DONE: drawable.xml sorted safely")
 
 
 if __name__ == "__main__":
