@@ -10,7 +10,7 @@ All contributors retain authorship of their work.
 
 # About the Willow Icons Project
 
-Willow Icons is a community-driven project focused on developing and maintaining icons to create a consistent and well-designed user experience.
+Willow Icons is a community-friendly project focused on developing and maintaining icons to create a consistent and well-designed user experience.
 
 In addition to icons, the project includes a companion app, documentation, and tools to support and improve the project.
 
@@ -214,19 +214,6 @@ Component information can be obtained from:
 * Verified third-party appfilters
 
 Unknown component mappings should not be guessed.
-
----
-
-# Wallpapers
-
-Wallpaper contributions are welcome.
-
-Recommended formats:
-
-* PNG
-* JPG
-
-Wallpapers should visually match the Willow design language.
 
 ---
 
