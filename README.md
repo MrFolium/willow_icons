@@ -1,55 +1,39 @@
 
 # Willow Icons
 
-![Preview](preview/preview.png)
+![Preview](resources/preview/preview.png)
 
 ---
 
-# About
+## About
 
-Willow Icons is an open-source icon pack focused on consistency, soft colors, and a unified visual system.
+Willow Icons is an open-source icon pack built around consistency, simplicity, and a unified visual style.
 
-The project follows a strict base shape structure, shared palette, and standardized launcher support to keep the entire icon pack visually cohesive.
+The goal of the project is to create icons that feel like they belong together. Every icon follows the same shape system, spacing rules, and color palette to provide a cohesive experience across the entire pack.
 
-Current features:
-- Consistent icon shape system
-- Unified spacing and proportions
-- Custom color palette
-- Launcher support
-- SVG source files included
-- Open contribution system
+In addition to icons, the project also includes a companion app, documentation, and tools used to maintain the project.
 
----
+### Features
 
-# Project Structure
-
-```text
-/icons                                → source SVG icons
-/app/src/main/res/drawable-nodpi     → launcher-ready PNG exports
-/app/src/main/res/xml/appfilter.xml  → launcher component mappings
-/app/src/main/res/xml/drawable.xml   → drawable entries
-````
+* Consistent icon shape system
+* Unified spacing and proportions
+* Minimalistic color palette
+* Launchers support
+* SVG source files included
 
 ---
 
-# Contribution
+## Contributing
 
-Contributions are welcome.
+Contributions of all kinds are welcome.
 
-Before submitting a pull request, please read:
-[CONTRIBUTING.md](CONTRIBUTING.md)
+Whether you'd like to create icons, work on the application, improve documentation, or help with project tooling, your contributions are welcome.
 
-The contribution guide contains:
+Before submitting a Pull Request, please read:
 
-* icon design rules
-* naming conventions
-* launcher support requirements
-* palette rules
-* export requirements
+**[CONTRIBUTING.md](CONTRIBUTING.md)**
 
----
-
-# License
+## License
 
 This project is licensed under the MIT License.
 
@@ -57,3 +41,4 @@ See:
 
 * [LICENSE](LICENSE)
 * [NOTICE](NOTICE)
+

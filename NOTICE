@@ -1,29 +1,30 @@
 Willow Icons
 Copyright 2026 @MrFolium
-
 This project is licensed under the MIT License.
 
 This repository contains assets from multiple sources:
 
 1. Original icons
-   - Created for Willow Icons
-   - Licensed under the MIT License
+- Created for Willow Icons
+- Licensed under the MIT License
+
 
 2. Third-party contributors
-   - Icons contributed via pull requests
-   - Contributors retain authorship attribution
-   - Contributions are licensed under the MIT License upon inclusion in this repository
+- Icons contributed via pull requests
+- Contributors retain authorship attribution
+- Contributions are licensed under the MIT License upon inclusion in this repository
 
-3. Third-party open-source projects
- - The mobile application is built on the CandyBar framework. Thanks to its contributors and maintainers:
 
-     - candybar-library
-       https://github.com/danimahardhika/candybar-library
-       License: Apache License 2.0
+3. CandyBar FOSS framework
+- The mobile application is built on the CandyBar FOSS framework. Thanks to its contributors and maintainers:
 
-     - candybar-sample
-       https://github.com/zixpo/candybar-sample
-       License: Apache License 2.0
+https://github.com/Donnnno/candybar-foss
+License: Apache License 2.0
+
+
+### 4. Source code modifications
+- All modifications made within this repository to the framework code are licensed under the MIT License, unless otherwise required by upstream license compatibility.
+
 
 All assets in this repository are distributed under the MIT License,
-except where otherwise noted.
+except where otherwise specified.

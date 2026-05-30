@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="changelog_date">May 2026</string>
+    <string name="changelog_date">28 May 2026</string>
 
     <string-array name="changelog">
 
         <item>
-            Added launcher support via CandyBar base
+            Willow 2.1 Metro — transition to the FOSS version
         </item>
 
         <item>
-            Improved compatibility with supported launchers
+            Added support for 2 new launchers
         </item>
 
         <item>
-            General stability and performance improvements
+            Removed old and untested launcher support
+        </item>
+
+        <item>
+            Reworked application interface
+        </item>
+
+        <item>
+            Improved internal project structure
+        </item>
+
+        <item>
+            Added helper scripts for project maintenance
+        </item>
+
+        <item>
+            Added wallpapers
+        </item>
+
+        <item>
+            Various fixes and improvements
         </item>
 
     </string-array>

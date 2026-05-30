@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="base">
+        <!-- What is a launcher -->
+        <!-- What is an icon pack -->
+        <!-- How do i use an icon pack? -->
+        <!-- How do i apply an icon pack? -->
+        <!-- How do i see all icons included? -->
+        <!-- I can\'t see a complete icon name -->
+        <!-- How can i replace icons with an alternate icon? -->
+        <!-- How do i request an icon? -->
+        <!-- How can i restore the remaining Premium Requests after reinstalling the app? -->
+        <!-- After restarting my phone, the icon pack is not applied, it restore to defaults? -->
+        <!-- Why do the icons looks jaggy or pixelated on my phone? -->
+        <!-- I can see the icon included in all icons,
+            but why isn\'t the actual icon on the app drawer changed? -->
+        <!-- What is the \"report bugs\" option? -->
+        <!-- My launcher is listed in the Google Play description, but why isn\'t it included in apply section? -->
+        <!-- Wallpaper can\'t be applied, just showing black screen? -->
+        <!-- Muzei: How to load downloaded wallpapers only? -->
+        <!-- Muzei: I don\'t want to keep downloading wallpapers each time the wallpaper changes? -->
+        <!-- Muzei: I only want to use specific wallpapers? -->
+        <!-- Why are Read &amp; Write External Storage permission needed? -->
+        <!-- Why is Internet permission needed? -->
+        <!-- Why is Access Network State permission needed? -->
+        <!-- Why is Access Wi-Fi State permission needed? -->
+        <!-- Why is Set Wallpaper permission needed? -->
+        <!-- Why is Wake Lock Permission needed? -->
+        <!-- Why is Set Alarm permission needed? -->
+    </string-array>
+    <string-array name="questions">
+        <item>什麼是啟動器？</item>
+        <item>什麼是圖示包？</item>
+        <item>我該如何使用圖示包？</item>
+        <item>我該如何套用圖示包？</item>
+        <item>我該如何看到此圖示包的所有圖示？</item>
+        <item>我看不到完整的圖示名稱</item>
+        <item>我該如何將目前圖示更改為其他圖示？</item>
+        <item>我該如何申請圖示？</item>
+        <item>我該如何在重裝應用程式後取得剩餘的高級圖示申請數？</item>
+        <item>為何重新啟動手機後仍然無法套用圖示包？</item>
+        <item>我的圖示看起來糊糊的；有鋸齒狀！</item>
+        <item>某些圖示雖然有在應用程式中，但它們沒有在應用程式抽屜中套用！</item>
+        <item>「回報問題」是回報哪個項目的問題？</item>
+        <item>我的啟動器雖然有列在 Google Play 應用程式說明中，但為何它沒有在「套用圖示」中顯示？</item>
+        <item>套用桌布後在桌面顯示黑畫面？</item>
+        <item>Muzei：我該如何讓應用程式只載入已下載的桌布？</item>
+        <item>Muzei：我該如何避免在每次更改桌布時重新下載它們？</item>
+        <item>Muzei：我只想使用特定的桌布！</item>
+        <item>為何應用程式需要讀寫外部儲存空間權限？</item>
+        <item>為何需要網路權限？</item>
+        <item>為何需要讀取網路連接狀態（ACCESS_NETWORK_STATE）的權限？</item>
+        <item>為何需要讀取 Wi-Fi 連接狀態（ACCESS_WIFI_STATE）的權限？</item>
+        <item>為何需要設定桌布權限？</item>
+        <item>為何需要 Wake Lock 權限？</item>
+        <item>為何需要用到設定鬧鐘權限？</item>
+    </string-array>
+    <string-array name="answers">
+        <item>啟動器是 Android 界面不可或缺的一部分。其不但可用於啟動應用程式、打電話，高度客製化也是其一大特性。</item>
+        <item>一組能夠更改應用程式圖示的圖形</item>
+        <item>您需要一個支援自訂圖示的啟動器。
+            詳細支援項目已列於 Play Store 說明中。
+            若您仍然不確定要使用哪個啟動器可移至「套用圖示」區域安裝。</item>
+        <item>您可以在側欄的「套用圖示」中選擇您所使用的啟動器。若您所使用的啟動器雖已列於 Google Play 說明中但未在「套用圖示」中出現，請自行於啟動器設定中套用圖示包。</item>
+        <item>開啟側欄後選擇「圖示」</item>
+        <item>輕點一下圖示將放大圖檔並且顯示名稱。</item>
+        <item>並非所有啟動器皆支援圖示編輯。您可以嘗試長按或雙擊應用程式圖示開啟編輯面板。</item>
+        <item>開啟側欄並且選擇「申請圖示」。</item>
+        <item>開啟並點選側欄中的「設定」>「回復已購買項目」。此將回復未使用的高級圖示申請餘額。</item>
+        <item>請將圖示包安裝於內部儲存空間並避免安裝於 SD 卡上。</item>
+        <item>某些啟動器在處理這些高解析度圖示時可能會有的問題。請將圖示放大為 115-120% 或更換啟動器。</item>
+        <item>開啟設定並選擇「回報問題」。</item>
+        <item>「回報問題」將回報有關此圖示包的問題而非關於此應用程式本身。</item>
+        <item>並非所有啟動器皆支援直接套用圖示的功能，或是無法直接於此取用。您可於啟動器設定中套用此圖示包。</item>
+        <item>「設定桌布」會將下載的桌布儲存於快取並且套用桌布。套用桌布的過程將在極短時間內佔用大量內存，若這些內存不足將顯示黑畫面。您可嘗試重新啟動以釋放內存空間。您亦可自行下載桌布並於其他桌布管理器中套用。</item>
+        <item>請於下載桌布後開啟 Muzei，選擇此圖示包 > 設定 > 僅載入已下載桌布。</item>
+        <item>桌布下載後將自動於手機內存中載入。Muzei 不會在更改桌布後下載圖檔。請先自行下載桌布。</item>
+        <item>請先下載欲於 Muzei 上套用的桌布並且於 Muzei 設定中開啟「僅載入已下載桌布」。</item>
+        <item>此權限用於讀寫內存並且收集申請圖示的相關資料。</item>
+        <item>此權限僅用於下載雲端桌布。</item>
+        <item>此權限用於確認手機的連線狀態。</item>
+        <item>此權限用於確認手機連接 Wi-Fi 的狀態，也同時用於載入 Muzei 的雲端桌布。</item>
+        <item>此權限讓您能夠直接在此應用程式直接套用桌布。</item>
+        <item>此權限用於 Muzei 動態桌布。</item>
+        <item>此用於從指針時鐘小工具中啟動時鐘應用程式。</item>
+    </string-array>
+</resources>
