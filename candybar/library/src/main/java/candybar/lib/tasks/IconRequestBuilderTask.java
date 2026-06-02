@@ -82,7 +82,8 @@ public class IconRequestBuilderTask extends AsyncTaskBase {
                 }
 
                 StringBuilder stringBuilder = new StringBuilder();
-                stringBuilder.append(DeviceHelper.getDeviceInfo(mContext.get()));
+                // del: removed device information from request email body
+                // stringBuilder.append(DeviceHelper.getDeviceInfo(mContext.get()));
 
                 if (Preferences.get(mContext.get()).isPremiumRequest()) {
                     if (CandyBarApplication.sRequestProperty.getOrderId() != null) {
@@ -116,14 +117,14 @@ public class IconRequestBuilderTask extends AsyncTaskBase {
                     if (CandyBarApplication.getConfiguration().isIncludeIconRequestToEmailBody()) {
                         if (emailBodyGeneratorEnabled) {
                             requestsForGenerator.add(request);
-                        } else {
-                            stringBuilder.append("\r\n\r\n")
-                                    .append(request.getName())
-                                    .append("\r\n")
-                                    .append(request.getActivity())
-                                    .append("\r\n")
-                                    .append("https://play.google.com/store/apps/details?id=")
-                                    .append(request.getPackageName());
+                        } else { // del: removed app details from request email body
+                            // stringBuilder.append("\r\n\r\n")
+                            //         .append(request.getName())
+                            //         .append("\r\n")
+                            //         .append(request.getActivity())
+                            //         .append("\r\n")
+                            //         .append("https://play.google.com/store/apps/details?id=")
+                            //         .append(request.getPackageName());
                         }
                     }
                 }
@@ -140,6 +141,8 @@ public class IconRequestBuilderTask extends AsyncTaskBase {
                 return false;
             }
         }
+        // fix: replaced generated email body with minimal placeholder text
+        mEmailBody = "Icon request attached."; //fix: added zaglushka
         return false;
     }
 
