@@ -4,11 +4,11 @@
 <path d="M123.3 61.0897C123.3 63.0227 121.733 64.5897 119.8 64.5897H114.251C107.865 64.5897 102.688 69.7649 102.688 76.1487V81.1923C102.688 83.1253 104.255 84.6923 106.188 84.6923H119.075C121.269 84.6923 122.922 86.6875 122.514 88.8431L120.32 100.438C120.007 102.091 118.563 103.287 116.881 103.287H106.188C104.255 103.287 102.688 104.854 102.688 106.787V141.5C102.688 143.433 101.121 145 99.1882 145H84.0682C82.1352 145 80.5682 143.433 80.5682 141.5V106.787C80.5682 104.854 79.0012 103.287 77.0682 103.287H71.5C69.567 103.287 68 101.72 68 99.7872V88.1923C68 86.2593 69.567 84.6923 71.5 84.6923H77.0682C79.0012 84.6923 80.5682 83.1253 80.5682 81.1923V71.6256C80.5682 58.0253 91.597 47 105.202 47H119.8C121.733 47 123.3 48.567 123.3 50.5V61.0897Z" fill="#F4F5F7"/>
 </g>
 <defs>
-<filter id="filter0_d_370_2894" x="68" y="47" width="60.9008" height="103.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_370_2894" x="68" y="47" width="62.3008" height="105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2894"/>

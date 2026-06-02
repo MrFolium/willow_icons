@@ -10,11 +10,11 @@
 <path d="M124.7 47C130.112 47 134.5 51.3565 134.5 56.7305V69.9362C134.5 75.3102 130.112 79.6667 124.7 79.6667H72.9C64.3948 79.6667 57.5 86.5126 57.5 94.9574V62.2908C57.5 53.8459 64.3948 47 72.9 47H124.7Z" fill="#6FBF9A"/>
 </g>
 <defs>
-<filter id="filter0_d_370_2916" x="57.5" y="69.936" width="82.6" height="80.664" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_370_2916" x="57.5" y="69.936" width="84" height="82.064" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2916"/>
@@ -30,11 +30,11 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2916"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_370_2916" result="shape"/>
 </filter>
-<filter id="filter2_d_370_2916" x="57.5" y="47" width="82.6" height="53.5575" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_d_370_2916" x="57.5" y="47" width="84" height="54.9575" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2916"/>

@@ -8,21 +8,21 @@
 <path d="M110.404 94.1876C111.789 94.9986 111.789 97.0013 110.404 97.8123L87.9609 110.95C86.5609 111.769 84.8 110.76 84.8 109.137V82.8626C84.8 81.2404 86.5609 80.2307 87.9609 81.0502L110.404 94.1876Z" fill="#F4F5F7"/>
 </g>
 <defs>
-<filter id="filter0_d_370_2829" x="47.502" y="41.2994" width="102.596" height="115.001" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_370_2829" x="47.502" y="41.2994" width="103.996" height="116.401" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2829"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_370_2829" result="shape"/>
 </filter>
-<filter id="filter1_d_370_2829" x="84.8008" y="80.7594" width="32.2426" height="36.0811" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_d_370_2829" x="84.8008" y="80.7594" width="33.6426" height="37.4811" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2829"/>

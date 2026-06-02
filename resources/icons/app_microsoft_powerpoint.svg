@@ -7,21 +7,21 @@
 <path d="M79.289 51.5317C88.6747 51.5317 96.2832 59.1403 96.2832 68.526V87.7861C96.2832 92.1925 99.6374 95.8153 103.932 96.2411C103.934 96.2552 103.937 96.2691 103.939 96.2832H124.04C133.426 96.2832 141.035 103.892 141.035 113.277V115.339C133.533 132.784 116.194 145 96 145C68.938 145 47 123.062 47 95.9999C47 76.2991 58.6269 59.3144 75.3929 51.5317H79.289Z" fill="#B0733F"/>
 </g>
 <defs>
-<filter id="filter0_d_370_2860" x="75.3945" y="47" width="75.2055" height="74.6956" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_370_2860" x="75.3945" y="47" width="76.6055" height="76.0956" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2860"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_370_2860" result="shape"/>
 </filter>
-<filter id="filter1_d_370_2860" x="47" y="51.5317" width="99.6352" height="99.0683" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_d_370_2860" x="47" y="51.5317" width="101.035" height="100.468" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2860"/>

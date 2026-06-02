@@ -4,11 +4,11 @@
 <path d="M96.3016 47C118.118 47 135.803 64.6845 135.803 86.5008C135.803 97.4047 131.384 107.279 124.239 114.426C117.091 121.578 101.005 131.175 100.017 142.037C99.8685 143.666 97.9368 145 96.3016 145C94.6664 145 92.7346 143.666 92.5869 142.037C91.599 131.175 75.5121 121.578 68.3645 114.426C61.2187 107.279 56.8008 97.4047 56.8008 86.5008C56.8009 64.6846 74.4853 47.0002 96.3016 47ZM96.3016 72.6758C88.666 72.6758 82.4767 78.8655 82.4766 86.5008C82.4766 94.1364 88.666 100.326 96.3016 100.326C103.937 100.326 110.127 94.1364 110.127 86.5008C110.126 78.8655 103.937 72.6758 96.3016 72.6758Z" fill="#B04F58"/>
 </g>
 <defs>
-<filter id="filter0_d_370_2932" x="56.8008" y="47" width="84.602" height="103.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_370_2932" x="56.8008" y="47" width="86.002" height="105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2932"/>

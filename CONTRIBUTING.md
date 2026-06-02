@@ -67,6 +67,16 @@ All icons must use the official Willow color palette.
 
 ---
 
+## Shadow Guidelines
+
+In most cases, it is recommended to use the standard shadow settings to maintain a consistent style across the icon pack.
+
+However, some icons may require slight deviations from the standard when the shadow visually blends into the object, appears too soft, or feels too large for dense or finely detailed compositions.
+
+Below are several typical shadow presets that can be used in such cases.
+
+![shadow guidelines](resources/preview/shadow_guidelines.png)
+
 # File Formats
 
 ## Source Icons

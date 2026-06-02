@@ -4,11 +4,11 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M77.4975 83.9314C78.0391 85.0492 79.349 85.4727 80.4594 84.9395C93.4308 78.7098 97.0922 58.6003 98.0908 49.6657C98.3189 47.6245 100.495 46.343 102.261 47.3517C119.183 57.0188 137.3 75.9933 137.3 102.999C137.3 125.27 120.286 144.958 95.5591 144.958C86.7359 145.366 78.0304 142.779 70.8166 137.607C63.6027 132.435 58.2914 124.972 55.7209 116.397C53.1503 107.821 53.467 98.6206 56.6209 90.2478C59.275 83.2018 64.1382 76.3202 70.1134 71.5459C71.693 70.2838 73.9391 71.3274 74.3377 73.3256C74.9799 76.5453 76.0378 80.9182 77.4975 83.9314Z" fill="#D06F78"/>
 </g>
 <defs>
-<filter id="filter0_d_371_3020" x="54" y="47" width="88.9008" height="103.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_371_3020" x="54" y="47" width="90.3008" height="105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_371_3020"/>
