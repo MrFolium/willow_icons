@@ -5,15 +5,28 @@
     <category title="System Icons">
         </category>
     <category title="App Icons">
+        </category>
+    <category title="System Icons">
+        </category>
+    <category title="App Icons">
         <item drawable="app_2gis" />
+        <item drawable="app_action_launcher" />
         <item drawable="app_aegis" />
+        <item drawable="app_apex_launcher" />
+        <item drawable="app_arcticon" />
+        <item drawable="app_atto" />
+        <item drawable="app_before_launcher" />
         <item drawable="app_bitwarden" />
+        <item drawable="app_block_drop" />
         <item drawable="app_breezy_weather" />
         <item drawable="app_briar" />
         <item drawable="app_capcut" />
         <item drawable="app_chat_gpt" />
         <item drawable="app_claude" />
+        <item drawable="app_cuscon_icons" />
+        <item drawable="app_delta_icons" />
         <item drawable="app_discord" />
+        <item drawable="app_dollphone_icons" />
         <item drawable="app_doordash" />
         <item drawable="app_duolingo" />
         <item drawable="app_facebook" />
@@ -75,7 +88,11 @@
         <item drawable="app_google_youtube_studio" />
         <item drawable="app_google_ytmusic" />
         <item drawable="app_hios_launcher" />
+        <item drawable="app_huawei_appgallery" />
+        <item drawable="app_huawei_movie" />
         <item drawable="app_hyperion_launcher" />
+        <item drawable="app_i_y_bank" />
+        <item drawable="app_iconrequest" />
         <item drawable="app_imo" />
         <item drawable="app_instagram" />
         <item drawable="app_instagram_lite" />
@@ -83,6 +100,7 @@
         <item drawable="app_k9_mail" />
         <item drawable="app_kde_connect" />
         <item drawable="app_kiss_launcher" />
+        <item drawable="app_korona" />
         <item drawable="app_kvaesitso_launcher" />
         <item drawable="app_lawnchair_launcher" />
         <item drawable="app_lawnchair_launcher_settings" />
@@ -109,6 +127,7 @@
         <item drawable="app_microsoft_xbox" />
         <item drawable="app_multi_launcher" />
         <item drawable="app_murine_launcher" />
+        <item drawable="app_mygov" />
         <item drawable="app_nekogram" />
         <item drawable="app_netflix" />
         <item drawable="app_niagara_launcher" />
@@ -147,6 +166,8 @@
         <item drawable="app_tumblr" />
         <item drawable="app_twitch" />
         <item drawable="app_uber" />
+        <item drawable="app_ucell" />
+        <item drawable="app_uzum_market" />
         <item drawable="app_vanilla_calc" />
         <item drawable="app_viber" />
         <item drawable="app_vk" />

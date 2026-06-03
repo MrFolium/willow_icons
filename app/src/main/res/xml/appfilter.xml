@@ -520,6 +520,59 @@
   <!-- Yagni Launcher -->
   <item component="ComponentInfo{com.eblan.launcher/com.eblan.launcher.activity.main.MainActivity}" drawable="app_yagni_launcher" />
 
+  <!-- Action Launcher -->
+  <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="app_action_launcher" />
+
+  <!-- Apex Launcher -->
+  <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="app_apex_launcher" />
+
+  <!-- Huawei App Gallery -->
+  <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="app_huawei_appgallery" />
+
+  <!-- Arcticons -->
+  <item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}" drawable="app_arcticon" />
+
+  <!-- ATTO -->
+  <item component="ComponentInfo{uz.genesis.asop/uz.genesis.asop.MainIcon}" drawable="app_atto" />
+
+  <!-- Before Launcher -->
+  <item component="ComponentInfo{com.beforesoft.launcher/com.beforesoftware.launcher.activities.LauncherActivity}" drawable="app_before_launcher" />
+
+  <!-- Block Drop -->
+  <item component="ComponentInfo{com.blockdrop.game/com.blockdrop.game.MainActivity}" drawable="app_block_drop" />
+
+  <!-- Delta Icons -->
+  <item component="ComponentInfo{website.leifs.delta.foss/website.leifs.delta.activities.MainActivity}" drawable="app_delta_icons" />
+
+  <!-- Dollphone Icons -->
+  <item component="ComponentInfo{me.x2gd4.dollphone/me.x2gd4.dollphone.activities.MainActivity}" drawable="app_dollphone_icons" />
+
+  <!-- Huawei Movie -->
+  <item component="ComponentInfo{com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity}" drawable="app_huawei_movie" />
+
+  <!-- IconRequest -->
+  <item component="ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}" drawable="app_iconrequest" />
+
+  <!-- I.Y. Bank -->
+  <item component="ComponentInfo{com.ipakyulibank.mobile/com.ipakyulibank.mobile.LauncherDefault}" drawable="app_i_y_bank" />
+
+  <!-- Korona -->
+  <item component="ComponentInfo{ru.tsk.ftc.bender.qpay/ru.ftc.qpay.app.hub.ui.HubActivity}" drawable="app_korona" />
+
+  <!-- MyGov -->
+  <item component="ComponentInfo{uz.uzinfocom.mygov/uz.uzinfocom.mygov.MainActivity}" drawable="app_mygov" />
+
+  <!-- Ucell -->
+  <item component="ComponentInfo{uz.ucell.ucellmobile/uz.ucell.app_ui.ui.splash.SplashScreenActivity}" drawable="app_ucell" />
+
+  <!-- Uzum Market -->
+  <item component="ComponentInfo{uz.uzum.app/ru.kazanexpress.feature.splash.presentation.SplashScreenActivity}" drawable="app_uzum_market" />
+
+  <!-- Cuscon Icons -->
+  <item component="ComponentInfo{com.froxot.cuscon.foss/com.froxot.cuscon.activities.MainActivity}" drawable="app_cuscon_icons" />
+  
+  
+
   <!-- LibreTube -->
     <item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="app_libretube" />
     <item component="ComponentInfo{com.github.libretube/com.github.libretube.DefaultLight}" drawable="app_libretube" />
