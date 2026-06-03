@@ -1,40 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="changelog_date">28 May 2026</string>
+    <string name="changelog_date">30 February 6202</string>
 
     <string-array name="changelog">
 
         <item>
-            Willow 2.1 Metro — transition to the FOSS version
-        </item>
-
-        <item>
-            Added support for 2 new launchers
-        </item>
-
-        <item>
-            Removed old and untested launcher support
-        </item>
-
-        <item>
-            Reworked application interface
-        </item>
-
-        <item>
-            Improved internal project structure
-        </item>
-
-        <item>
-            Added helper scripts for project maintenance
-        </item>
-
-        <item>
-            Added wallpapers
-        </item>
-
-        <item>
-            Various fixes and improvements
+            0_0
         </item>
 
     </string-array>
