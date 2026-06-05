@@ -48,7 +48,7 @@ All icons must use the official Willow color palette.
 * Keep the visual style soft and balanced
 
 
-| Color | Primary | Dark |
+| Color | Light | Dark |
 |---------|---------|---------|
 | Blue | $\textcolor{#5F97C9}{\textsf{⬤}}$ `#5F97C9` | $\textcolor{#3F79AD}{\textsf{⬤}}$ `#3F79AD` |
 | Indigo | $\textcolor{#6F7FC0}{\textsf{⬤}}$ `#6F7FC0` | $\textcolor{#4F5F9F}{\textsf{⬤}}$ `#4F5F9F` |
@@ -62,7 +62,8 @@ All icons must use the official Willow color palette.
 | Pink | $\textcolor{#C07FA0}{\textsf{⬤}}$ `#C07FA0` | $\textcolor{#9F5F7F}{\textsf{⬤}}$ `#9F5F7F` |
 | Brown | $\textcolor{#9F897A}{\textsf{⬤}}$ `#9F897A` | $\textcolor{#7F6B5D}{\textsf{⬤}}$ `#7F6B5D` |
 | Gray | $\textcolor{#8A8F98}{\textsf{⬤}}$ `#8A8F98` | $\textcolor{#6B7078}{\textsf{⬤}}$ `#6B7078` |
-| Neutral | $\textcolor{#F4F5F7}{\textsf{⬤}}$ `#F4F5F7` | $\textcolor{#32363B}{\textsf{⬤}}$ `#32363B` |
+| White | $\textcolor{#F4F5F7}{\textsf{⬤}}$ `#F4F5F7` | $\textcolor{#C2C8D0}{\textsf{⬤}}$ `#C2C8D0` |
+| Black | $\textcolor{#4B5158}{\textsf{⬤}}$ `#4B5158` | $\textcolor{#32363B}{\textsf{⬤}}$ `#32363B` |
 
 
 ---
