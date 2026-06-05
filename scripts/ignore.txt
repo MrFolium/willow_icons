@@ -1,2 +1,4 @@
 ic_splash_screen
 nav_head
+app_mindustry_2
+app_theo_town_2

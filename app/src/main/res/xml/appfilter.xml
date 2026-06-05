@@ -570,8 +570,36 @@
 
   <!-- Cuscon Icons -->
   <item component="ComponentInfo{com.froxot.cuscon.foss/com.froxot.cuscon.activities.MainActivity}" drawable="app_cuscon_icons" />
+
+  <!-- Mindustry -->
+  <item component="ComponentInfo{io.anuke.mindustry/mindustry.android.AndroidLauncher}" drawable="app_mindustry" />
+
+  <!-- OpenTune -->
+  <item component="ComponentInfo{com.Arturo254.opentune/com.arturo254.opentune.MainActivity}" drawable="app_opentune" />
+
+  <!-- Papirus Icon Pack -->
+  <item component="ComponentInfo{io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity}" drawable="app_papirus_icons" />
   
-  
+  <!-- TheoTown -->
+  <item component="ComponentInfo{info.flowersoft.theotown.theotown/info.flowersoft.theotown.theotown.MainActivity}" drawable="app_theo_town" />
+
+  <!-- Steam -->
+  <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}" drawable="app_steam" />
+
+  <!-- Lunar Launcher -->
+  <item component="ComponentInfo{rasel.lunar.launcher/rasel.lunar.launcher.LauncherActivity}" drawable="app_lunar_launcher" />	
+
+  <!-- System Defender -->
+  <item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="sys_defender" />
+
+  <!-- System Games -->
+  <item component="ComponentInfo{com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity}" drawable="sys_games" />
+
+  <!-- System Health -->
+  <item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="sys_health" />
+
+  <!-- System Support -->
+  <item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity}" drawable="sys_support" />
 
   <!-- LibreTube -->
     <item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="app_libretube" />
