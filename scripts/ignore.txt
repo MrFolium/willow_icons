@@ -2,3 +2,7 @@ ic_splash_screen
 nav_head
 app_mindustry_2
 app_theo_town_2
+app_folder_launcher_1
+app_wb_taxi_1
+app_wb_taxi_2
+app_wb_taxi_3

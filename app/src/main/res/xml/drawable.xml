@@ -17,6 +17,10 @@
     <category title="System Icons">
         </category>
     <category title="App Icons">
+        </category>
+    <category title="System Icons">
+        </category>
+    <category title="App Icons">
         <item drawable="app_2gis" />
         <item drawable="app_action_launcher" />
         <item drawable="app_aegis" />
@@ -34,15 +38,20 @@
         <item drawable="app_cuscon_icons" />
         <item drawable="app_delta_icons" />
         <item drawable="app_discord" />
+        <item drawable="app_discreet_launcher" />
         <item drawable="app_dollphone_icons" />
         <item drawable="app_doordash" />
         <item drawable="app_duolingo" />
+        <item drawable="app_easter_eggs" />
         <item drawable="app_facebook" />
         <item drawable="app_facebook_lite" />
         <item drawable="app_fdroid" />
         <item drawable="app_figma" />
         <item drawable="app_firefox" />
         <item drawable="app_firefox_focus" />
+        <item drawable="app_folder_launcher" />
+        <item drawable="app_fossify_launcher" />
+        <item drawable="app_fossify_keyboard" />
         <item drawable="app_github" />
         <item drawable="app_google_ads" />
         <item drawable="app_google_app" />
@@ -83,6 +92,7 @@
         <item drawable="app_google_play_books" />
         <item drawable="app_google_play_games" />
         <item drawable="app_google_play_market" />
+        <item drawable="app_google_play_music" />
         <item drawable="app_google_play_services" />
         <item drawable="app_google_sheets" />
         <item drawable="app_google_slides" />
@@ -114,6 +124,7 @@
         <item drawable="app_lawnchair_launcher_settings" />
         <item drawable="app_libretube" />
         <item drawable="app_linkedin" />
+        <item drawable="app_lucid_launcher" />
         <item drawable="app_lunar_launcher" />
         <item drawable="app_meta_business_suite" />
         <item drawable="app_meta_messenger" />
@@ -135,9 +146,11 @@
         <item drawable="app_microsoft_word" />
         <item drawable="app_microsoft_xbox" />
         <item drawable="app_mindustry" />
+        <item drawable="app_minesweeper" />
         <item drawable="app_multi_launcher" />
         <item drawable="app_murine_launcher" />
         <item drawable="app_mygov" />
+        <item drawable="app_myid" />
         <item drawable="app_nekogram" />
         <item drawable="app_netflix" />
         <item drawable="app_niagara_launcher" />
@@ -147,6 +160,7 @@
         <item drawable="app_opentune" />
         <item drawable="app_ozon" />
         <item drawable="app_papirus_icons" />
+        <item drawable="app_pie_launcher" />
         <item drawable="app_pinterest" />
         <item drawable="app_poco_launcher" />
         <item drawable="app_projectivy_launcher" />
@@ -159,12 +173,14 @@
         <item drawable="app_proton_pass" />
         <item drawable="app_proton_vpn" />
         <item drawable="app_proton_wallet" />
+        <item drawable="app_qwatt" />
         <item drawable="app_readera" />
         <item drawable="app_reddit" />
         <item drawable="app_samsung_good_lock" />
         <item drawable="app_samsung_theme_park" />
         <item drawable="app_shazam" />
         <item drawable="app_signal" />
+        <item drawable="app_simpmusic" />
         <item drawable="app_smart_launcher" />
         <item drawable="app_snapchat" />
         <item drawable="app_soundcloud" />
@@ -181,11 +197,13 @@
         <item drawable="app_twitch" />
         <item drawable="app_uber" />
         <item drawable="app_ucell" />
+        <item drawable="app_uklon" />
         <item drawable="app_uzum_market" />
         <item drawable="app_vanilla_calc" />
         <item drawable="app_viber" />
         <item drawable="app_vk" />
         <item drawable="app_vlc" />
+        <item drawable="app_wb_taxi" />
         <item drawable="app_whatsapp" />
         <item drawable="app_whatsapp_business" />
         <item drawable="app_wildberries" />
@@ -228,12 +246,14 @@
         <item drawable="sys_mail" />
         <item drawable="sys_messages" />
         <item drawable="sys_music" />
+        <item drawable="sys_notes" />
         <item drawable="sys_phone" />
         <item drawable="sys_remote" />
         <item drawable="sys_settings" />
         <item drawable="sys_sim_menu" />
         <item drawable="sys_support" />
         <item drawable="sys_themes" />
+        <item drawable="sys_update" />
         <item drawable="sys_weather" />
     </category>
 </resources>

@@ -589,6 +589,54 @@
   <!-- Lunar Launcher -->
   <item component="ComponentInfo{rasel.lunar.launcher/rasel.lunar.launcher.LauncherActivity}" drawable="app_lunar_launcher" />	
 
+  <!-- Discreet Launcher -->
+  <item component="ComponentInfo{com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}" drawable="app_discreet_launcher" />
+
+  <!-- Easter Eggs -->
+  <item component="ComponentInfo{com.dede.android_eggs/com.dede.android_eggs.views.main.EasterEggsActivity}" drawable="app_easter_eggs" />
+
+  <!-- Folder Launcher -->
+  <item component="ComponentInfo{me.robbyblue.mylauncher/me.robbyblue.mylauncher.MainActivity}" drawable="app_folder_launcher" />
+
+  <!-- Fossify Launcher -->
+  <item component="ComponentInfo{org.fossify.home/org.fossify.home.activities.SplashActivity.Green}" drawable="app_fossify_launcher" />
+
+  <!-- Fossify Keyboard -->
+  <item component="ComponentInfo{org.fossify.keyboard/org.fossify.keyboard.activities.SplashActivity.Green}" drawable="app_fossify_keyboard" />
+
+  <!-- Google Play Music -->
+  <item component="ComponentInfo{com.google.android.music/com.google.android.music.tombstone.LauncherActivity}" drawable="app_google_play_music" />
+
+  <!-- Lucid Launcher -->
+  <item component="ComponentInfo{com.powerpoint45.launcher/com.powerpoint45.launcherpro.MainActivity}" drawable="app_lucid_launcher" />
+
+  <!-- Minesweeper -->
+  <item component="ComponentInfo{ee.dustland.android.minesweeper/ee.dustland.android.minesweeper.MinesweeperHostActivity}" drawable="app_minesweeper" />
+
+  <!-- MyID O'zbekiston -->
+  <item component="ComponentInfo{uz.uzinfocom.myid/uz.uzinfocom.myid.MyIdActivity}" drawable="app_myid" />
+
+  <!-- Pie Launcher -->
+  <item component="ComponentInfo{de.markusfisch.android.pielauncher/de.markusfisch.android.pielauncher.activity.HomeActivity}" drawable="app_pie_launcher" />
+
+  <!-- q.watt -->
+  <item component="ComponentInfo{com.q.watt/com.q.watt.MainActivity}" drawable="app_qwatt" />
+
+  <!-- SimpMusic -->
+  <item component="ComponentInfo{com.maxrave.simpmusic/com.maxrave.simpmusic.MainActivity}" drawable="app_simpmusic" />
+
+  <!-- Uklon -->
+  <item component="ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Initial}" drawable="app_uklon" />
+
+  <!-- WB Taxi -->
+  <item component="ComponentInfo{uz.wildberries.taxi.client/com.citymobil.ui.SplashActivity}" drawable="app_wb_taxi" />
+
+  <!-- Notes -->
+  <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="sys_notes" />
+
+  <!-- System Update -->
+  <item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="sys_update" />
+
   <!-- System Defender -->
   <item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="sys_defender" />
 
