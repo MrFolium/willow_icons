@@ -634,6 +634,51 @@
   <!-- Notes -->
   <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="sys_notes" />
 
+  <!-- Popcons Icons -->
+  <item component="ComponentInfo{com.wil.popcons/com.wil.popcons.activities.MainActivity}" drawable="app_popcons_icons" />
+
+  <!-- Fossify Gallery -->
+  <item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green}" drawable="app_fossify_gallery" />
+  
+  <!-- Fossify Dictaphone -->
+  <item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Green}" drawable="app_fossify_dictaphone" />
+
+  <!-- Fossify Notes -->
+  <item component="ComponentInfo{org.fossify.notes/org.fossify.notes.activities.SplashActivity.Green}" drawable="app_fossify_notes" />
+
+  <!-- Fossify Calendar  -->
+  <item component="ComponentInfo{org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green}" drawable="app_fossify_calendar" />
+  
+  <!-- Fossify Calculator -->
+  <item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Green}" drawable="app_fossify_calculator" />
+
+  <!-- Fossify Camera -->
+  <item component="ComponentInfo{org.fossify.camera/org.fossify.camera.activities.SplashActivity.Green}" drawable="app_fossify_camera" />
+
+  <!-- Fossify Contacts -->
+  <item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Green}" drawable="app_fossify_contacts" />
+  
+  <!-- Fossify Folder -->
+  <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green}" drawable="app_fossify_folder" />
+
+  <!-- Fossify Music -->
+  <item component="ComponentInfo{org.fossify.musicplayer/org.fossify.musicplayer.activities.SplashActivity.Green}" drawable="app_fossify_music" />
+
+  <!-- Fossify Paint -->
+  <item component="ComponentInfo{org.fossify.paint/org.fossify.paint.activities.SplashActivity.Green}" drawable="app_fossify_paint" />
+
+  <!-- Fossify Messages -->
+  <item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Green}" drawable="app_fossify_messages" />
+
+  <!-- Fossify Thank You -->
+  <item component="ComponentInfo{org.fossify.thankyou/org.fossify.thankyou.activities.SplashActivity.Green}" drawable="app_fossify_thank" />
+
+  <!-- Fossify Phone -->
+  <item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Green}" drawable="app_fossify_phone" />
+
+  <!-- Fossify Clock -->
+  <item component="ComponentInfo{org.fossify.clock/org.fossify.clock.activities.SplashActivity.Green}" drawable="app_fossify_clock" />
+
   <!-- System Update -->
   <item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="sys_update" />
 
