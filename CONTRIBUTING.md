@@ -21,18 +21,43 @@ Contributions of all kinds are welcome, whether icons, code, documentation, or i
 # Icon Design Rules
 
 ## Base Shape System
+
 ![base shape system](resources/preview/base_shape_system.png)
+
 All icons in Willow Icons use the same base shape system.
 
 ### Required Parameters
 
-* Icon size: **168×168 px**
+* Base shape size: **168×168 px**
 * Corner radius: **42 px**
 * Canvas size: **192×192 px**
 * Padding: **12 px** on each side
-* Icons must be centered on the canvas
+* Base shapes must be centered on the canvas
 
-The outer silhouette must remain visually consistent across the entire icon pack.
+The base shape silhouette must remain visually consistent across the entire icon pack.
+
+---
+
+## Glyph Templates
+
+![glyph templates](resources/preview/glyph_templates.png)
+
+To maintain consistent visual weight between icons, foreground objects should follow the standard glyph templates whenever possible.
+
+### Standard Templates
+
+* Square: **98×98 px**
+* Circle: **108×108 px**
+* Horizontal Rectangle: **112×56 px**
+
+### Guidelines
+
+* Glyphs should be centered within the base shape.
+* The templates are visual references intended to maintain optical balance.
+* Minor adjustments are allowed when necessary to improve recognizability or composition.
+* Complex logos may deviate from the templates when strict adherence would negatively affect the design.
+* When in doubt, prioritize visual consistency over mathematical scaling.
+
 
 ---
 
