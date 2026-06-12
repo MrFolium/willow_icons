@@ -6,3 +6,17 @@ app_folder_launcher_1
 app_wb_taxi_1
 app_wb_taxi_2
 app_wb_taxi_3
+app_fossify_calculator_1
+app_fossify_calendar_1
+app_fossify_camera_1
+app_fossify_clock_1
+app_fossify_contacts_1
+app_fossify_dictaphone_1
+app_fossify_folder_1
+app_fossify_gallery_1
+app_fossify_messages_1
+app_fossify_music_1
+app_fossify_notes_1
+app_fossify_paint_1
+app_fossify_phone_1
+app_fossify_thank_1
