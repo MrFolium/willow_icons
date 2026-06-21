@@ -86,7 +86,7 @@
     <bool name="enable_donation">false</bool>
 
     <string name="config_json"></string>
-    <bool name="show_intro">true</bool>
+    <bool name="show_intro">false</bool>
     <bool name="enable_in_app_review">false</bool>
     <integer name="in_app_review_visit_time">30</integer>
     <integer name="in_app_review_after_visits">2</integer>
