@@ -679,6 +679,71 @@
   <!-- Fossify Clock -->
   <item component="ComponentInfo{org.fossify.clock/org.fossify.clock.activities.SplashActivity.Green}" drawable="app_fossify_clock" />
 
+  <!-- Alfa Bank -->
+  <item component="ComponentInfo{ua.alfabank.mobile.android/ua.alfabank.mobile.android.auth.presentation.activity.FeatureAuthActivity}" drawable="app_alfa_bank" />
+
+  <!-- Aliexpress -->app_aliexpress
+  	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.SplashActivity}" drawable="app_aliexpress" />
+	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity}" drawable="app_aliexpress" />
+	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.MainActivity}" drawable="app_aliexpress" />
+	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.SplashActivity}" drawable="app_aliexpress" />
+	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}" drawable="app_aliexpress" />
+	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.module.home.MainActivity}" drawable="app_aliexpress" />
+
+  <!-- DeepSeek -->
+  <item component="ComponentInfo{com.deepseek.chat/com.deepseek.chat.MainActivity}" drawable="app_deepseek" />
+
+  <!-- Gos Uslugi -->
+    <item component="ComponentInfo{ru.rostel/rt.gosuslugi.client.droid.views.SplashScreen}" drawable="app_gosuslugi" />
+	<item component="ComponentInfo{ru.rostel/ru.minsvyaz.coreproject.LauncherActivity}" drawable="app_gosuslugi" />
+	<item component="ComponentInfo{ru.rostel/ru.minsvyaz.coreproject.MainActivity}" drawable="app_gosuslugi" />
+	<item component="ComponentInfo{ru.rostel/ru.minsvyaz.coreproject.SplashScreenActivity}" drawable="app_gosuslugi" />
+
+  <!-- Magnit -->
+  	<item component="ComponentInfo{ru.tander.magnit/ru.tander.magnit.presentation.MainActivity}" drawable="app_magnit" />
+
+  <!-- Mail Ru -->
+    <item component="ComponentInfo{ru.mail.mailapp/ru.mail.gamification.alias.MailLauncherAlias}" drawable="app_mail_ru" />
+
+  <!-- Megaphone -->
+    <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.ui.activities.ActivityMain}" drawable="app_megaphone" />
+
+  <!-- Mir Pay -->
+  	<item component="ComponentInfo{ru.nspk.mirpay/ru.nspk.mirpay.b34rqwEd1vSkvA}" drawable="app_mir_pay" />
+	<item component="ComponentInfo{ru.nspk.mirpay/ru.nspk.mirpay.olcDxABqhyieE}" drawable="app_mir_pay" />
+
+  <!-- Mts -->
+  	<item component="ComponentInfo{ru.mts.mymts/ru.mts.splash.ActivitySplash}" drawable="app_mts" />
+
+  <!-- OkRu -->
+  	<item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="app_ok_ru" />
+
+  <!-- Pyaterochka -->
+  	<item component="ComponentInfo{pyaterochka.app/pyaterochka.app.main.base.presentation.MainActivity}" drawable="app_pyaterochka" />
+
+  <!-- Sper Bank -->
+  	<item component="ComponentInfo{ru.sberbankmobile/ru.sberbank.mobile.auth.presentation.splash.SplashActivity}" drawable="app_sber_bank" />
+	<item component="ComponentInfo{ru.sberbankmobile/ru.sberbankmobile.SplashActivity}" drawable="app_sber_bank" />
+	<item component="ComponentInfo{ru.sberbankmobile/ru.sberbankmobile.section.authorization.AuthorizationActivity}" drawable="app_sber_bank" />
+
+
+  <!-- T Bank -->
+  	<item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.feature.splash.bank.ui.presentation.BankSplashActivity}" drawable="app_t_bank" />
+	<item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.ui.splash.SplashActivity}" drawable="app_t_bank" />
+
+  <!-- Vk Video -->
+  	<item component="ComponentInfo{com.vk.vkvideo/com.vk.video.screens.main.MainActivity}" drawable="app_vk_video" />
+
+  <!-- VTB Bank -->
+  	<item component="ComponentInfo{ru.vtb24.mobilebanking.android/ru.vtb24.mobilebanking.android.gui.activity.LoadingScreenActivity}" drawable="app_vtb_bank" />
+	<item component="ComponentInfo{ru.vtb24.mobilebanking.android/ru.vtb.feature.signup.impl.loading.presentation.view.LoadingScreenActivity}" drawable="app_vtb_bank" />
+
+  <!-- Yandex Pay -->
+  	<item component="ComponentInfo{com.yandex.bank/com.yandex.bank.screens.MainActivity}" drawable="app_yandex_pay" />
+
+  <!-- Yoo Money -->
+  	<item component="ComponentInfo{ru.yoo.kassa/ru.yoo.kassa.rootScreen.view.RootActivity}" drawable="app_yoo_money" />
+
   <!-- System Update -->
   <item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="sys_update" />
 
