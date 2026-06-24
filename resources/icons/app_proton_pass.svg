@@ -1,13 +1,13 @@
 <svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="12" y="12" width="168" height="168" rx="42" fill="#32363B"/>
 <g filter="url(#filter0_d_370_2926)">
-<rect width="78.8794" height="79.0998" rx="15.4" transform="matrix(0.707114 0.7071 -0.707114 0.7071 96.0879 40.1567)" fill="#8A78C8"/>
+<rect width="77.6584" height="77.8758" rx="15.4" transform="matrix(0.707114 0.7071 -0.707114 0.7071 96.1523 41.0198)" fill="#8A78C8"/>
 </g>
 <g filter="url(#filter1_d_370_2926)">
-<path d="M77.176 58.7572C81.5499 54.3833 88.6415 54.3833 93.0154 58.7572L122.226 87.9675C126.6 92.3414 126.6 99.4327 122.226 103.807L93.1269 132.905C88.753 137.279 81.6615 137.279 77.2876 132.905L51.0465 106.665C45.0324 100.651 45.0324 90.9002 51.0465 84.8862L77.176 58.7572Z" fill="#4F5F9F"/>
+<path d="M77.4104 59.4552C81.7843 55.0813 88.8758 55.0813 93.2497 59.4552L121.763 87.9682C126.137 92.342 126.137 99.4334 121.763 103.807L93.3593 132.211C88.9854 136.585 81.8939 136.585 77.52 132.211L51.9763 106.667C45.9622 100.653 45.9622 90.9028 51.9763 84.8888L77.4104 59.4552Z" fill="#4F5F9F"/>
 </g>
 <defs>
-<filter id="filter0_d_370_2926" x="46.5352" y="46.5356" width="105.951" height="105.949" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_370_2926" x="47.4648" y="47.3987" width="104.223" height="104.22" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="4" dy="4"/>
@@ -17,7 +17,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2926"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_370_2926" result="shape"/>
 </filter>
-<filter id="filter1_d_370_2926" x="46.5352" y="55.4768" width="85.9707" height="87.709" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_d_370_2926" x="47.4648" y="56.1748" width="84.5781" height="86.3162" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="4" dy="4"/>
