@@ -835,8 +835,87 @@
     
   <!-- Bump -->
     <item component="ComponentInfo{co.amo.android.location/co.amo.location.Launch}" drawable="app_bump" />
-  
 
+  <!-- 21 Vek -->
+  <item component="ComponentInfo{com.twentyonevek/com.twentyonevek.MainActivity}" drawable="app_21vek" />
+
+  <!-- Activ -->
+  <item component="ComponentInfo{com.kcell.myactiv/com.alabs.kcell.presentation.launcher.LauncherActivity}" drawable="app_activ" />
+
+  <!-- Click -->
+  <item component="ComponentInfo{air.com.ssdsoftwaresolutions.clickuz/uz.click.evo.ui.mainrouter.MainRouterActivity}" drawable="app_click" />
+
+  <!-- EGov Kz -->
+  <item component="ComponentInfo{kz.mobile.mgov/kz.mobile.mgov.features.splash.SplashActivity}" drawable="app_egov_kz" />
+
+  <!-- Eleven -->
+  <item component="ComponentInfo{by.eleven.scooters/io.goeleven.client.ui.MainActivity}" drawable="app_eleven" />
+
+  <!-- Forte Bank -->
+  <item component="ComponentInfo{kz.forte.bank/com.forte.ForteSingleActivity}" drawable="app_forte_bank" />
+
+  <!-- Halyk Bank -->
+  <item component="ComponentInfo{kz.kkb.homebank/kz.beemobile.homebank.ui.splash.SplashActivity}" drawable="app_halyk_bank" />
+
+  <!-- Hambi -->
+  <item component="ComponentInfo{uz.beeline.odp/uz.beeline.odp.MainActivity}" drawable="app_hambi" />
+
+  <!-- Hamkor Bank -->
+  <item component="ComponentInfo{com.hamkorbank.mobile/com.hamkorbank.mobile.MainActivity}" drawable="app_hamkor_bank" />
+
+  <!-- In Drive -->
+  <item component="ComponentInfo{sinet.startup.inDriver/sinet.startup.inDriver.ui.splash.SplashActivity}" drawable="app_in_drive" />
+
+  <!-- Kaspi -->
+    <item component="ComponentInfo{hr.asseco.android.kaspibusiness/kz.kaspibusiness.view.ui.auth.splash.SplashActivity}" drawable="app_kaspi" />
+    <item component="ComponentInfo{kz.kaspi.mobile/kz.kaspi.mobile.activity.KaspiKzActivity}" drawable="app_kaspi" />
+  
+  <!-- Kolesa -->
+  <item component="ComponentInfo{kz.kolesa/kz.kolesa.main.MainActivity}" drawable="app_kolesa" />
+
+  <!-- Krisha -->
+  <item component="ComponentInfo{kz.krisha/kz.krisha.main.presentation.views.ActivityMain}" drawable="app_krisha" />
+
+  <!-- One ID -->
+  <item component="ComponentInfo{uz.egov.oneId/uz.mits.oneid.one_id_mobile.MainActivity}" drawable="app_one_id" />
+
+  <!-- TBC Bank -->
+    <item component="ComponentInfo{com.icomvision.bsc.tbc/ge.tbc.bank.features.authentication.presentation.LoginActivity}" drawable="app_tbc_bank" />
+    <item component="ComponentInfo{ge.space.app.uzbekistan/com.space.app.activity.ui.SPApplicationActivity}" drawable="app_tbc_bank" />
+
+  <!-- Alif -->
+  <item component="ComponentInfo{tj.alif.mobi/tj.alif.mobi.home.HomeActivity}" drawable="app_alif" />
+
+  <!-- Bir Bir -->
+  <item component="ComponentInfo{uz.birbir.app/uz.birbir.app.MainActivity}" drawable="app_bir_bir" />
+
+  <!-- M Belarus Bank -->
+  <item component="ComponentInfo{com.mobicon.mbank2.belarusbank/com.mobicon.mbank2.client.android.GENERAL}" drawable="app_m_belarus_bank" />
+
+  <!-- Payme -->
+  <item component="ComponentInfo{uz.dida.payme/uz.dida.payme.ui.activities.splash.SplashActivity}" drawable="app_payme" />
+
+  <!-- Paynet -->
+  <item component="ComponentInfo{uz.paynet.app/uz.paynet.app.MainActivity}" drawable="app_paynet" />
+
+  <!-- Solik -->
+  <item component="ComponentInfo{uz.soliq.mobile/uz.soliq.mobile.MainActivity}" drawable="app_solik" />
+
+  <!-- Uzum Bank -->
+  <item component="ComponentInfo{uz.kapitalbank.android/uz.kapitalbank.android.new_version.ui.RootActivity}" drawable="app_uzum_bank" />
+
+  <!-- Xazna -->
+  <item component="ComponentInfo{uz.tune.xazna/uz.tune.xazna.ui.activity.main.MainActivity}" drawable="app_xazna" />
+
+  <!-- Iskra Bank -->
+  <item component="ComponentInfo{com.iskra.mobile/com.iskra.mobile.main.activity.MainActivity}" drawable="app_iskra_bank" />
+
+  <!-- MTS Belarus -->
+  <item component="ComponentInfo{by.mts.client/by.mts.client.MainActivity}" drawable="app_mts_belarus" />
+
+  <!-- Freedom Bank -->
+  <item component="ComponentInfo{ffinbank.MyFreedom/ffinbank.app.activity.MyFreedom}" drawable="app_freedom_bank" />	
+  
 
   <!-- Weather -->
     <item component="ComponentInfo{com.amazon.weather/com.amazon.weather.WeatherTabletActivity}" drawable="sys_weather"/>
