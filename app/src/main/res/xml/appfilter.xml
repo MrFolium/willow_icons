@@ -700,28 +700,28 @@
 	<item component="ComponentInfo{ru.rostel/ru.minsvyaz.coreproject.SplashScreenActivity}" drawable="app_gosuslugi" />
 
   <!-- Magnit -->
-  	<item component="ComponentInfo{ru.tander.magnit/ru.tander.magnit.presentation.MainActivity}" drawable="app_magnit" />
+  <item component="ComponentInfo{ru.tander.magnit/ru.tander.magnit.presentation.MainActivity}" drawable="app_magnit" />
 
   <!-- Mail Ru -->
-    <item component="ComponentInfo{ru.mail.mailapp/ru.mail.gamification.alias.MailLauncherAlias}" drawable="app_mail_ru" />
+  <item component="ComponentInfo{ru.mail.mailapp/ru.mail.gamification.alias.MailLauncherAlias}" drawable="app_mail_ru" />
 
   <!-- Megaphone -->
-    <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.ui.activities.ActivityMain}" drawable="app_megaphone" />
+  <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.ui.activities.ActivityMain}" drawable="app_megaphone" />
 
   <!-- Mir Pay -->
   	<item component="ComponentInfo{ru.nspk.mirpay/ru.nspk.mirpay.b34rqwEd1vSkvA}" drawable="app_mir_pay" />
 	<item component="ComponentInfo{ru.nspk.mirpay/ru.nspk.mirpay.olcDxABqhyieE}" drawable="app_mir_pay" />
 
   <!-- Mts -->
-  	<item component="ComponentInfo{ru.mts.mymts/ru.mts.splash.ActivitySplash}" drawable="app_mts" />
+  <item component="ComponentInfo{ru.mts.mymts/ru.mts.splash.ActivitySplash}" drawable="app_mts" />
 
   <!-- OkRu -->
-  	<item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="app_ok_ru" />
+  <item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="app_ok_ru" />
 
   <!-- Pyaterochka -->
-  	<item component="ComponentInfo{pyaterochka.app/pyaterochka.app.main.base.presentation.MainActivity}" drawable="app_pyaterochka" />
+  <item component="ComponentInfo{pyaterochka.app/pyaterochka.app.main.base.presentation.MainActivity}" drawable="app_pyaterochka" />
 
-  <!-- Sper Bank -->
+  <!-- Sber Bank -->
   	<item component="ComponentInfo{ru.sberbankmobile/ru.sberbank.mobile.auth.presentation.splash.SplashActivity}" drawable="app_sber_bank" />
 	<item component="ComponentInfo{ru.sberbankmobile/ru.sberbankmobile.SplashActivity}" drawable="app_sber_bank" />
 	<item component="ComponentInfo{ru.sberbankmobile/ru.sberbankmobile.section.authorization.AuthorizationActivity}" drawable="app_sber_bank" />
@@ -732,7 +732,7 @@
 	<item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.ui.splash.SplashActivity}" drawable="app_t_bank" />
 
   <!-- Vk Video -->
-  	<item component="ComponentInfo{com.vk.vkvideo/com.vk.video.screens.main.MainActivity}" drawable="app_vk_video" />
+  <item component="ComponentInfo{com.vk.vkvideo/com.vk.video.screens.main.MainActivity}" drawable="app_vk_video" />
 
   <!-- VTB Bank -->
   	<item component="ComponentInfo{ru.vtb24.mobilebanking.android/ru.vtb24.mobilebanking.android.gui.activity.LoadingScreenActivity}" drawable="app_vtb_bank" />
@@ -788,32 +788,32 @@
   	<item component="ComponentInfo{com.google.android.gms/com.google.android.gms.auth.uiflows.addaccount.AccountIntroActivity}" drawable="app_google_play_services" />
   
   <!-- A Bank -->
-    <item component="ComponentInfo{ua.com.abank/ua.com.abank.core.modules.authorization.AuthorizationActivity}" drawable="app_a_bank" />
+  <item component="ComponentInfo{ua.com.abank/ua.com.abank.core.modules.authorization.AuthorizationActivity}" drawable="app_a_bank" />
 
   <!-- ATB Market -->
-    <item component="ComponentInfo{com.atb.atbmarket/com.atb.atbmarket.MainActivity}" drawable="app_atb_market" />
+  <item component="ComponentInfo{com.atb.atbmarket/com.atb.atbmarket.MainActivity}" drawable="app_atb_market" />
 
   <!-- Diia -->
-    <item component="ComponentInfo{ua.gov.diia.app/ua.gov.diia.app.ui.activities.VendorActivity}" drawable="app_diia" />
+  <item component="ComponentInfo{ua.gov.diia.app/ua.gov.diia.app.ui.activities.VendorActivity}" drawable="app_diia" />
 
   <!-- Mono Bank -->
-    <item component="ComponentInfo{com.ftband.mono/com.ftband.app.StartActivity}" drawable="app_mono_bank" />
+  <item component="ComponentInfo{com.ftband.mono/com.ftband.app.StartActivity}" drawable="app_mono_bank" />
 
   <!-- My Kyivstar -->
-    <item component="ComponentInfo{com.kyivstar.mykyivstar/com.kyivstar.mykyivstar.MainActivity}" drawable="app_mykyivstar" />
+  <item component="ComponentInfo{com.kyivstar.mykyivstar/com.kyivstar.mykyivstar.MainActivity}" drawable="app_mykyivstar" />
 
   <!-- Nova Post -->
-    <item component="ComponentInfo{eu.novapost/eu.novaposhta.ui.main.MainActivity}" drawable="app_nova_post" />
+  <item component="ComponentInfo{eu.novapost/eu.novaposhta.ui.main.MainActivity}" drawable="app_nova_post" />
 
   <!-- Olx -->
     <item component="ComponentInfo{com.torg.torg/pl.tablica2.app.startup.activity.StartupActivity}" drawable="app_olx" />
 	<item component="ComponentInfo{ua.slando/pl.tablica2.app.startup.activity.StartupActivity}" drawable="app_olx" />
 	
   <!-- Privat Bank -->
-    <item component="ComponentInfo{ua.privatbank.ap24/ua.privatbank.ap24v6.LauncherAliasDefault}" drawable="app_privat_bank" />
+  <item component="ComponentInfo{ua.privatbank.ap24/ua.privatbank.ap24v6.LauncherAliasDefault}" drawable="app_privat_bank" />
     
   <!-- Prom -->
-    <item component="ComponentInfo{ua.prom.b2c/ua.prom.b2c.feature.splash.presentation.SplashActivity}" drawable="app_prom" />
+  <item component="ComponentInfo{ua.prom.b2c/ua.prom.b2c.feature.splash.presentation.SplashActivity}" drawable="app_prom" />
 
   <!-- app_rozetka -->
     <item component="ComponentInfo{pl.rozetka.shop/ua.com.rozetka.shop.ui.MainActivity}" drawable="app_rozetka" />
@@ -821,7 +821,7 @@
 	<item component="ComponentInfo{ua.com.rozetka.shop/ua.com.rozetka.shop.ui.MainActivity}" drawable="app_rozetka" />
 
   <!-- UA Railways -->
-    <item component="ComponentInfo{ua.gov.uz/com.ua.railways.ui.splash.SplashActivity}" drawable="app_ua_railways" />
+  <item component="ComponentInfo{ua.gov.uz/com.ua.railways.ui.splash.SplashActivity}" drawable="app_ua_railways" />
 
   <!-- Vodafone -->
     <item component="ComponentInfo{au.com.vodafone.mobile.gss/com.vfmobileapp.MainActivity}" drawable="app_vodafone" />
@@ -831,10 +831,10 @@
 	<item component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.YanimdaAlias}" drawable="app_vodafone" />
 
   <!-- Waze -->
-    <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="app_waze" />
+  <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="app_waze" />
     
   <!-- Bump -->
-    <item component="ComponentInfo{co.amo.android.location/co.amo.location.Launch}" drawable="app_bump" />
+  <item component="ComponentInfo{co.amo.android.location/co.amo.location.Launch}" drawable="app_bump" />
 
   <!-- 21 Vek -->
   <item component="ComponentInfo{com.twentyonevek/com.twentyonevek.MainActivity}" drawable="app_21vek" />
@@ -1031,7 +1031,7 @@
 	<item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.activity.AlarmClockActivity}" drawable="sys_clock"/>
 	<item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.AlarmClock}" drawable="sys_clock"/>
 	<item component="ComponentInfo{com.transsion.deskclock/com.transsion.deskclock.DeskClock}" drawable="sys_clock"/>
-  <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="sys_clock" />
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="sys_clock" />
 
   <!-- Compass -->
     <item component="ComponentInfo{apps.r.compass/apps.r.compass.StartActivity}" drawable="sys_compass"/>

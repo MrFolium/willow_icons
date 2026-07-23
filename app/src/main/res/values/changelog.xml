@@ -6,7 +6,19 @@
     <string-array name="changelog">
 
         <item>
-            0_0
+            Added new icons for RU, BY, KZ and UZ regions.
+        </item>
+        <item>
+            Added new wallpapers.
+        </item>
+        <item>
+            The project documentation was improved.
+        </item>
+        <item>
+            Added script for working with requests
+        </item>
+        <item>
+            Minor corrections and additions
         </item>
 
     </string-array>
