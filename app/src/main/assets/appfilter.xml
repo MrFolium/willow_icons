@@ -42,7 +42,8 @@
   <item component="ComponentInfo{com.anthropic.claude/com.anthropic.claude.mainactivity.MainActivity}" drawable="app_claude" />
 
   <!-- Copilot -->
-  <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="app_microsoft_copilot" />
+	<item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="app_microsoft_copilot" />
+	<item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivityDefault}" drawable="app_microsoft_copilot" />
 
   <!-- Discord -->
   <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="app_discord" />
@@ -384,7 +385,8 @@
   <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="app_google_assistant"/>
 
   <!-- Google Meet-->
-  <item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="app_google_meet"/>
+	<item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="app_google_meet"/>
+	<item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="app_google_meet" />
 
   <!-- Google Sheets -->
   <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_sheets"/>
@@ -554,7 +556,8 @@
   <item component="ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}" drawable="app_iconrequest" />
 
   <!-- I.Y. Bank -->
-  <item component="ComponentInfo{com.ipakyulibank.mobile/com.ipakyulibank.mobile.LauncherDefault}" drawable="app_i_y_bank" />
+  	<item component="ComponentInfo{com.ipakyulibank.mobile/com.ipakyulibank.mobile.LauncherDefault}" drawable="app_i_y_bank" />
+  	<item component="ComponentInfo{com.ipakyulibank.mobile/com.ipakyulibank.mobile.LauncherFootball}" drawable="app_i_y_bank" /> <!-- temporarily -->
 
   <!-- Korona -->
   <item component="ComponentInfo{ru.tsk.ftc.bender.qpay/ru.ftc.qpay.app.hub.ui.HubActivity}" drawable="app_korona" />
@@ -626,7 +629,8 @@
   <item component="ComponentInfo{com.maxrave.simpmusic/com.maxrave.simpmusic.MainActivity}" drawable="app_simpmusic" />
 
   <!-- Uklon -->
-  <item component="ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Initial}" drawable="app_uklon" />
+  	<item component="ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Initial}" drawable="app_uklon" />
+	<item component="ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Default}" drawable="app_uklon" />
 
   <!-- WB Taxi -->
   <item component="ComponentInfo{uz.wildberries.taxi.client/com.citymobil.ui.SplashActivity}" drawable="app_wb_taxi" />
@@ -739,29 +743,29 @@
 	<item component="ComponentInfo{ru.vtb24.mobilebanking.android/ru.vtb.feature.signup.impl.loading.presentation.view.LoadingScreenActivity}" drawable="app_vtb_bank" />
 
   <!-- Yandex Pay -->
-  <item component="ComponentInfo{com.yandex.bank/com.yandex.bank.screens.MainActivity}" drawable="app_yandex_pay" />
+  	<item component="ComponentInfo{com.yandex.bank/com.yandex.bank.screens.MainActivity}" drawable="app_yandex_pay" />
 
   <!-- Yoo Money -->
-  <item component="ComponentInfo{ru.yoo.kassa/ru.yoo.kassa.rootScreen.view.RootActivity}" drawable="app_yoo_money" />
+  	<item component="ComponentInfo{ru.yoo.kassa/ru.yoo.kassa.rootScreen.view.RootActivity}" drawable="app_yoo_money" />
 
   <!-- System Update -->
-  	<item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="sys_update" />
-  	<item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.activity.DownloadListEntry}" drawable="sys_update" />
+  <item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="sys_update" />
+  <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.activity.DownloadListEntry}" drawable="sys_update" />
 
   <!-- System Defender -->
-  	<item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="sys_defender" />
-  	<item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="sys_defender" />
+  <item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="sys_defender" />
+  <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="sys_defender" />
 
   <!-- System Games -->
-  	<item component="ComponentInfo{com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity}" drawable="sys_games" />
-  	<item component="ComponentInfo{com.xiaomi.glgm/com.mig.play.Icon0}" drawable="sys_games" />
+  <item component="ComponentInfo{com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity}" drawable="sys_games" />
+  <item component="ComponentInfo{com.xiaomi.glgm/com.mig.play.Icon0}" drawable="sys_games" />
 
   <!-- System Health -->
   <item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="sys_health" />
 
   <!-- System Support -->
-	<item component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}" drawable="sys_support" />
-	<item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity}" drawable="sys_support" />
+  <item component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}" drawable="sys_support" />
+  <item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity}" drawable="sys_support" />
 
   <!-- LibreTube -->
     <item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="app_libretube" />
@@ -1031,7 +1035,7 @@
 	<item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.activity.AlarmClockActivity}" drawable="sys_clock"/>
 	<item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.AlarmClock}" drawable="sys_clock"/>
 	<item component="ComponentInfo{com.transsion.deskclock/com.transsion.deskclock.DeskClock}" drawable="sys_clock"/>
-  <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="sys_clock" />
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="sys_clock" />
 
   <!-- Compass -->
     <item component="ComponentInfo{apps.r.compass/apps.r.compass.StartActivity}" drawable="sys_compass"/>

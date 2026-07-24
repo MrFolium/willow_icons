@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="changelog_date">30 February 6202</string>
+    <string name="changelog_date">24 July 2026</string>
 
     <string-array name="changelog">
 
         <item>
-            Added new icons for RU, BY, KZ and UZ regions.
+            Added new icons for RU, BY, KZ, UA and UZ regions.
         </item>
         <item>
             Added new wallpapers.

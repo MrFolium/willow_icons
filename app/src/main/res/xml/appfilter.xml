@@ -42,7 +42,8 @@
   <item component="ComponentInfo{com.anthropic.claude/com.anthropic.claude.mainactivity.MainActivity}" drawable="app_claude" />
 
   <!-- Copilot -->
-  <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="app_microsoft_copilot" />
+	<item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="app_microsoft_copilot" />
+	<item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivityDefault}" drawable="app_microsoft_copilot" />
 
   <!-- Discord -->
   <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="app_discord" />
@@ -384,7 +385,8 @@
   <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="app_google_assistant"/>
 
   <!-- Google Meet-->
-  <item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="app_google_meet"/>
+	<item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="app_google_meet"/>
+	<item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="app_google_meet" />
 
   <!-- Google Sheets -->
   <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="app_google_sheets"/>
@@ -554,7 +556,8 @@
   <item component="ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}" drawable="app_iconrequest" />
 
   <!-- I.Y. Bank -->
-  <item component="ComponentInfo{com.ipakyulibank.mobile/com.ipakyulibank.mobile.LauncherDefault}" drawable="app_i_y_bank" />
+  	<item component="ComponentInfo{com.ipakyulibank.mobile/com.ipakyulibank.mobile.LauncherDefault}" drawable="app_i_y_bank" />
+  	<item component="ComponentInfo{com.ipakyulibank.mobile/com.ipakyulibank.mobile.LauncherFootball}" drawable="app_i_y_bank" /> <!-- temporarily -->
 
   <!-- Korona -->
   <item component="ComponentInfo{ru.tsk.ftc.bender.qpay/ru.ftc.qpay.app.hub.ui.HubActivity}" drawable="app_korona" />
@@ -626,7 +629,8 @@
   <item component="ComponentInfo{com.maxrave.simpmusic/com.maxrave.simpmusic.MainActivity}" drawable="app_simpmusic" />
 
   <!-- Uklon -->
-  <item component="ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Initial}" drawable="app_uklon" />
+  	<item component="ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Initial}" drawable="app_uklon" />
+	<item component="ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Default}" drawable="app_uklon" />
 
   <!-- WB Taxi -->
   <item component="ComponentInfo{uz.wildberries.taxi.client/com.citymobil.ui.SplashActivity}" drawable="app_wb_taxi" />
