@@ -21,18 +21,43 @@ Contributions of all kinds are welcome, whether icons, code, documentation, or i
 # Icon Design Rules
 
 ## Base Shape System
+
 ![base shape system](resources/preview/base_shape_system.png)
+
 All icons in Willow Icons use the same base shape system.
 
 ### Required Parameters
 
-* Icon size: **168×168 px**
+* Base shape size: **168×168 px**
 * Corner radius: **42 px**
 * Canvas size: **192×192 px**
 * Padding: **12 px** on each side
-* Icons must be centered on the canvas
+* Base shapes must be centered on the canvas
 
-The outer silhouette must remain visually consistent across the entire icon pack.
+The base shape silhouette must remain visually consistent across the entire icon pack.
+
+---
+
+## Glyph Templates
+
+![glyph templates](resources/preview/glyph_templates.png)
+
+To maintain consistent visual weight between icons, foreground objects should follow the standard glyph templates whenever possible.
+
+### Standard Templates
+
+* Square: **98×98 px**
+* Circle: **108×108 px**
+* Horizontal Rectangle: **112×56 px**
+
+### Guidelines
+
+* Glyphs should be centered within the base shape.
+* The templates are visual references intended to maintain optical balance.
+* Minor adjustments are allowed when necessary to improve recognizability or composition.
+* Complex logos may deviate from the templates when strict adherence would negatively affect the design.
+* When in doubt, prioritize visual consistency over mathematical scaling.
+
 
 ---
 
@@ -48,7 +73,7 @@ All icons must use the official Willow color palette.
 * Keep the visual style soft and balanced
 
 
-| Color | Primary | Dark |
+| Color | Light | Dark |
 |---------|---------|---------|
 | Blue | $\textcolor{#5F97C9}{\textsf{⬤}}$ `#5F97C9` | $\textcolor{#3F79AD}{\textsf{⬤}}$ `#3F79AD` |
 | Indigo | $\textcolor{#6F7FC0}{\textsf{⬤}}$ `#6F7FC0` | $\textcolor{#4F5F9F}{\textsf{⬤}}$ `#4F5F9F` |
@@ -62,10 +87,21 @@ All icons must use the official Willow color palette.
 | Pink | $\textcolor{#C07FA0}{\textsf{⬤}}$ `#C07FA0` | $\textcolor{#9F5F7F}{\textsf{⬤}}$ `#9F5F7F` |
 | Brown | $\textcolor{#9F897A}{\textsf{⬤}}$ `#9F897A` | $\textcolor{#7F6B5D}{\textsf{⬤}}$ `#7F6B5D` |
 | Gray | $\textcolor{#8A8F98}{\textsf{⬤}}$ `#8A8F98` | $\textcolor{#6B7078}{\textsf{⬤}}$ `#6B7078` |
-| Neutral | $\textcolor{#F4F5F7}{\textsf{⬤}}$ `#F4F5F7` | $\textcolor{#32363B}{\textsf{⬤}}$ `#32363B` |
+| White | $\textcolor{#F4F5F7}{\textsf{⬤}}$ `#F4F5F7` | $\textcolor{#C2C8D0}{\textsf{⬤}}$ `#C2C8D0` |
+| Black | $\textcolor{#4B5158}{\textsf{⬤}}$ `#4B5158` | $\textcolor{#32363B}{\textsf{⬤}}$ `#32363B` |
 
 
 ---
+
+## Shadow Guidelines
+
+In most cases, it is recommended to use the standard shadow settings to maintain a consistent style across the icon pack.
+
+However, some icons may require slight deviations from the standard when the shadow visually blends into the object, appears too soft, or feels too large for dense or finely detailed compositions.
+
+Below are several typical shadow presets that can be used in such cases.
+
+![shadow guidelines](resources/preview/shadow_guidelines.png)
 
 # File Formats
 

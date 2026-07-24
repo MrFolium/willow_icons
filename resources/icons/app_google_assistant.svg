@@ -7,11 +7,11 @@
 <path d="M138.219 83.3339C141.964 83.3339 144.999 80.2985 144.999 76.554C144.999 72.8096 141.964 69.7742 138.219 69.7742C134.475 69.7742 131.439 72.8096 131.439 76.554C131.439 80.2985 134.475 83.3339 138.219 83.3339Z" fill="#4F9B7A"/>
 </g>
 <defs>
-<filter id="filter0_d_370_2906" x="47" y="51.8999" width="103.6" height="94.3549" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_370_2906" x="47" y="51.8999" width="105" height="95.7549" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2906"/>

@@ -12,8 +12,8 @@ android {
         applicationId 'com.mrfolium.willowicons'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 2
-        versionName '2.1 Metro'
+        versionCode 3
+        versionName '2.2 Jellyfish'
     }
 
     signingConfigs {

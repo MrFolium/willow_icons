@@ -1,14 +1,14 @@
 <svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="12" y="12" width="168" height="168" rx="42" fill="#F4F5F7"/>
 <g filter="url(#filter0_d_370_2925)">
-<path d="M109.454 62.0703C115.14 53.2058 126.926 50.6344 135.779 56.3268L136.241 56.6232C145.094 62.3158 147.662 74.1171 141.977 82.9818L112.315 129.23C106.63 138.094 94.8435 140.666 85.9899 134.973C85.9899 134.973 85.5692 134.703 85.5289 134.677C85.4886 134.651 85.409 134.598 85.409 134.598C85.409 134.598 80.5675 131.024 78.8542 128.353L50.023 83.3994C44.3377 74.5348 46.9059 62.734 55.7593 57.0415L56.2209 56.7451C65.0745 51.0525 76.8604 53.6239 82.5458 62.4886L95.8654 83.2565L109.454 62.0703Z" fill="#4F5F9F"/>
+<path d="M109.583 63.0703C115.281 54.2058 127.091 51.6344 135.963 57.3268L136.425 57.6232C145.297 63.3158 147.871 75.1171 142.174 83.9818L112.451 130.23C106.754 139.094 94.9426 141.666 86.0707 135.973C86.0707 135.973 85.6491 135.703 85.6087 135.677C85.5683 135.651 85.4885 135.598 85.4885 135.598C85.4885 135.598 80.637 132.024 78.9202 129.353L50.0292 84.3994C44.3322 75.5348 46.9057 63.734 55.7774 58.0415L56.24 57.7451C65.1119 52.0525 76.9222 54.6239 82.6194 63.4886L95.9666 84.2565L109.583 63.0703Z" fill="#4F5F9F"/>
 </g>
 <defs>
-<filter id="filter0_d_370_2925" x="47" y="53.3" width="103.6" height="90.3" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_370_2925" x="47" y="54.3" width="105.203" height="91.7" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2.8" dy="2.8"/>
-<feGaussianBlur stdDeviation="1.4"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="1.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_370_2925"/>

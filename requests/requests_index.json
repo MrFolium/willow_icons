@@ -1,0 +1,296 @@
+{
+  "ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}": {
+    "name": "Диспетчер телефона",
+    "component": "ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}",
+    "drawable": "диспетчер_телефона",
+    "count": 1
+  },
+  "ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}": {
+    "name": "Заметки",
+    "component": "ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}",
+    "drawable": "заметки",
+    "count": 1
+  },
+  "ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}": {
+    "name": "Здоровье",
+    "component": "ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}",
+    "drawable": "здоровье",
+    "count": 1
+  },
+  "ComponentInfo{org.fossify.keyboard/org.fossify.keyboard.activities.SplashActivity.Green}": {
+    "name": "Клавиатура",
+    "component": "ComponentInfo{org.fossify.keyboard/org.fossify.keyboard.activities.SplashActivity.Green}",
+    "drawable": "клавиатура",
+    "count": 1
+  },
+  "ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}": {
+    "name": "Клавиатура Microsoft SwiftKey",
+    "component": "ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}",
+    "drawable": "клавиатура_microsoft_swiftkey",
+    "count": 1
+  },
+  "ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}": {
+    "name": "Обновление ПО",
+    "component": "ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}",
+    "drawable": "обновление_по",
+    "count": 1
+  },
+  "ComponentInfo{org.fossify.home/org.fossify.home.activities.SplashActivity.Green}": {
+    "name": "Рабочий стол",
+    "component": "ComponentInfo{org.fossify.home/org.fossify.home.activities.SplashActivity.Green}",
+    "drawable": "рабочии_стол",
+    "count": 1
+  },
+  "ComponentInfo{com.huawei.HwMultiScreenShot/com.android.systemui.flashlight.FlashlightActivity}": {
+    "name": "Фонарик",
+    "component": "ComponentInfo{com.huawei.HwMultiScreenShot/com.android.systemui.flashlight.FlashlightActivity}",
+    "drawable": "фонарик",
+    "count": 1
+  },
+  "ComponentInfo{com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity}": {
+    "name": "Центр игр",
+    "component": "ComponentInfo{com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity}",
+    "drawable": "центр_игр",
+    "count": 1
+  },
+  "ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}": {
+    "name": "Action Launcher",
+    "component": "ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}",
+    "drawable": "action_launcher",
+    "count": 1
+  },
+  "ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}": {
+    "name": "Apex Launcher",
+    "component": "ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}",
+    "drawable": "apex_launcher",
+    "count": 1
+  },
+  "ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}": {
+    "name": "AppGallery",
+    "component": "ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}",
+    "drawable": "appgallery",
+    "count": 1
+  },
+  "ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}": {
+    "name": "Arcticons",
+    "component": "ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}",
+    "drawable": "arcticons",
+    "count": 1
+  },
+  "ComponentInfo{uz.genesis.asop/uz.genesis.asop.MainIcon}": {
+    "name": "ATTO",
+    "component": "ComponentInfo{uz.genesis.asop/uz.genesis.asop.MainIcon}",
+    "drawable": "atto",
+    "count": 1
+  },
+  "ComponentInfo{com.beforesoft.launcher/com.beforesoftware.launcher.activities.LauncherActivity}": {
+    "name": "Before Launcher",
+    "component": "ComponentInfo{com.beforesoft.launcher/com.beforesoftware.launcher.activities.LauncherActivity}",
+    "drawable": "before_launcher",
+    "count": 1
+  },
+  "ComponentInfo{com.blockdrop.game/com.blockdrop.game.MainActivity}": {
+    "name": "Block Drop",
+    "component": "ComponentInfo{com.blockdrop.game/com.blockdrop.game.MainActivity}",
+    "drawable": "block_drop",
+    "count": 1
+  },
+  "ComponentInfo{com.froxot.cuscon.foss/com.froxot.cuscon.activities.MainActivity}": {
+    "name": "cuscon",
+    "component": "ComponentInfo{com.froxot.cuscon.foss/com.froxot.cuscon.activities.MainActivity}",
+    "drawable": "cuscon",
+    "count": 1
+  },
+  "ComponentInfo{website.leifs.delta.foss/website.leifs.delta.activities.MainActivity}": {
+    "name": "Delta",
+    "component": "ComponentInfo{website.leifs.delta.foss/website.leifs.delta.activities.MainActivity}",
+    "drawable": "delta",
+    "count": 1
+  },
+  "ComponentInfo{com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}": {
+    "name": "Discreet Launcher",
+    "component": "ComponentInfo{com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}",
+    "drawable": "discreet_launcher",
+    "count": 1
+  },
+  "ComponentInfo{me.x2gd4.dollphone/me.x2gd4.dollphone.activities.MainActivity}": {
+    "name": "Dollphone",
+    "component": "ComponentInfo{me.x2gd4.dollphone/me.x2gd4.dollphone.activities.MainActivity}",
+    "drawable": "dollphone",
+    "count": 1
+  },
+  "ComponentInfo{com.dede.android_eggs/com.dede.android_eggs.views.main.EasterEggsActivity}": {
+    "name": "Easter Eggs",
+    "component": "ComponentInfo{com.dede.android_eggs/com.dede.android_eggs.views.main.EasterEggsActivity}",
+    "drawable": "easter_eggs",
+    "count": 1
+  },
+  "ComponentInfo{me.robbyblue.mylauncher/me.robbyblue.mylauncher.MainActivity}": {
+    "name": "folder launcher",
+    "component": "ComponentInfo{me.robbyblue.mylauncher/me.robbyblue.mylauncher.MainActivity}",
+    "drawable": "folder_launcher",
+    "count": 1
+  },
+  "ComponentInfo{com.maxpatchs.freehepta/com.maxpatchs.freehepta.activities.MainActivity}": {
+    "name": "Free Hepta",
+    "component": "ComponentInfo{com.maxpatchs.freehepta/com.maxpatchs.freehepta.activities.MainActivity}",
+    "drawable": "free_hepta",
+    "count": 1
+  },
+  "ComponentInfo{com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity}": {
+    "name": "HUAWEI Видео",
+    "component": "ComponentInfo{com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity}",
+    "drawable": "huawei_видео",
+    "count": 1
+  },
+  "ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}": {
+    "name": "IconRequest",
+    "component": "ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}",
+    "drawable": "iconrequest",
+    "count": 1
+  },
+  "ComponentInfo{com.ipakyulibank.mobile/com.ipakyulibank.mobile.LauncherDefault}": {
+    "name": "Ipak Yuli Mobile",
+    "component": "ComponentInfo{com.ipakyulibank.mobile/com.ipakyulibank.mobile.LauncherDefault}",
+    "drawable": "ipak_yuli_mobile",
+    "count": 1
+  },
+  "ComponentInfo{ru.tsk.ftc.bender.qpay/ru.ftc.qpay.app.hub.ui.HubActivity}": {
+    "name": "Korona",
+    "component": "ComponentInfo{ru.tsk.ftc.bender.qpay/ru.ftc.qpay.app.hub.ui.HubActivity}",
+    "drawable": "korona",
+    "count": 1
+  },
+  "ComponentInfo{com.powerpoint45.launcher/com.powerpoint45.launcherpro.MainActivity}": {
+    "name": "Lucid Launcher",
+    "component": "ComponentInfo{com.powerpoint45.launcher/com.powerpoint45.launcherpro.MainActivity}",
+    "drawable": "lucid_launcher",
+    "count": 1
+  },
+  "ComponentInfo{rasel.lunar.launcher/rasel.lunar.launcher.LauncherActivity}": {
+    "name": "Lunar Launcher",
+    "component": "ComponentInfo{rasel.lunar.launcher/rasel.lunar.launcher.LauncherActivity}",
+    "drawable": "lunar_launcher",
+    "count": 1
+  },
+  "ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}": {
+    "name": "Meet",
+    "component": "ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}",
+    "drawable": "meet",
+    "count": 1
+  },
+  "ComponentInfo{io.anuke.mindustry/mindustry.android.AndroidLauncher}": {
+    "name": "Mindustry",
+    "component": "ComponentInfo{io.anuke.mindustry/mindustry.android.AndroidLauncher}",
+    "drawable": "mindustry",
+    "count": 1
+  },
+  "ComponentInfo{ee.dustland.android.minesweeper/ee.dustland.android.minesweeper.MinesweeperHostActivity}": {
+    "name": "Minesweeper",
+    "component": "ComponentInfo{ee.dustland.android.minesweeper/ee.dustland.android.minesweeper.MinesweeperHostActivity}",
+    "drawable": "minesweeper",
+    "count": 1
+  },
+  "ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity}": {
+    "name": "My HUAWEI",
+    "component": "ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity}",
+    "drawable": "my_huawei",
+    "count": 1
+  },
+  "ComponentInfo{uz.uzinfocom.mygov/uz.uzinfocom.mygov.MainActivity}": {
+    "name": "MyGov",
+    "component": "ComponentInfo{uz.uzinfocom.mygov/uz.uzinfocom.mygov.MainActivity}",
+    "drawable": "mygov",
+    "count": 1
+  },
+  "ComponentInfo{uz.uzinfocom.myid/uz.uzinfocom.myid.MyIdActivity}": {
+    "name": "MyID O'zbekiston",
+    "component": "ComponentInfo{uz.uzinfocom.myid/uz.uzinfocom.myid.MyIdActivity}",
+    "drawable": "myid_ozbekiston",
+    "count": 1
+  },
+  "ComponentInfo{com.Arturo254.opentune/com.arturo254.opentune.MainActivity}": {
+    "name": "OpenTune",
+    "component": "ComponentInfo{com.Arturo254.opentune/com.arturo254.opentune.MainActivity}",
+    "drawable": "opentune",
+    "count": 1
+  },
+  "ComponentInfo{io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity}": {
+    "name": "Papirus Icon Pack",
+    "component": "ComponentInfo{io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity}",
+    "drawable": "papirus_icon_pack",
+    "count": 1
+  },
+  "ComponentInfo{de.markusfisch.android.pielauncher/de.markusfisch.android.pielauncher.activity.HomeActivity}": {
+    "name": "Pie Launcher",
+    "component": "ComponentInfo{de.markusfisch.android.pielauncher/de.markusfisch.android.pielauncher.activity.HomeActivity}",
+    "drawable": "pie_launcher",
+    "count": 1
+  },
+  "ComponentInfo{com.google.android.music/com.google.android.music.tombstone.LauncherActivity}": {
+    "name": "Play Музыка",
+    "component": "ComponentInfo{com.google.android.music/com.google.android.music.tombstone.LauncherActivity}",
+    "drawable": "play_музыка",
+    "count": 1
+  },
+  "ComponentInfo{com.wil.popcons/com.wil.popcons.activities.MainActivity}": {
+    "name": "Popcons",
+    "component": "ComponentInfo{com.wil.popcons/com.wil.popcons.activities.MainActivity}",
+    "drawable": "popcons",
+    "count": 1
+  },
+  "ComponentInfo{com.q.watt/com.q.watt.MainActivity}": {
+    "name": "q.watt",
+    "component": "ComponentInfo{com.q.watt/com.q.watt.MainActivity}",
+    "drawable": "qwatt",
+    "count": 1
+  },
+  "ComponentInfo{com.maxrave.simpmusic/com.maxrave.simpmusic.MainActivity}": {
+    "name": "SimpMusic",
+    "component": "ComponentInfo{com.maxrave.simpmusic/com.maxrave.simpmusic.MainActivity}",
+    "drawable": "simpmusic",
+    "count": 1
+  },
+  "ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity}": {
+    "name": "soundcore",
+    "component": "ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity}",
+    "drawable": "soundcore",
+    "count": 1
+  },
+  "ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}": {
+    "name": "Steam",
+    "component": "ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}",
+    "drawable": "steam",
+    "count": 1
+  },
+  "ComponentInfo{info.flowersoft.theotown.theotown/info.flowersoft.theotown.theotown.MainActivity}": {
+    "name": "TheoTown",
+    "component": "ComponentInfo{info.flowersoft.theotown.theotown/info.flowersoft.theotown.theotown.MainActivity}",
+    "drawable": "theotown",
+    "count": 1
+  },
+  "ComponentInfo{uz.ucell.ucellmobile/uz.ucell.app_ui.ui.splash.SplashScreenActivity}": {
+    "name": "Ucell",
+    "component": "ComponentInfo{uz.ucell.ucellmobile/uz.ucell.app_ui.ui.splash.SplashScreenActivity}",
+    "drawable": "ucell",
+    "count": 1
+  },
+  "ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Initial}": {
+    "name": "Uklon",
+    "component": "ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Initial}",
+    "drawable": "uklon",
+    "count": 1
+  },
+  "ComponentInfo{uz.uzum.app/ru.kazanexpress.feature.splash.presentation.SplashScreenActivity}": {
+    "name": "Uzum Market",
+    "component": "ComponentInfo{uz.uzum.app/ru.kazanexpress.feature.splash.presentation.SplashScreenActivity}",
+    "drawable": "uzum_market",
+    "count": 1
+  },
+  "ComponentInfo{uz.wildberries.taxi.client/com.citymobil.ui.SplashActivity}": {
+    "name": "WB TAXI",
+    "component": "ComponentInfo{uz.wildberries.taxi.client/com.citymobil.ui.SplashActivity}",
+    "drawable": "wb taxi",
+    "count": 1
+  }
+}

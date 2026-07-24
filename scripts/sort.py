@@ -19,43 +19,53 @@ def parse(path):
     return tree, tree.getroot()
 
 
+# fix: rebuild drawable.xml categories from scratch
+
 def sort_drawable_xml():
     tree, root = parse(DRAWABLE_XML)
-    items = root.findall(".//item")
 
-    apps = []
-    sys = []
+    app_icons = []
+    sys_icons = []
 
-    for item in items:
+    # Collect all drawable names
+    for item in root.findall(".//item"):
         drawable = item.get("drawable")
+
         if not drawable:
             continue
 
-        parent = next((p for p in root.iter() if item in list(p)), None)
-        if parent is not None:
-            parent.remove(item)
+
+
+
 
         if drawable.startswith(SYS_PREFIX):
-            sys.append(drawable)
+            sys_icons.append(drawable)
         else:
-            apps.append(drawable)
+            app_icons.append(drawable)
 
-    apps.sort()
-    sys.sort()
+    app_icons.sort()
+    sys_icons.sort()
+
+    for category in root.findall("category"):
+        root.remove(category)
 
     app_cat = ET.SubElement(root, "category", {"title": "App Icons"})
     sys_cat = ET.SubElement(root, "category", {"title": "System Icons"})
 
-    for d in apps:
-        ET.SubElement(app_cat, "item", {"drawable": d})
+    for drawable in app_icons:
+        ET.SubElement(app_cat, "item", {"drawable": drawable})
 
-    for d in sys:
-        ET.SubElement(sys_cat, "item", {"drawable": d})
+    for drawable in sys_icons:
+        ET.SubElement(sys_cat, "item", {"drawable": drawable})
 
     indent(root)
-    tree.write(DRAWABLE_XML, encoding="utf-8", xml_declaration=True)
+    tree.write(
+        DRAWABLE_XML,
+        encoding="utf-8",
+        xml_declaration=True
+    )
 
-    return len(apps), len(sys)
+    return len(app_icons), len(sys_icons)
 
 
 def indent(elem, level=0):
